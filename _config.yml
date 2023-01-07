@@ -15,11 +15,11 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "nl-NL"
+title                    : "Wandel4Daagse Oldenzaal"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : "De 60e Wandel4Daagse Oldenzaal wordt gehouden van dinsdag 7 juni t/m vrijdag 10 juni 2022" # site tagline that appears below site title in masthead
+name                     : "Wandel4Daagse Oldenzaal"
 description              : "An amazing website."
 url                      : https://koenzomers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
