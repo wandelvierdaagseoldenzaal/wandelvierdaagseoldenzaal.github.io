@@ -11,14 +11,14 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "nl-NL"
 title                    : "Wandel4Daagse Oldenzaal"
 title_separator          : "|"
-subtitle                 : "De 60e Wandel4Daagse Oldenzaal wordt gehouden van dinsdag 7 juni t/m vrijdag 10 juni 2022" # site tagline that appears below site title in masthead
+subtitle                 : "dinsdag 30 mei t/m vrijdag 2 juni 2023" # site tagline that appears below site title in masthead
 name                     : "Wandel4Daagse Oldenzaal"
 description              : "Website van de Wandel4Daagse in Oldenzaal met informatie over het evenement"
 url                      : https://w4d.koenzomers.nl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,6 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : koenzomers/koenzomers.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+biglogo                  : assets/images/logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -104,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Wandel4Daagse Oldenzaal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
@@ -230,6 +231,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - flatify
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -279,6 +281,13 @@ compress_html:
 
 # Defaults
 defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""
