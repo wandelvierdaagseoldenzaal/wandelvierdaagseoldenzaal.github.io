@@ -6,8 +6,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Nieuwe website",
-        "excerpt":"Nieuwe website!  ","categories": ["Post Formats"],
-        "tags": ["Post Formats","readability","standard"],
-        "url": "/post%20formats/nieuwe-website/",
+        "excerpt":"Nieuwe website!  ","categories": ["Website"],
+        "tags": ["website"],
+        "url": "/website/nieuwe-website/",
         "teaser": null
       }]
