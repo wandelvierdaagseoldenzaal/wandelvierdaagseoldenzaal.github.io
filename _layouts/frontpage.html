@@ -18,5 +18,15 @@ layout: default
     <section class="page__content" itemprop="text">
       {{ content }}
     </section>
+
+    <section id="LaatsteNieuws">
+      <h2>Laatste nieuws</h2>
+        <div class="entries-{{ entries_layout }}">
+          {% assign allposts = site.posts | where_exp: "item", "item.hidden != true" %}
+          {% for post in allposts limit:3 %}
+            {% include archive-single.html type=entries_layout %}
+          {% endfor %}
+        </div>
+    </section>   
   </article>
 </div>

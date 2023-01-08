@@ -870,7 +870,7 @@ nl: &DEFAULT_NL
   toc_label                  : "Op deze pagina"
   ext_link_label             : "Directe Link"
   less_than                  : "minder dan"
-  minute_read                : "minuut gelezen"
+  minute_read                : "minuut om te lezen"
   share_on_label             : "Deel op"
   meta_label                 :
   tags_label                 : "Labels:"
@@ -881,7 +881,7 @@ nl: &DEFAULT_NL
   more_label                 : "Meer informatie"
   related_label              : "Bekijk ook eens"
   follow_label               : "Volg:"
-  feed_label                 : "Feed"
+  feed_label                 : "RSS Feed"
   powered_by                 : "Aangedreven door"
   website_label              : "Website"
   email_label                : "Email"
