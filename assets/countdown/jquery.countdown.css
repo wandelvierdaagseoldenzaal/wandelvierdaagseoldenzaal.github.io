@@ -1,5 +1,4 @@
 .countdownHolder{
-	width:450px;
 	margin:0 auto;
 	font: 40px/1.5 'Open Sans Condensed',sans-serif;
 	text-align:center;
@@ -89,5 +88,4 @@
 	padding: 4px;
 	text-align: center;
 	text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
-	width: 400px;
 }
