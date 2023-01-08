@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Sponsoren
 permalink: /sponsoren/
 author_profile: false
 ---
