@@ -4,5 +4,13 @@ title: Sitemap
 permalink: /sitemap/
 author_profile: false
 ---
-A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
+
+* Mee doen
+  * [Informatie](/informatie)
+  * [Inschrijven](/inschrijven)
+  * [Routes](/routes)
+* Mogelijk maken
+  * [Sponsoren](/sponsoren)
+* Contact opnemen
+  * [Contact](/contact)
+  * [Organisatie](/contact/organisatie)
