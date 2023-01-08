@@ -6,6 +6,16 @@
   <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 {% endif %}
 
+{% if layout.enablecountdown == true %}
+    <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script src="/assets/countdown/jquery.countdown.js"></script>
+    <script type="text/javascript">
+      $('#countdown').countdown({
+		    timestamp: new Date("{{ layout.countdownto }}")
+    	});
+    </script>
+{% endif %}
+
 {% if site.search == true or page.layout == "search" %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
   {%- case search_provider -%}

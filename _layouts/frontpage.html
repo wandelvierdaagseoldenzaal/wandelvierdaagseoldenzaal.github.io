@@ -1,5 +1,7 @@
 ---
 layout: default
+enablecountdown: true
+countdownto: "2023-05-30 17:00:00"
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -21,12 +23,18 @@ layout: default
 
     <section id="LaatsteNieuws">
       <h2>Laatste nieuws</h2>
-        <div class="entries-{{ entries_layout }}">
+        <div class="entries-{{ entries_layout }} feature__wrapper">
           {% assign allposts = site.posts | where_exp: "item", "item.hidden != true" %}
           {% for post in allposts limit:3 %}
             {% include archive-single.html type=entries_layout %}
           {% endfor %}
         </div>
-    </section>   
+    </section>
+
+    {% if layout.enablecountdown == true %}
+      <section id="CountDownSection">
+        {% include countdown.html %}      
+      </section>
+    {% endif %}  
   </article>
 </div>

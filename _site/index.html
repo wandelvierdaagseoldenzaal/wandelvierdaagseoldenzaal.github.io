@@ -28,7 +28,7 @@
 
 
 
-  <meta property="og:image" content="http://localhost:4000/assets/images/header.jpg">
+  <meta property="og:image" content="http://localhost:4000/assets/images/banner.jpg">
 
 
 
@@ -89,6 +89,10 @@
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" />
+    <link rel="stylesheet" href="assets/countdown/jquery.countdown.css" />
 
 <!-- end custom head snippets -->
 
@@ -155,7 +159,7 @@
 
 
 <div class="page__hero--overlay"
-  style="background-color: #5e616c; background-image: url('/assets/images/header.jpg');"
+  style="background-color: #5e616c; background-image: url('/assets/images/banner.jpg');"
 >
   
     <div class="wrapper">
@@ -174,7 +178,7 @@
       
         <p>
         
-          <a href="/docs/quick-start-guide/" class="btn btn--light-outline btn--large"><i class='fas'></i> Aanmelden</a>
+          <a href="/inschrijven/" class="btn btn--light-outline btn--large"><i class='fas'></i> Aanmelden</a>
         
       
     </div>
@@ -311,7 +315,7 @@
 
     <section id="LaatsteNieuws">
       <h2>Laatste nieuws</h2>
-        <div class="entries-">
+        <div class="entries- feature__wrapper">
           
           
             
@@ -362,7 +366,16 @@
 
           
         </div>
-    </section>   
+    </section>
+
+    
+      <section id="CountDownSection">
+        <div>
+  <p id="countdownNote">De 60<sup>e</sup> editie van de Wandel4Daagse Oldenzaal begint over</p>
+  <div id="countdown"></div>
+</div>      
+      </section>
+      
   </article>
 </div>
 
@@ -429,6 +442,16 @@
 
     
   <script src="/assets/js/main.min.js"></script>
+
+
+
+    <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script src="/assets/countdown/jquery.countdown.js"></script>
+    <script type="text/javascript">
+      $('#countdown').countdown({
+		    timestamp: new Date("2023-05-30 17:00:00")
+    	});
+    </script>
 
 
 
