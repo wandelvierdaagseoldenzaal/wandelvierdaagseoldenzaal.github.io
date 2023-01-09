@@ -60,7 +60,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://instfacebookagram.com/wandel4daagse
+      url: https://www.facebook.com/Wandel4DaagseOldenzaal
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -153,7 +153,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://instagram.com/wandel4daagse
+      url: https://www.instagram.com/explore/tags/wandel4daagseoldenzaal/
+    - label: "RSS Feed"
+      icon: "fas fa-fw fa-rss-square"
+      url: /feed.xml
     - label: "Sitemap"
       icon: "far fa-map"
       url: /sitemap/
@@ -307,4 +310,4 @@ defaults:
       comments: # true
       share: true
       related: true
-      show_date: true
+      show_date: true     

@@ -5,5 +5,16 @@ permalink: /contact/
 author_profile: false
 ---
 
-A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
+Stichting Avondvierdaagse Oldenzaal<br/>
+KvK: [41028996](https://www.kvk.nl/orderstraat/bedrijf-kiezen/?orig=#!shop?&q=41028996&start=0&prefproduct=&prefpayment=)<br/>
+Bank: NL 08 RABO 0130301272
+
+Voor al uw vragen over ons evenement kunt u mailen naar [info@wandel4daagseoldenzaal.nl](mailto:info@wandel4daagseoldenzaal.nl)
+
+De [organisatie](/organisatie/) van de Wandel4Daagse Oldenzaal wordt mogelijk gemaakt door onze fantastische [sponsoren](/sponsoren/).
+
+## Voorwaarden
+
+Uw aangekochte kaarten kunnen niet vergoed worden als u niet meedoet. Ook bij onverwachte omstandigheden waar de organisatie geen invloed op heeft is het niet vanzelfsprekend dat de voorinschrijving teruggestort wordt.
+
+Voor ons [privacybeleid](/privacy/) verwijzen wij u naar onze website.

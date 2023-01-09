@@ -4,5 +4,5 @@ title: Foto's
 permalink: /fotos/
 author_profile: false
 ---
-A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
+
+De foto's van het evenement zullen hier worden gepubliceerd.

@@ -5,12 +5,16 @@ permalink: /sitemap/
 author_profile: false
 ---
 
-* Mee doen
+* Meedoen
   * [Informatie](/informatie)
   * [Inschrijven](/inschrijven)
   * [Routes](/routes)
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
+* Voorwaarden
+  * [Privacy reglement](/privacy)
+* Foto's
+  * [Foto's](/fotos)
 * Contact opnemen
   * [Contact](/contact)
-  * [Organisatie](/contact/organisatie)
+  * [Organisatie](/organisatie)

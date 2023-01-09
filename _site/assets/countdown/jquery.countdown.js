@@ -39,22 +39,22 @@
 			
 			// Number of days left
 			d = Math.floor(left / days);
-			updateDuo(0, 1, d);
+			updateTrio(0, d);
 			left -= d*days;
 			
 			// Number of hours left
 			h = Math.floor(left / hours);
-			updateDuo(2, 3, h);
+			updateDuo(3, 4, h);
 			left -= h*hours;
 			
 			// Number of minutes left
 			m = Math.floor(left / minutes);
-			updateDuo(4, 5, m);
+			updateDuo(5, 6, m);
 			left -= m*minutes;
 			
 			// Number of seconds left
 			s = left;
-			updateDuo(6, 7, s);
+			updateDuo(7, 8, s);
 			
 			// Calling an optional user supplied callback
 			options.callback(d, h, m, s);
@@ -62,6 +62,13 @@
 			// Scheduling another call of this function in 1s
 			setTimeout(tick, 1000);
 		})();
+
+		// This function updates three digit positions at once
+		function updateTrio(position, value) {
+			switchDigit(positions.eq(position),Math.floor(value/100)%100);
+			switchDigit(positions.eq(position + 1),Math.floor(value/10)%10);
+			switchDigit(positions.eq(position + 2),value%10);
+		}
 		
 		// This function updates two digit positions at once
 		function updateDuo(minor,major,value){
@@ -78,7 +85,11 @@
 
 		// Creating the markup inside the container
 		$.each(['Days','Hours','Minutes','Seconds'],function(i){
-			$('<span class="count'+this+'">').html(
+			$('<span class="count' + this + '">').html(
+				(this == 'Days' ? 
+				'<span class="position">\
+					<span class="digit static">0</span>\
+				</span>' : '') +
 				'<span class="position">\
 					<span class="digit static">0</span>\
 				</span>\

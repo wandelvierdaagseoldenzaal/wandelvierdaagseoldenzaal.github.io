@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/organisatie/organisatie-van-start/</loc>
+<loc>http://localhost:4000/nieuws/organisatie-van-start/</loc>
 <lastmod>2023-01-08T03:05:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/website/nieuwe-website/</loc>
+<loc>http://localhost:4000/nieuws/nieuwe-website/</loc>
 <lastmod>2023-01-08T03:05:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/contact/</loc>
@@ -27,6 +30,12 @@
 <loc>http://localhost:4000/nieuws/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/organisatie/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/privacy/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/routes/</loc>
 </url>
 <url>
@@ -34,5 +43,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/sponsoren/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/</loc>
 </url>
 </urlset>
