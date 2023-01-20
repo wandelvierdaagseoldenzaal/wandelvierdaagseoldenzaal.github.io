@@ -1,5 +1,5 @@
 ---
 layout: categories
-title: "Nieuws categoriën"
+title: "Berichten"
 permalink: /categories/
 ---
