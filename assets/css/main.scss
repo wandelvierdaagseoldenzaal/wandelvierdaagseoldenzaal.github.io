@@ -7,3 +7,15 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.btn-green {
+    background-color: #88C738;
+}
+
+a.btn-green:visited {
+    color: #ffffff;
+}
+
+a.btn-green:hover {
+    background-color: #96D14A;
+}

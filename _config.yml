@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : "dinsdag 30 mei t/m vrijdag 2 juni 2023" # site tagline that appears below site title in masthead
 name                     : "Wandel4Daagse Oldenzaal"
 description              : "Website van de Wandel4Daagse in Oldenzaal met informatie over het evenement"
-url                      : https://wandelvierdaagseoldenzaal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://w4d.koenzomers.nl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : wandelvierdaagseoldenzaal/wandelvierdaagseoldenzaal.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -98,11 +98,12 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : microsoftclarity # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
-
+  microsoft:
+    tracking_id          : "fhelc1mvq0"
 
 # Site Author
 author:
@@ -154,6 +155,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/explore/tags/wandel4daagseoldenzaal/
+    - label: "Komoot"
+      img: assets/images/komoot.png
+      url: https://www.komoot.nl/user/3212223211369    
     - label: "RSS Feed"
       icon: "fas fa-fw fa-rss-square"
       url: /feed.xml

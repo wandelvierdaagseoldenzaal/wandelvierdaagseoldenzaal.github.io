@@ -4,8 +4,14 @@
       {
         "type": "edge",
         "request": "attach",
-        "name": "Attach",
-        "preLaunchTask": "jekyll"
-      }
+        "name": "Attach Development",
+        "preLaunchTask": "jekyll dev"
+      },
+      {
+        "type": "edge",
+        "request": "attach",
+        "name": "Attach Production",
+        "preLaunchTask": "jekyll production"
+      }      
     ]
   }
