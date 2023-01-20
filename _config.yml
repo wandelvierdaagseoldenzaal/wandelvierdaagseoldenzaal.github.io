@@ -156,7 +156,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/explore/tags/wandel4daagseoldenzaal/
     - label: "Komoot"
-      img: assets/images/komoot.png
+      img: /assets/images/komoot.png
       url: https://www.komoot.nl/user/3212223211369    
     - label: "RSS Feed"
       icon: "fas fa-fw fa-rss-square"

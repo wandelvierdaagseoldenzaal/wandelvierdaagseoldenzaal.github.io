@@ -10,4 +10,16 @@ var store = [{
         "tags": ["website"],
         "url": "/nieuws/nieuwe-website/",
         "teaser": null
+      },{
+        "title": "Heisterkamp Korte route",
+        "excerpt":"Makkelijke wandeling. Geschikt voor elk fitnessniveau. Makkelijk begaanbare paden. Geschikt voor elk niveau. Routebeschrijving Startpunt Noordergrensweg (bij het fietspad langs de N733, bij de McDonald’s) Neem het eerste onverharde pad links af (langs/over het lage hek). Aan het einde van het pad rechtsaf. Na het bruggetje het 1e onverharde pad...","categories": ["wandelroutes"],
+        "tags": ["wandelroute","makkelijk niveau","maximaal 2 uur"],
+        "url": "/wandelroutes/heisterkamp-korte-route/",
+        "teaser": null
+      },{
+        "title": "Heisterkamp Lange route",
+        "excerpt":"Gemiddelde wandeling. Goede conditie vereist. Makkelijk begaanbare paden. Geschikt voor elk niveau. Routebeschrijving Startpunt Noordergrensweg (bij het fietspad langs de N733, bij de McDonald’s) Neem het eerste onverharde pad links af (langs/over het lage hek). Aan het einde van het pad rechtsaf. Na het bruggetje het 1e onverharde pad linksaf...","categories": ["wandelroutes"],
+        "tags": ["wandelroute","gemiddeld niveau","maximaal 3 uur"],
+        "url": "/wandelroutes/heisterkamp-lange-route/",
+        "teaser": null
       }]
