@@ -1,3 +1,4 @@
+CLARITY {{ jekyll.environment }}
 {% if jekyll.environment == 'production' and site.analytics.provider and page.analytics != false %}
 
 {% case site.analytics.provider %}
@@ -7,6 +8,8 @@
   {% include /analytics-providers/google-universal.html %}
 {% when "google-gtag" %}
   {% include /analytics-providers/google-gtag.html %}
+{% when "microsoftclarity" %}
+  {% include /analytics-providers/microsoftclarity.html %}  
 {% when "custom" %}
   {% include /analytics-providers/custom.html %}
 {% endcase %}

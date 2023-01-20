@@ -3,7 +3,7 @@
     "tasks": [
       {
         "label": "jekyll",
-        "command": "bundle exec jekyll serve",
+        "command": "$env:JEKYLL_ENV='production'; bundle exec jekyll serve",
         "type": "shell"
       }
     ]
