@@ -1,0 +1,21 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign walkingroutes = site.categories | where_exp:"item", "item[0] == 'wandelroutes'" %}
+
+{{ walkingroutes.length }}
+{% for category in site.categories  %}
+    {% if category[0] == 'wandelroutes' %}
+      <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
+        <div class="entries-{{ entries_layout }}">
+          {% for post in category[1] %}
+            {% include archive-single.html type=entries_layout %}
+          {% endfor %}
+        </div>
+        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+      </section>
+    {% endif %}
+  {% endfor %}

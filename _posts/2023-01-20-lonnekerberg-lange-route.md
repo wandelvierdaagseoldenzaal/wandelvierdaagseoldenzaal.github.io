@@ -1,8 +1,11 @@
 ---
 title: "Lonnekerberg Lange route"
 last_modified_at: 2023-01-20T22:35:00+01:00
+show_date: false
 layout: route
 komoot_tour_id: 993655190
+walking_duration: "2:50"
+walking_distance: "11 km"
 read_time: false
 categories:
   - wandelroutes

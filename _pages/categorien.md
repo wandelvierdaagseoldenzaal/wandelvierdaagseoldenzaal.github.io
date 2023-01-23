@@ -1,5 +1,5 @@
 ---
 layout: categories
 title: "Berichten"
-permalink: /categories/
+permalink: /berichten/
 ---

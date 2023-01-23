@@ -1,8 +1,11 @@
 ---
 title: "Lonnekerberg Korte route"
 last_modified_at: 2023-01-20T22:35:00+01:00
+show_date: false
 layout: route
 komoot_tour_id: 993655084
+walking_duration: "1:30"
+walking_distance: "5,5 km"
 read_time: false
 categories:
   - wandelroutes

@@ -9,7 +9,12 @@
   {% assign path_type = nil %}
   {% assign crumb_path = '/' %}
 {% else %}
-  {% assign crumb_path = site.category_archive.path %}
+  {% if page.layout == 'route'}
+    {% assign path_type = nil %}
+    {% assign crumb_path = '/wandelroutes/' %}
+  {% else %}
+    {% assign crumb_path = site.category_archive.path %}
+  {% endif %}
 {% endif %}
 
 <nav class="breadcrumbs">

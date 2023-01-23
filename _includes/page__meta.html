@@ -1,5 +1,5 @@
 {% assign document = post | default: page %}
-{% if document.read_time or document.show_date %}
+{% if document.read_time or document.show_date or document.walking_duration or document.walking_distance %}
   <p class="page__meta">
     {% if document.show_date and document.date %}
       {% assign date = document.date %}
@@ -27,5 +27,20 @@
         {% endif %}
       </span>
     {% endif %}
+
+    {% if document.walking_duration %}
+      <span class="page__meta-walking page__meta-walkingduration">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        {{ document.walking_duration }}
+      </span>
+    {% endif %}
+
+    {% if document.walking_distance %}
+      <span class="page__meta-walking page__meta-walkinglength">
+        <i class="far fa-chart-bar" aria-hidden="true"></i>
+        {{ document.walking_distance }}
+      </span>
+    {% endif %}    
+    
   </p>
 {% endif %}

@@ -9,6 +9,7 @@ author_profile: false
   * [Informatie](/informatie)
   * [Inschrijven](/inschrijven)
   * [Routes](/routes)
+  * [Archief](/wandelroutes)
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
 * Voorwaarden
