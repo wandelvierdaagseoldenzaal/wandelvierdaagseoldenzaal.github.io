@@ -49,8 +49,12 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-        {% if page.komoot_tour_id %}<div><a href="https://www.komoot.nl/tour/{{ page.komoot_tour_id }}" class="btn btn-green" target="_blank">Bekijk in Komoot</a></div>{% endif %}
+
+        <div>
+          {% if page.link %}<div class="btn-sidebyside"><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+          {% if page.komoot_tour_id %}<div class="btn-sidebyside"><a href="https://www.komoot.nl/tour/{{ page.komoot_tour_id }}" class="btn btn-green" target="_blank">Bekijk in Komoot</a></div>{% endif %}
+          <div class="btn-sidebyside no-print"><a onclick="window.print();" class="btn btn-green" target="_blank">Afdrukken</a></div>
+        </div>
       </section>
 
       <footer class="page__meta">

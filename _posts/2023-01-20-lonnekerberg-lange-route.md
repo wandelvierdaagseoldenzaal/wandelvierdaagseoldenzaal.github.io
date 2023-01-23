@@ -27,7 +27,7 @@ Gemiddelde wandeling. Goede conditie vereist. Makkelijk begaanbare paden. Geschi
 1. Bij het brede pad (wandelroutepaal R81) linksaf.
 1. Bij het rood/witte hek rechtdoor.
 1. Rechtdoor tot wandelroutepaal X13 en daar rechtsaf.
-1. Pad volgen tot aan het einde (hek) bij wandelroutepaal R85 en daar linksaf ([korte route](../heisterkamp-korte-route) gaat hier rechtdoor)
+1. Pad volgen tot aan het einde (hek) bij wandelroutepaal R85 en daar linksaf ([korte route](../lonnekerberg-korte-route) gaat hier rechtdoor)
 1. Rechtdoor tot aan het bankje aan de rechterkant en dan linksaf (oranje/rode/blauwe route).
 1. Onverharde pad rechtsaf (oranje/rode/blauwe route).
 1. Aan het einde weer rechtsaf (oranje/rode/blauwe route).

@@ -27,7 +27,7 @@ Makkelijke wandeling. Geschikt voor elk fitnessniveau. Makkelijk begaanbare pade
 1. Bij het brede pad (wandelroutepaal R81) linksaf.
 1. Rechtdoor lopen, bij het rood/witte hek rechtdoor.
 1. Rechtdoor tot wandelroutepaal X13 en daar rechtsaf.
-1. Pad volgen tot aan het einde (hek) bij wandelroutepaal R85 en daar rechtdoor. ([lange route](../heisterkamp-lange-route) gaat hier linksaf)
+1. Pad volgen tot aan het einde (hek) bij wandelroutepaal R85 en daar rechtdoor. ([lange route](../lonnekerberg-lange-route) gaat hier linksaf)
 1. Rechtdoor tot wandelroutepaal R91 en daar rechtsaf.
 1. Op de kruising bij het witte hek linksaf.
 1. Weg helemaal blijven volgen tot aan het einde.

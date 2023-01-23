@@ -19,3 +19,20 @@ a.btn-green:visited, a.btn-green {
 a.btn-green:hover {
     background-color: #96D14A;
 }
+
+.btn-sidebyside {
+    float: left;
+    padding-right: 10px;
+}
+
+@media print {
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+
+    .breadcrumbs {
+        margin: 0 !important;
+    }
+}
+
