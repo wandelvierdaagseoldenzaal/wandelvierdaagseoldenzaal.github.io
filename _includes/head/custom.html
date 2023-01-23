@@ -1,6 +1,8 @@
 <!-- start custom head snippets -->
 
-<link rel="icon" type="image/x-icon" href="{{ site.favicon }}">
+{% if site.favicon %}
+    <link rel="icon" type="image/x-icon" href="{{ site.favicon }}">
+{% endif %}
 
 {% if layout.enablecountdown == true %}
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" />
