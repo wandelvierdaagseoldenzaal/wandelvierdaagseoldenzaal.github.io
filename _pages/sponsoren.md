@@ -14,6 +14,7 @@ sponsorlogos:
 - /assets/sponsors/MonkeyTown.png
 - /assets/sponsors/Partou.png
 - /assets/sponsors/Reerink.png
+- /assets/sponsors/Riteco.jpg
 classes: wide
 ---
 
