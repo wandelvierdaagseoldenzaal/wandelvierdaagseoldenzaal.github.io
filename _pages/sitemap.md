@@ -14,6 +14,7 @@ author_profile: false
   * [Sponsoren](/sponsoren)
 * Voorwaarden
   * [Privacy reglement](/privacy)
+  * [Voorwaarden](/voorwaarden)
 * Foto's
   * [Foto's](/fotos)
 * Contact opnemen
