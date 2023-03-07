@@ -11,5 +11,5 @@ Dit jaar wordt de Wandel4Daagse wederom georganiseerd door een team enthousiaste
 Voorzitter: Hennie Maartens<br/>
 Penningmeester: Bennie Oude Maatman
 
-## Algmene leden
-Dennis Eidhof, Gerald Voorpostel, Bennie Oude Maatman, Koen Zomers
+## Algemene leden
+Dennis Eidhof, Gerald Voorpostel, Koen Zomers
