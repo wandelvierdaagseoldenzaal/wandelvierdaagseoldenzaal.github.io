@@ -12,26 +12,32 @@ Verdere informatie volgt spoedig.
 
 # Dinsdag 30 mei 2023
 
-| Starttijd | Locatie |
+| Starttijd | Route | Locatie |
 |-------------|-------------|
-| 17.45 uur - 18.30 uur | Volgt  |
+| 17.45 uur - 19.00 uur | Kort |  Volgt  |
+| 17.45 uur - 18.30 uur | Lang |  Volgt  |
 
 Vanaf 17.00 uur is het mogelijk om je knipkaart op te halen.
 
 # Woensdag 31 mei 2023
 
-| Starttijd | Locatie |
+| Starttijd | Route | Locatie |
 |-------------|-------------|
-| 17.45 uur - 18.30 uur | Volgt  |
+| 18.00 uur - 19.00 uur | Kort |  Volgt  |
+| 17.45 uur - 18.30 uur | Lang |  Volgt  |
+
 
 # Donderdag 1 juni 2023
 
-| Starttijd | Locatie |
+| Starttijd | Route | Locatie |
 |-------------|-------------|
-| 17.45 uur - 18.30 uur | Volgt  |
+| 18.00 uur - 19.00 uur | Kort |  Volgt  |
+| 17.45 uur - 18.30 uur | Lang |  Volgt  |
+
 
 # Vrijdag 2 juni 2023
 
-| Starttijd | Locatie |
+| Starttijd | Route | Locatie |
 |-------------|-------------|
-| 17.45 uur - 18.45 uur | Volgt  |
+| 18.15 uur - 18.30 uur | Kort |  Volgt  |
+| 17.30 uur - 18.00 uur | Lang |  Volgt  |
