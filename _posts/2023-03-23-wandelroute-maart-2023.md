@@ -1,5 +1,5 @@
 ---
-title: "Nieuwe website"
+title: "Wandelroute maart 2023 beschikbaar"
 last_modified_at: 2023-03-23T17:45:00+01:00
 categories:
   - nieuws
