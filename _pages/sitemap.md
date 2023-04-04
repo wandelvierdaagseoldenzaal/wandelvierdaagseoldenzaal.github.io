@@ -17,6 +17,7 @@ author_profile: false
   * [Voorwaarden](/voorwaarden)
 * Foto's
   * [Foto's](/fotos)
-* Contact opnemen
+* Organisatie
   * [Contact](/contact)
   * [Organisatie](/organisatie)
+  * [ANBI Status](/anbi)
