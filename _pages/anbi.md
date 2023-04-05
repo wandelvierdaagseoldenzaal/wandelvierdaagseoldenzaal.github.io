@@ -5,7 +5,7 @@ permalink: /anbi/
 author_profile: false
 ---
 
-Er loopt een aanvraag lopen voor ANBI-status. Dit betekent dat giften aan de stichting aftrekbaar zijn van de belasting indien deze ANBI-status wordt toegekend.
+Er loopt een aanvraag voor het toekennen van de ANBI-status. Dit betekent dat giften aan de stichting aftrekbaar zijn van de belasting indien deze ANBI-status wordt toegekend.
 
 ## ANBI Gegevens
 
