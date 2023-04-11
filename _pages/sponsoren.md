@@ -11,13 +11,19 @@ sponsorlogos:
 - url: /assets/sponsors/ErveHulsbeek.jpg
   name: Erve Hulsbeek
 - url: /assets/sponsors/GemeenteOldenzaal.jpg
+  name: Fabri
+- url: /assets/sponsors/Fabri.png
   name: Gemeente Oldenzaal
+- url: /assets/sponsors/Hulsbeach.png
+  name: Hulsbeach
 - url: /assets/sponsors/Impuls.png
   name: Impuls Oldenzaal
 - url: /assets/sponsors/Jumbo.png
   name: Jumbo
 - url: /assets/sponsors/LG_Landhuis.jpg
   name: Het Landhuis
+- url: /assets/sponsors/LetterPret.png
+  name: LetterPret  
 - url: /assets/sponsors/MonkeyTown.png
   name: MonkeyTown
 - url: /assets/sponsors/Partou.png
