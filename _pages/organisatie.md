@@ -5,7 +5,7 @@ permalink: /organisatie/
 author_profile: false
 ---
 
-Dit jaar wordt de Wandel4Daagse wederom georganiseerd door een team enthousiaste vrijwilligers. De organisatie bestaat uit een bestuur en een aantal algemene leden. Het bestuur is verantwoordelijk voor de organisatie van de Wandel4Daagse. De algemene leden zijn verantwoordelijk voor de uitvoering van de organisatie. De Wandel4Daagse is een evenement van de Stichting Avondvierdaagse Oldenzaal.
+Dit jaar wordt de Wandel4Daagse wederom georganiseerd door een team enthousiaste vrijwilligers. De organisatie bestaat uit een bestuur en een aantal algemene leden. Het bestuur is verantwoordelijk voor de organisatie van de Wandel4Daagse. De algemene leden zijn verantwoordelijk voor de uitvoering van de organisatie. De Wandel4Daagse is een evenement van de Stichting Wandel4daagse Oldenzaal.
 
 ## Bestuur
 Voorzitter: Hennie Maartens  
