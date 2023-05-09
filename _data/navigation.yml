@@ -1,12 +1,10 @@
 # main links
 main:
   - title: "Inschrijven"
-    url: /inschrijven/
+    url: /inschrijven
   - title: "Routes"
-    url: /routes/
-  - title: "Informatie"
-    url: /informatie/
+    url: /routes
   - title: "Sponsoren"
-    url: /sponsoren/
+    url: /sponsoren
   - title: "Contact"
-    url: /contact/
+    url: /contact

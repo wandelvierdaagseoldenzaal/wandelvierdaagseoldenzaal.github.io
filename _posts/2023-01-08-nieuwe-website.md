@@ -7,4 +7,4 @@ tags:
   - website
 ---
 
-Er is een nieuwe website ontwikkeld voor de Wandel4Daagse. De website is nu nog in ontwikkeling, maar de belangrijkste informatie is al beschikbaar. De komende tijd zullen er nog meer pagina's worden toegevoegd. Heb je suggesties voor de website, laat het ons weten door [contact op te nemen](/contact/).
+Er is een nieuwe website ontwikkeld voor de Wandel4Daagse. De website is nu nog in ontwikkeling, maar de belangrijkste informatie is al beschikbaar. De komende tijd zullen er nog meer pagina's worden toegevoegd. Heb je suggesties voor de website, laat het ons weten door [contact op te nemen](/contact).

@@ -26,7 +26,7 @@ countdownto: "2023-05-30 17:00:00"
         <h2>Laatste nieuws</h2>
           <div class="entries-{{ entries_layout }} feature__wrapper">
             {% assign allposts = site.posts  | where_exp: "item", "item.hidden != true" | where_exp: "item", "item.layout != 'route'" %}
-            {% for post in allposts limit:3 %}
+            {% for post in allposts limit:6 %}
               {% include archive-single.html type=entries_layout %}
             {% endfor %}
           </div>

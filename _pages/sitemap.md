@@ -6,18 +6,19 @@ author_profile: false
 ---
 
 * Meedoen
-  * [Informatie](/informatie)
   * [Inschrijven](/inschrijven)
   * [Routes](/routes)
+  * [Mindervaliden](/routes/mindervaliden)
   * [Archief](/wandelroutes)
+  * [Maaltijd](/maaltijd)
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
 * Voorwaarden
   * [Privacy reglement](/privacy)
-  * [Voorwaarden](/voorwaarden)
-* Foto's
+* Media
   * [Foto's](/fotos)
+  * [Social Media](/socials)
 * Organisatie
   * [Contact](/contact)
-  * [Organisatie](/organisatie)
+  * [Wie zijn wij](/organisatie)
   * [ANBI Status](/anbi)

@@ -7,4 +7,4 @@ tags:
   - 60e editie
 ---
 
-De starttijden voor de Wandel4Daagse Oldenzaal 2023 zijn bekend. De starttijden te vinden op onze [informatie pagina](/informatie/). Zet de data en tijden alvast in je agenda! De inschrijvingen zullen binnenkort openen en de routes worden binnenkort bekend gemaakt.
+De starttijden voor de Wandel4Daagse Oldenzaal 2023 zijn bekend. De starttijden te vinden op onze [routes pagina](/routes). Zet de data en tijden alvast in je agenda! De inschrijvingen zullen binnenkort openen en de routes worden binnenkort bekend gemaakt.
