@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Korte Routes
-permalink: /routes/kort
+permalink: /kort
 author_profile: false
 ---
 
