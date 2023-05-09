@@ -5,4 +5,4 @@ permalink: /inschrijven
 author_profile: false
 ---
 
-De inschrijvingen worden zeer binnenkort geopend. Zodra dit wel het geval is, zal dit hier worden aangekondigd.
+Dit jaar is de deelname geheel gratis om ons zestigjarige jubileum te vieren. We hopen hiermee op nog meer deelnemers te kunnen rekenen dan voorgaande jaren. De inschrijving zal zeer binnenkort geopend worden via deze pagina.

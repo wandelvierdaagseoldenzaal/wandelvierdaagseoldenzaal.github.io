@@ -9,8 +9,9 @@ author_profile: false
   * [Inschrijven](/inschrijven)
   * [Routes](/routes)
   * [Mindervaliden](/routes/mindervaliden)
-  * [Archief](/wandelroutes)
   * [Maaltijd](/maaltijd)
+  * [Vrijwilliger worden](/organisatie/vrijwilligers)
+  * [Wandelroutes Archief](/wandelroutes)
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
 * Voorwaarden
