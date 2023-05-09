@@ -1,6 +1,6 @@
 ---
 title: "Deelname aan de Wandel4Daagse en Rotary Streetsoccer is mogelijk"
-last_modified_at: 2023-05-09T17:04:00+01:00
+last_modified_at: 2023-05-08T17:04:00+01:00
 categories:
   - nieuws
 tags:
