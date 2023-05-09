@@ -8,8 +8,6 @@ sponsorlogos:
   name: Akom
 - url: /assets/sponsors/AutoWessel.png
   name: Auto Wessel
-- url: /assets/sponsors/Coop.png
-  name: Coop Oldenzaal
 - url: /assets/sponsors/ErveHulsbeek.jpg
   name: Erve Hulsbeek
 - url: /assets/sponsors/GemeenteOldenzaal.jpg
@@ -38,6 +36,8 @@ sponsorlogos:
   name: Oldenzaals Beweeg- en Sportakkoord
 - url: /assets/sponsors/Partou.png
   name: Partou
+- url: /assets/sponsors/Plus.png
+  name: Plus  
 - url: /assets/sponsors/ProvincieOverrijsel.png
   name: Provincie Overijssel
 - url: /assets/sponsors/Rabobank.png
