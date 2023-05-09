@@ -6,7 +6,7 @@ datum: 1 juni 2023
 startlocatie: Hotel ‘t Landhuis, Bentheimerstraat 118, 7573 EC Oldenzaal
 googlemapsid: nwD1usgUDQnt8hvPA
 starttijd: Tussen 18:00 en 19:00
-#komootid: 994276113
+komootid: 993652228
 permalink: /routes/kort/donderdag
 ---
 

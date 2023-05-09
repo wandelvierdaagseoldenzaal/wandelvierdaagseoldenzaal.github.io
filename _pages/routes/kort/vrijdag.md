@@ -6,7 +6,7 @@ datum: 2 juni 2023
 startlocatie: Marktsteen, Groote Markt Oldenzaal
 googlemapsid: piGtQbNoBbjeQnQT6
 starttijd: Tussen 18:15 en 18:30
-#komootid: 994276113
+komootid: 993651665
 permalink: /routes/kort/vrijdag
 ---
 
