@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Gerald Voorpostel
-permalink: /organisatie/gerald/
+permalink: /organisatie/gerald
 author_profile: false
 ---
 

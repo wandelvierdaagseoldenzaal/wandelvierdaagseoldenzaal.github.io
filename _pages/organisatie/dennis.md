@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Dennis Eidhof
-permalink: /organisatie/dennis/
+permalink: /organisatie/dennis
 author_profile: false
 ---
 

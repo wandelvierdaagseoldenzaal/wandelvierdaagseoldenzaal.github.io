@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Koen Zomers
-permalink: /organisatie/koen/
+permalink: /organisatie/koen
 author_profile: false
 ---
 

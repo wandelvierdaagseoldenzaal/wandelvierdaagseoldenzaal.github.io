@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Bennie Oude Maatman
-permalink: /organisatie/bennie/
+permalink: /organisatie/bennie
 author_profile: false
 ---
 

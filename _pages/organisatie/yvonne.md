@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Yvonne Zomers
-permalink: /organisatie/yvonne/
+permalink: /organisatie/yvonne
 author_profile: false
 ---
 

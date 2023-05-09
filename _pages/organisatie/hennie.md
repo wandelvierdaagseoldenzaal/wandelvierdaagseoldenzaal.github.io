@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Hennie Maartens
-permalink: /organisatie/hennie/
+permalink: /organisatie/hennie
 author_profile: false
 ---
 

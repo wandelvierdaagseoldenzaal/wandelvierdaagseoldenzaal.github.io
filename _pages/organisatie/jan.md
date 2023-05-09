@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Jan de Gunst
-permalink: /organisatie/jan/
+permalink: /organisatie/jan
 author_profile: false
 ---
 
