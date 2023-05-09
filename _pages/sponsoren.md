@@ -16,7 +16,7 @@ sponsorlogos:
   name: Fabri
 - url: /assets/sponsors/Fabri.png
   name: Gemeente Oldenzaal
-- url: /assets/sponsors/GlimLachVanTwente.png
+- url: /assets/sponsors/GlimlachVanTwente.png
   name: Glimlach van Twente
 - url: /assets/sponsors/Hulsbeach.png
   name: Hulsbeach
