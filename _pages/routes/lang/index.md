@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Lange Routes
-permalink: /routes/lang
+permalink: /lang
 author_profile: false
 ---
 
