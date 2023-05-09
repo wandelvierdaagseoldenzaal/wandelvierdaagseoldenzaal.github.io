@@ -28,4 +28,4 @@ Website:
 Social Media:  
 [Yvonne Zomers](/organisatie/yvonne)  
 
-Ook meehelpen tijdens de 60e editie van de Wandel4daagse in Oldenzaal? Wordt ook [vrijwilliger](/organisatie/vrijwilligers)!
+Ook meehelpen tijdens de 60e editie van de Wandel4daagse in Oldenzaal? Word ook [vrijwilliger](/organisatie/vrijwilligers)!
