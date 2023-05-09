@@ -12,5 +12,5 @@ De volgende korte routes van ongeveer 5-6 kilometer zijn beschikbaar:
 - [Donderdag 1 juni 2023](/routes/kort/donderdag)
 - [Vrijdag 2 juni 2023](/routes/kort/vrijdag)
 
-Ook is er voor elke dag een [lange route](/routes/lang) van ongeveer 10-12 kilometer beschikbaar.  
+Ook is er voor elke dag een [lange route](/lang) van ongeveer 10-12 kilometer beschikbaar.  
 Tevens zal er een [speciale route zijn voor mindervaliden](/routes/mindervaliden).
