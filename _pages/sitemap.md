@@ -17,8 +17,10 @@ author_profile: false
 * Voorwaarden
   * [Privacy reglement](/privacy)
 * Media
+  * [Nieuws](/nieuws)
   * [Foto's](/fotos)
   * [Social Media](/socials)
+  * [Media vermeldingen](/media) 
 * Organisatie
   * [Contact](/contact)
   * [Wie zijn wij](/organisatie)
