@@ -27,6 +27,16 @@ Inschrijven kan als groep of als individu en kan [via deze link](https://forms.m
 
 Wil je je aanmelden voor de Mindervaliden Wandel3Daagse Oldenzaal, kijk dan voor meer informatie op de [mindervaliden pagina](/routes/mindervaliden).  
 
+## Vrije gift
+
+De Wandel4Daagse Oldenzaal is een non-profit organisatie. We zijn afhankelijk van sponsoren en vrijwilligers. Een vrije gift als blijk van waardering voor de organisatie is van harte welkom. Dit jaar zullen de opbrengsten ten goede komen van kinderarmoede in Oldenzaal. Een vrije gift kan worden overgemaakt op rekeningnummer NL 08 RABO 0130301272 t.n.v. Stichting Avondvierdaagse Oldenzaal. Het is tevens mogelijk om via QR codes bij het begin en eind van de wandelroutes te doneren.  
+
+Rond oktober zullen we bekend maken hoeveel er is opgehaald en aan welk goed doel dit zal worden gedoneerd.  
+
+## Honden
+
+Ook honden zijn welkom om mee te lopen. Voor de fanatieke viervoeters is bij de finish op donderdag zelfs wat lekkers beschikbaar gesteld door [Dierenspeciaalzaak Reerink](https://reerink.nl/){:target="_blank"}. Zolang de voorraad strekt, op = op! Je hond hoef je niet specifiek op te geven bij je aanmelding en kan gewoon meewandelen. We vragen je wel om je hond aangelijnd te houden en de uitwerpselen op te ruimen.
+
 ## Afmelden
 
 Mocht je je hebben ingeschreven, maar onverhoopt toch niet deel kunnen nemen, dan kun je je afmelden door een e-mail te sturen naar [info@wandel4daagseoldenzaal.nl](mailto:info@wandel4daagseoldenzaal.nl).
