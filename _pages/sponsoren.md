@@ -85,3 +85,5 @@ De Wandel4Daagse Oldenzaal wordt mede mogelijk gemaakt door deze fantastische sp
         </div>
     {% endfor %}
 </div>
+
+Ook sponsor worden? [Neem contact op](/contact) met ons voor de mogelijkheden!  
