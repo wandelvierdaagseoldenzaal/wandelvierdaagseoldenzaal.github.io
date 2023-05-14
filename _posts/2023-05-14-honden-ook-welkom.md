@@ -1,5 +1,5 @@
 ---
-title: "Honden ook welkom"
+title: "Neem gerust je viervoeter mee"
 last_modified_at: 2023-05-14T18:36:00+01:00
 categories:
   - nieuws
