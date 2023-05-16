@@ -6,12 +6,14 @@ author_profile: false
 ---
 
 * Meedoen
-  * [Inschrijven](/inschrijven)
-  * [Routes](/routes)
+  * [Inschrijven](/inschrijven)  
   * [Mindervaliden](/routes/mindervaliden)
   * [Maaltijd](/maaltijd)
   * [Vrijwilliger worden](/organisatie/vrijwilligers)
+* Wandelen
+  * [Routes](/routes)
   * [Wandelroutes Archief](/wandelroutes)
+  * [Komoot](/komoot)
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
 * Voorwaarden

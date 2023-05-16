@@ -41,4 +41,6 @@ Vanaf 17.00 uur is het mogelijk om je knipkaart op te halen.
 | 18.15 uur - 18.30 uur | Kort |  Volgt  |
 | 17.30 uur - 18.00 uur | Lang |  Volgt  |
 
-Om alvast in vorm te komen publiceren we elke maand een route uit het verleden van de Wandel4Daagse. Deze kun je [hier](/wandelroutes) vinden.
+Dit jaar kun je voor het eerst ook gebruik maken van [Komoot](/komoot) om de routes te navigeren.  
+
+Om alvast in vorm te komen publiceren we elke maand een route uit het verleden van de Wandel4Daagse. Deze kun je [hier](/wandelroutes) vinden.  
