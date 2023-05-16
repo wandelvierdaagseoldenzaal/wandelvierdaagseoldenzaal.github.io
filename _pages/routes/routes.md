@@ -62,7 +62,7 @@ Voor deze locatie kun je gebruik maken van de P1 parkeergelegenheid bij Het Huls
 
 ## Openbaar vervoer
 
-Deze locatie is helaas slecht bereikbaar per openbaar vervoer. Bus 60 stopt bij [halte Oldenzaal Griekenlandlaan](https://9292.nl/oldenzaal/bushalte-griekenlandlaan){:target="_blank"}. Vanaf hier is het echter nog zo'n 25 minuten wandelen naar de startlocatie.
+Deze locatie is helaas slecht bereikbaar per openbaar vervoer. Bus 60 stopt bij [halte Oldenzaal Griekenlandlaan](https://9292.nl/oldenzaal/bushalte-griekenlandlaan){:target="_blank"}. Vanaf hier is het nog zo'n 25 minuten wandelen naar de startlocatie.
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.  
 
