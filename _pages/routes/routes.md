@@ -8,10 +8,10 @@ author_profile: false
 Dit jaar viert de Wandel4Daagse Oldenzaal haar 60<sup>e</sup> editie. Zoals altijd in de week na Pinksteren. We hebben 4 dagen een aantal mooie nieuwe routes uitgezet, je kunt ter plekke kiezen of je de korte route van ongeveer 5-6 kilometer, of de lange route van ongeveer 10-12 kilometer, wilt lopen. Tevens zal er een [speciale route zijn voor mindervaliden](/routes/mindervaliden).
 
 <ul style="list-style-image: url('/assets/images/shoe.png'); line-height: 1.0;">
-    <li><a href="/routes/#dinsdag-30-mei-2023">Dinsdag 30 mei 2023</a></li>
-    <li><a href="/routes/#woensdag-31-mei-2023">Woensdag 31 mei 2023</a></li>
-    <li><a href="/routes/#donderdag-1-juni-2023">Donderdag 1 juni 2023</a></li>
-    <li><a href="/routes/#vrijdag-2-juni-2023">Vrijdag 2 juni 2023</a></li>
+    <li><a href="/routes#dinsdag-30-mei-2023">Dinsdag 30 mei 2023</a></li>
+    <li><a href="/routes#woensdag-31-mei-2023">Woensdag 31 mei 2023</a></li>
+    <li><a href="/routes#donderdag-1-juni-2023">Donderdag 1 juni 2023</a></li>
+    <li><a href="/routes#vrijdag-2-juni-2023">Vrijdag 2 juni 2023</a></li>
 </ul>
 
 # Dinsdag 30 mei 2023
