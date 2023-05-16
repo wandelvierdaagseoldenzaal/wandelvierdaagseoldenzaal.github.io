@@ -18,6 +18,8 @@ author_profile: false
   * [Vrijwilliger worden](/organisatie/vrijwilligers)
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
+* Nieuws
+  * [Alle nieuwsposts](/nieuws)
 * Organisatie
   * [Contact](/contact)
   * [Wie zijn wij](/organisatie)
