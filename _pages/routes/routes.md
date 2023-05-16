@@ -43,4 +43,6 @@ Vanaf 17.00 uur is het mogelijk om je knipkaart op te halen.
 
 Dit jaar kun je voor het eerst ook gebruik maken van [Komoot](/komoot) om de routes te navigeren.  
 
+Inwoners van Zuid-Berghuizen kunnen [extra Fitcoins verdienen](/fitcoins) door zich aan te melden voor de Wandel4Daagse Oldenzaal in de Fitcoins App.  
+
 Om alvast in vorm te komen publiceren we elke maand een route uit het verleden van de Wandel4Daagse. Deze kun je [hier](/wandelroutes) vinden.  
