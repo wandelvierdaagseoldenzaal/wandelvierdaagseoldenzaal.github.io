@@ -8,3 +8,5 @@ tags:
 ---
 
 Vanaf dit jaar is het ook mogelijk je digitaal te laten begeleiden tijdens de wandeling door de Komoot app. Dit kan zowel op je mobiele telefoon als op diverse smartwatches. Meer informatie hierover is te vinden op de [Komoot pagina](/komoot).
+
+![Komoot op Smartwatch](/assets/images/news/2023/komoothorloge.png)]
