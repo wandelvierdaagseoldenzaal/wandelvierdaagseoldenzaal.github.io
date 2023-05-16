@@ -60,6 +60,8 @@ Op deze dag lopen we voor vele deelnemers een bekende route. We wandelen namelij
 
 Voor deze locatie kun je gebruik maken van de P1 parkeergelegenheid bij Het Hulsbeek voor zowel auto's als fietsen. Er zullen verkeersregelaars aanwezig zijn om alles in goede banen te leiden. Dit parkeerterrein is voor deze avond speciaal opengesteld voor de Wandel4Daagse en vrij van parkeerkosten (onder voorbehoud van wijzigingen).
 
+Fietsen kunnen worden gestald in de fietstenstalling van Het Hulsbeek bij P1, net over het bruggetje.  
+
 ## Openbaar vervoer
 
 Deze locatie is helaas slecht bereikbaar per openbaar vervoer. Bus 60 stopt bij [halte Oldenzaal Griekenlandlaan](https://9292.nl/oldenzaal/bushalte-griekenlandlaan){:target="_blank"}. Vanaf hier is het nog zo'n 25 minuten wandelen naar de startlocatie.
@@ -85,7 +87,7 @@ Menig ervaren Wandel4Daagse wandelaar zal ook bekend zijn met deze route. Deze a
 
 Deze locatie beschikt over beperkte parkeergelegenheid voor zowel auto's als fietsen. We zijn hiervoor aangewezen op het parkeerterreintje achter Het Landhuis en de straten hieromheen. Gelieve zoveel mogelijk per fiets te komen. Er zullen verkeersregelaars aanwezig zijn om alles in goede banen te leiden.  
 
-Fietsen kunnen geparkeerd worden aan de zijkant van Het Landhuis. Let erop dat de oprit toegankelijk blijft voor automobilisten.
+Fietsen kunnen geparkeerd worden aan de zijkant van Het Landhuis. Let erop dat de oprit toegankelijk blijft voor automobilisten.  
 
 ## Openbaar vervoer
 
@@ -116,7 +118,7 @@ Fietsen graag parkeren in de fietsenstallingen in de binnenstad en niet op de Gr
 
 ## Openbaar vervoer
 
-Deze locatie is goed bereikbaar per openbaar vervoer. Er stoppen [diverse bussen](https://9292.nl/oldenzaal/bushalte-station){:target="_blank"} zoals lijn 60, 62, 64 en 66 rondom de binnenstad met slechts een kort wandeling resterend. Komende met de trein kun je vanuit [NS Station Oldenzaal](https://www.ns.nl/stationsinformatie/odz/oldenzaal){:target="_blank"} bus 60, 62 of 66 nemen richting het centrum.  
+Deze locatie is goed bereikbaar per openbaar vervoer. Er stoppen [diverse bussen](https://9292.nl/oldenzaal/bushalte-station){:target="_blank"} zoals lijn 60, 62, 64 en 66 rondom de binnenstad met slechts een kort wandeling resterend. Komende met de trein kun je vanuit [NS Station Oldenzaal](https://www.ns.nl/stationsinformatie/odz/oldenzaal){:target="_blank"} bus 60, 62 of 66 nemen richting het centrum of anders is het 10 minuutjes lopen.  
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.
 
