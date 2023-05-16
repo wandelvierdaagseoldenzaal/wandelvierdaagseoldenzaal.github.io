@@ -7,12 +7,6 @@ author_profile: false
 
 Binnen de wijk Zuid-Berghuizen van Oldenzaal vindt momenteel een pilot plaats met Fitcoins. Fitcoins is een initiatief van de gemeente Oldenzaal om inwoners te stimuleren om meer te bewegen. Voor elke 1000 stappen die je loopt, krijg je 1 Fitcoin. Deze Fitcoins kun je vervolgens inwisselen voor leuke aanbiedingen bij lokale ondernemers.
 
-## App downloaden
-
-[![Download Fitcoins voor Android](/assets/images/fitcoins/appstore-android-en.svg)](https://play-lh.googleusercontent.com/HdrOktpo3wSPHQyZk_vayZ4mKXYPCqBk361JFKlh71ZoB8MJp9TicGERRClYYSva3g=s48-rw){:target="_blank"} 
-
-[![Download Fitcoins voor Android](/assets/images/fitcoins/qrcode.png)](https://play-lh.googleusercontent.com/HdrOktpo3wSPHQyZk_vayZ4mKXYPCqBk361JFKlh71ZoB8MJp9TicGERRClYYSva3g=s48-rw){:target="_blank"} 
-
 ## Kosten
 
 Deelname is gratis voor inwoners van Zuid Berghuizen in Oldenzaal. De gemeente Oldenzaal betaalt de kosten voor de Fitcoin App. 
@@ -20,6 +14,12 @@ Deelname is gratis voor inwoners van Zuid Berghuizen in Oldenzaal. De gemeente O
 ## Extra Fitcoins verdienen
 
 In de Fitcoins App kun je aangeven dat je mee gaat doen aan de Wandel4Daagse Oldenzaal. Je krijgt dan maar liefst 50 Fitcoins extra naast de reguliere Fitcoins die je verdient met het wandelen als je de Wandel4Daagse Oldenzaal uitloopt. Bij de finish op vrijdag 2 juni 2023 kun je je bonus Fitcoins laten bijschrijven door je te melden bij de Fitcoins stand bij de finish van de Wandel4Daagse naast de Rabobank aan de Groote Markt in Oldenzaal. Op vertoon van je Wandel4Daagse knipkaart zullen je bonus Fitcoins worden bijgeschreven.
+
+## App downloaden
+
+[![Download Fitcoins voor Android](/assets/images/fitcoins/appstore-android-en.svg)](https://play-lh.googleusercontent.com/HdrOktpo3wSPHQyZk_vayZ4mKXYPCqBk361JFKlh71ZoB8MJp9TicGERRClYYSva3g=s48-rw){:target="_blank"} 
+
+[![Download Fitcoins voor Android](/assets/images/fitcoins/qrcode.png)](https://play-lh.googleusercontent.com/HdrOktpo3wSPHQyZk_vayZ4mKXYPCqBk361JFKlh71ZoB8MJp9TicGERRClYYSva3g=s48-rw){:target="_blank"} 
 
 ## Veel gestelde vragen
 
