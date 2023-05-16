@@ -17,6 +17,8 @@ In de Fitcoins App kun je aangeven dat je mee gaat doen aan de Wandel4Daagse Old
 
 Bij de finish op vrijdag 2 juni 2023 kun je je bonus Fitcoins laten bijschrijven door je te melden bij de Fitcoins stand bij de finish van de Wandel4Daagse naast de Rabobank aan de Groote Markt in Oldenzaal. Op vertoon van je Wandel4Daagse knipkaart zullen je bonus Fitcoins worden bijgeschreven.
 
+![Aanmelden in de Fitcoins app](/assets/images/fitcoins/fitcoinsapp.png)
+
 ## App downloaden
 
 [![Download Fitcoins voor Android](/assets/images/fitcoins/appstore-android-en.svg)](https://play.google.com/store/apps/details?id=nl.itsmylife24.itsmylife&hl=nl){:target="_blank"} 
