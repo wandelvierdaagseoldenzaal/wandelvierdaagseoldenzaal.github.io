@@ -36,4 +36,4 @@ We kunnen je helaas niet helpen bij het installeren of werkend krijgen van Komoo
 
 De Wandel4Daagse Oldenzaal heeft op geen enkele wijze een affiliatie met Komoot. We gebruik Komoot enkel als hulpmiddel om de routes van de Wandel4Daagse te kunnen navigeren. De Wandel4Daagse Oldenzaal is niet verantwoordelijk voor het functioneren van Komoot. Ook de medewerkers en vrijwilligers onderweg kunnen je hier geen ondersteuning bij aanbieden. Indien je problemen hebt met Komoot, dien je contact op te nemen met de [support afdeling van Komoot](https://support.komoot.com/hc/nl){:target="_blank"}.
 
-![Komoot op Smartwatch](/assets/images/news/2023/komoothorloge.png)]
+![Komoot op Smartwatch](/assets/images/news/2023/komoothorloge.png)
