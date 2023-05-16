@@ -20,7 +20,7 @@ De Wandel4Daagse Oldenzaal begint dit jaar vanaf een nieuwe locatie: het NS Stat
 
 ## Startlocatie
 
-[NS Station, Stationsplein 14, 7573 AV, Oldenzaal](https://maps.google.com/xB9GmvwCaecrx9v76){:target="_blank"}  
+[NS Station, Stationsplein 14, 7573 AV, Oldenzaal](https://goo.gl/maps/xB9GmvwCaecrx9v76){:target="_blank"}  
 
 ## Starttijden & routebeschrijvingen
 
