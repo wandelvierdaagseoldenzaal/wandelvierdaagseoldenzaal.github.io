@@ -17,4 +17,4 @@ Tijdens de wandeling op donderdag 1 juni 2023 zullen langs de route 16 letters m
 
 ![Woordpuzzel](/assets/images/woordlettersspel.png){: .align-center}
 
-De oplossing kun je insturen via het [deelnameformulier](https://forms.microsoft.com/e/t6aYz1E4f9){:target="_blank"}. Dit formulier is in te vullen van donderdag 1 juni 2023 17.00 uur t/m donderdag 8 juni 17.00 uur. Onder de goede inzendingen verloten we vrijkaartjes voor [Monkey Town](https://www.monkeytown.eu/nl/enschede/home){:target="_blank"}. De winnaars worden vrijdag 9 juni bekend gemaakt via de [social media kanalen](/socials) en website en krijgen persoonlijk bericht per e-mail.
+De oplossing kun je insturen via het [wedstrijdformulier](https://forms.microsoft.com/e/t6aYz1E4f9){:target="_blank"}. Dit formulier is in te vullen van donderdag 1 juni 2023 17.00 uur t/m donderdag 8 juni 17.00 uur. Onder de goede inzendingen verloten we vrijkaartjes voor [Monkey Town](https://www.monkeytown.eu/nl/enschede/home){:target="_blank"}. De winnaars worden vrijdag 9 juni bekend gemaakt via de [social media kanalen](/socials) en website en krijgen persoonlijk bericht per e-mail.
