@@ -32,4 +32,4 @@ author_profile: false
   * [Komoot](/komoot)
 * Winnen
   * [Fitcoins](/fitcoins)
-  * [Winactie](/winactie) 
+  * [Winacties](/winacties) 

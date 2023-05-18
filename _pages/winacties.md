@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Winactie
-permalink: /winactie
+title: Winacties
+permalink: /winacties
 author_profile: false
 ---
 
