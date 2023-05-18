@@ -30,7 +30,7 @@ De routes van de Wandel4Daagse zijn te vinden op de [Komoot website](https://www
 
 ## Help, ik kom er niet uit!
 
-We kunnen je helaas niet helpen bij het installeren of werkend krijgen van Komoot. Indien je Komoot wilt gaan gebruiken, probeer dan ruim voor de start van de Wandel4Daagse thuis alvast of je Komoot werkend kunt krijgen op je device. Raadpleeg voor eventuele problemen het [hulp centrum van Komoot](https://support.komoot.com/hc/nl){:target="_blank"}.
+We kunnen je helaas niet helpen bij het installeren of werkend krijgen van Komoot. Indien je Komoot wilt gaan gebruiken, probeer dan ruim voor de start van de Wandel4Daagse thuis alvast of je Komoot werkend kunt krijgen op je device. Raadpleeg voor eventuele problemen het [hulpcentrum van Komoot](https://support.komoot.com/hc/nl){:target="_blank"}.
 
 ## Disclaimer
 
