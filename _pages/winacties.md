@@ -13,7 +13,7 @@ Binnenkort meer informatie over deze winactie.
 
 # Woordpuzzel
 
-Tijdens de wandeling op donderdag 1 juni 2023 zullen langs de route 16 letters met daarbij een cijfer te vinden zijn. Spot al deze letters en noteer ze in je deelnemersboekje. Als je de letters in de juiste volgorde zet krijg je de oplossing.
+Tijdens de wandeling op donderdag 1 juni 2023 zullen langs de route 16 letters met daarbij een cijfer te vinden zijn. Spot al deze letters en noteer ze in je deelnemersboekje. Als je de letters in de juiste volgorde zet, krijg je de oplossing.
 
 ![Woordpuzzel](/assets/images/woordlettersspel.png){: .align-center}
 
