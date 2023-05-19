@@ -26,8 +26,8 @@ De Wandel4Daagse Oldenzaal begint dit jaar vanaf een nieuwe locatie: het NS Stat
 
 | Starttijd | Lengte | Route |
 |-------------|-------------|
-| 17.45 uur - 19.00 uur | Kort | [Routebeschrijving](https://wandel4daagseoldenzaal.nl/routes/kort/dinsdag) |
-| 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](https://wandel4daagseoldenzaal.nl/routes/lang/dinsdag) |
+| 17.45 uur - 19.00 uur | Kort | [Routebeschrijving](/routes/kort/dinsdag) |
+| 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](/routes/lang/dinsdag) |
 
 Vanaf 17.00 uur is het mogelijk om je knipkaart op te halen.
 
@@ -53,8 +53,8 @@ Op deze dag lopen we voor vele deelnemers een bekende route. We wandelen namelij
 
 | Starttijd | Lengte | Route |
 |-------------|-------------|
-| 18.00 uur - 19.00 uur | Kort | [Routebeschrijving](https://wandel4daagseoldenzaal.nl/routes/kort/woensdag) |
-| 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](https://wandel4daagseoldenzaal.nl/routes/lang/woensdag) |
+| 18.00 uur - 19.00 uur | Kort | [Routebeschrijving](/routes/kort/woensdag) |
+| 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](/routes/lang/woensdag) |
 
 ## Parkeren
 
@@ -80,8 +80,8 @@ Menig ervaren Wandel4Daagse wandelaar zal ook bekend zijn met deze route. Deze a
 
 | Starttijd | Lengte | Route |
 |-------------|-------------|
-| 18.00 uur - 19.00 uur | Kort | [Routebeschrijving](https://wandel4daagseoldenzaal.nl/routes/kort/donderdag) |
-| 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](https://wandel4daagseoldenzaal.nl/routes/lang/donderdag) |
+| 18.00 uur - 19.00 uur | Kort | [Routebeschrijving](/routes/kort/donderdag) |
+| 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](/routes/lang/donderdag) |
 
 ## Parkeren
 
@@ -107,8 +107,8 @@ Voor de slotdag beginnen- en eindigen we in het centrum van Oldenzaal. We duiken
 
 | Starttijd | Lengte | Route |
 |-------------|-------------|
-| 18.15 uur - 18.30 uur | Kort | [Routebeschrijving](https://wandel4daagseoldenzaal.nl/routes/kort/vrijdag) |
-| 17.30 uur - 18.00 uur | Lang | [Routebeschrijving](https://wandel4daagseoldenzaal.nl/routes/lang/vrijdag) |
+| 18.15 uur - 18.30 uur | Kort | [Routebeschrijving](/routes/kort/vrijdag) |
+| 17.30 uur - 18.00 uur | Lang | [Routebeschrijving](/routes/lang/vrijdag) |
 
 ## Parkeren
 
