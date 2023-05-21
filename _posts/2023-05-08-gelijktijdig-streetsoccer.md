@@ -12,3 +12,5 @@ We ontvangen meerdere vragen en zorgen van deelnemers over het (deels) gelijktij
 We hopen dat we hiermee de zorgen van deelnemers kunnen wegnemen.  
 
 Mochten er evengoed nog vragen zijn, dan horen we dat graag via [info@wandel4daagseoldenzaal.nl](mailto:info@wandel4daagseoldenzaal.nl).  
+
+![Rotary Street Soccer](/assets/images/news/2023/logostreetsoccerlizzy.png)
