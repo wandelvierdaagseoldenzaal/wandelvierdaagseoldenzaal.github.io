@@ -85,9 +85,9 @@ Menig ervaren Wandel4Daagse wandelaar zal ook bekend zijn met deze route. Deze a
 
 ## Parkeren
 
-Deze locatie beschikt over beperkte parkeergelegenheid voor zowel auto's als fietsen. We zijn hiervoor aangewezen op het parkeerterreintje achter Het Landhuis en de straten hieromheen. Gelieve zoveel mogelijk per fiets te komen. Er zullen verkeersregelaars aanwezig zijn om alles in goede banen te leiden.  
+We zijn voor deze dag aangewezen op de openbare parkeerplaatsen in de wijk rondom Het Landhuis, welke beperkt zijn. De Bentheimerstraat zal tussen de Kalheupinklaan en de Haerstraat, dus voor het Landhuis, worden afgesloten voor autoverkeer door onze verkeersregelaars voor de veiligheid van de deelnemers. Gelieve zoveel mogelijk per fiets te komen en parkeeroverlast in de wijk te voorkomen.   
 
-Fietsen kunnen geparkeerd worden aan de zijkant van Het Landhuis. Let erop dat de oprit toegankelijk blijft voor automobilisten.  
+Fietsen kunnen geparkeerd worden aan de zijkant van Het Landhuis. Let erop dat de oprit toegankelijk blijft voor de hulpdiensten.  
 
 ## Openbaar vervoer
 
