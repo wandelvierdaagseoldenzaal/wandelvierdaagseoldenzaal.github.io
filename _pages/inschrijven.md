@@ -23,7 +23,7 @@ We kunnen maximaal 1500 deelnemers toelaten. Wees er dus snel bij, want vol is v
 
 ## Inschrijven
 
-Inschrijven kan als groep of als individu en kan [via deze link](https://forms.microsoft.com/e/AWqHXfHa3K){:target="_blank"}.  
+Inschrijven kan als groep of als individu en kan [via deze link](https://forms.microsoft.com/e/AWqHXfHa3K){:target="_blank"}. De (gratis) voorinschrijving sluit op maandag 29 mei 2023 om 17.00 uur. Hierna is het nog alleen mogelijk om bij de start van de Wandel4Daagse Oldenzaal zelf in te schrijven tegen 2 euro per persoon.
 
 Wil je je aanmelden voor de Mindervaliden Wandel3Daagse Oldenzaal, kijk dan voor meer informatie op de [mindervaliden pagina](/routes/mindervaliden).  
 
