@@ -13,10 +13,13 @@ sponsorlogos:
 - url: /assets/sponsors/ErveHulsbeek.jpg
   name: Erve Hulsbeek
   link: https://www.hulsbeek.nl/
-- url: /assets/sponsors/GemeenteOldenzaal.jpg
+- url: /assets/sponsors/Fabri.png
   name: Fabri
   link: https://fabri.nl/
-- url: /assets/sponsors/Fabri.png
+- url: /assets/sponsors/focus.png
+  name: Focus Print en Druk
+  link: https://www.focusprintendruk.nl/
+- url: /assets/sponsors/GemeenteOldenzaal.jpg
   name: Gemeente Oldenzaal
   link: https://www.oldenzaal.nl
 - url: /assets/sponsors/GlimlachVanTwente.png
