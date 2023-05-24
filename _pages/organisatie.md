@@ -7,6 +7,8 @@ author_profile: false
 
 Dit jaar wordt de Wandel4Daagse wederom georganiseerd door een team enthousiaste vrijwilligers. De organisatie bestaat uit een bestuur en een groot aantal vrijwilligers die tijdens de dagen meehelpen met alles in goede banen leiden. Het bestuur is verantwoordelijk voor de organisatie van de Wandel4Daagse.
 
+![Bestuur Wandel4Daagse Oldenzaal](/assets/organisatie/bestuur.jpg)
+
 Voorzitter:  
 [Hennie Maartens](/organisatie/hennie)  
 
