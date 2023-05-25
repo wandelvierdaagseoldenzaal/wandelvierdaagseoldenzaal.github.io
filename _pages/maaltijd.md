@@ -24,6 +24,7 @@ Dit jaar is het mogelijk om voorafgaand aan de Wandel4Daagse een speciale Wandel
 | Frikandel     | € 2,00 (met broodje € 2,75) |
 | Kroket	    | € 2,00 (met broodje € 2,75) |
 | Rookworst		| € 2,50 (met broodje € 3,25) |
+| Snoepzakje    | € 2,50                      |
 | Diverse dranken en natuurlijk ijsjes        |
 
 Aanmelden niet nodig
