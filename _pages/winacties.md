@@ -9,7 +9,15 @@ Ter ere van het 60 jarige jubileum van de Wandel4Daagse Oldenzaal zullen er dive
 
 # Like, deel en win
 
-Binnenkort meer informatie over deze winactie.
+Ter ere van ons 60 jarige jubileum hebben we een te gekke unieke limited edition branded Dopper drinkfles laten maken. Wil jij kans maken om deze te winnen?  
+
+1. Volg ons op Facebook ([Wandel4DaagseOldenzaal](https://www.facebook.com/Wandel4DaagseOldenzaal){:target="_blank"}) & Instagram ([wandel4daagseoldenzaal](https://www.instagram.com/wandel4daagseoldenzaal){:target="_blank"})
+1. Like en deel het winactie bericht
+1. Tag minimaal 2 vrienden
+
+Maandagavond 29 mei maken we de winnaars bekend. Wie weet loop jij straks te shinen tijdens de Wandel4Daagse 2023 met deze Dopper!  
+
+![Dopper Like and Win actie](/assets/images/dopperlikeandwin.png){: .align-center}
 
 # Woordpuzzel
 
