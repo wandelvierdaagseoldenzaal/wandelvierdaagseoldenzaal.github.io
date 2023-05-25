@@ -41,6 +41,10 @@ Deze locatie is prima bereikbaar per openbaar vervoer. Er stoppen [treinen](http
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.
 
+## Hapje vooraf
+
+Voor een hapje vooraf aan de wandeling kun je vandaag terecht bij [NS Station Spoor 6](/maaltijd#ns-station-spoor-6).  
+
 # Woensdag 31 mei 2023
 
 Op deze dag lopen we voor vele deelnemers een bekende route. We wandelen namelijk door het prachtige recreatiegebied Het Hulsbeek. Een mooie route door de natuur met een aantal leuke bezienswaardigheden onderweg.
@@ -67,6 +71,14 @@ Fietsen kunnen worden gestald in de fietstenstalling van Het Hulsbeek bij P1, ne
 Deze locatie is helaas slecht bereikbaar per openbaar vervoer. Bus 60 stopt bij [halte Oldenzaal Griekenlandlaan](https://9292.nl/oldenzaal/bushalte-griekenlandlaan){:target="_blank"}. Vanaf hier is het nog zo'n 25 minuten wandelen naar de startlocatie.
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.  
+
+## Hapje vooraf
+
+Voor een hapje vooraf aan de wandeling kun je vandaag terecht bij [Hulsbeek P1 Hulsbeach](/maaltijd#hulsbeek-p-1-hulsbeach).  
+
+## Vermaak onderweg
+
+Vandaag speelt [Dweilorkest Oln’zels Knooi Ensemble](https://www.dweilorkestoke.nl/nl/){:target="_blank"} vanaf 17.30 uur tot ongeveer 20.00 uur. Tevens spelen ze ook voor de [mindervaliden wandel3daagse](/routes/mindervaliden) die op doortocht gaan via de Groene Loper naar de [Muziekkoepel Oldenzaal](https://muziekkoepeloldenzaal.nl/){:target="_blank"} in Zuid Berghuizen.  
 
 # Donderdag 1 juni 2023
 
@@ -95,7 +107,17 @@ Fietsen kunnen geparkeerd worden aan de zijkant van Het Landhuis. Let erop dat d
 
 Deze locatie is bereikbaar per openbaar vervoer. Buslijn 593 stopt bij [halte Oldenzaal Kalheupinklaan](https://9292.nl/oldenzaal/bushalte-kalheupinklaan){:target="_blank"} vanaf waar het nog 2 minuten wandelen is. Ook kun je buslijn 62, 64 of 66 nemen en uitstappen bij [halte Oldenzaal Vos de Waelstraat](https://9292.nl/oldenzaal/bushalte-vos-de-waelstraat){:target="_blank"}. Vanaf hier is het nog ca. 10 minuten wandelen.
 
-Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.
+Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.  
+
+## Hapje vooraf
+
+Voor een hapje vooraf aan de wandeling kun je vandaag terecht bij [Het Landhuis](/maaltijd#het-landhuis-bentheimerstraat).  
+
+## Vermaak onderweg
+
+Vandaag kunnen jullie onderweg genieten van [Dweilorkest Slipgevaar](https://www.facebook.com/profile.php?id=100062952294500){:target="_blank"}. Zij spelen vanaf 19.00 uur tot ongeveer 20.30 uur.  
+
+Voor de minder validen treedt het koor de Confetti’s op bij Thijs aan de Grotestraat.  
 
 # Vrijdag 2 juni 2023
 
@@ -123,6 +145,15 @@ Fietsen graag parkeren in de fietsenstallingen in de binnenstad en niet op de Gr
 Deze locatie is goed bereikbaar per openbaar vervoer. Er stoppen [diverse bussen](https://9292.nl/oldenzaal/bushalte-station){:target="_blank"} zoals lijn 60, 62, 64 en 66 rondom de binnenstad met slechts een kort wandeling resterend. Komende met de trein kun je vanuit [NS Station Oldenzaal](https://www.ns.nl/stationsinformatie/odz/oldenzaal){:target="_blank"} bus 60, 62 of 66 nemen richting het centrum of anders is het 10 minuutjes lopen.  
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.
+
+## Hapje vooraf
+
+Voor een hapje vooraf aan de wandeling kun je vandaag terecht bij [Tante Annies](/maaltijd#tante-annies) en [Stadshotel Ter Stege](/maaltijd#stadshotel-ter-stege).  
+
+## Vermaak onderweg
+
+Op deze slotdag zal [dweilorkest de Sputterkearls](https://sputterkearls.nl/){:target="_blank"} vanaf ongeveer 17.30 uur voor jullie spelen bij de Marksteen in het centrum van Oldenzaal. Vanaf 19.15 uur zal dit worden voortgezet bij de Potskamp. Tot slot vanaf 20.15 uur, na de intocht, wordt het optreden vervolgd op de Grote Markt tot 20.45/21.00 uur.  
+
 
 # Komoot
 
