@@ -39,6 +39,4 @@ Voor een hapje vooraf aan de wandeling kun je vandaag terecht bij [Het Landhuis]
 
 ## Vermaak onderweg
 
-Vandaag kunnen jullie onderweg genieten van [Dweilorkest Slipgevaar](https://www.facebook.com/profile.php?id=100062952294500){:target="_blank"}. Zij spelen vanaf 19.00 uur tot ongeveer 20.30 uur.  
-
-Voor de minder validen treedt het koor de Confetti’s op bij Thijs aan de Grotestraat.  
+Voor aanmoediging en vermaak staat vandaag [Dweilorkest Krisus](https://www.dweilorkestkrisus.nl/){:target="_blank"} voor jullie klaar. Zij spelen vanaf 17.30 uur tot ongeveer 20.00 uur.  

@@ -34,3 +34,7 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 ## Hapje vooraf
 
 Voor een hapje vooraf aan de wandeling kun je vandaag terecht bij [NS Station Spoor 6](/maaltijd#ns-station-spoor-6).  
+
+## Vermaak onderweg
+
+Vandaag speelt [Dweilorkest Oln’zels Knooi Ensemble](https://www.dweilorkestoke.nl/nl/){:target="_blank"} vanaf 17.30 uur tot ongeveer 20.00 uur. Tevens spelen ze ook voor de [mindervaliden wandel3daagse](/routes/mindervaliden) die op doortocht gaan via de Groene Loper naar de [Muziekkoepel Oldenzaal](https://muziekkoepeloldenzaal.nl/){:target="_blank"} in Zuid Berghuizen.  
