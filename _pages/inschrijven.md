@@ -31,7 +31,7 @@ Wil je je aanmelden voor de Mindervaliden Wandel3Daagse Oldenzaal, kijk dan voor
 
 ## Vrije gift
 
-De Wandel4Daagse Oldenzaal is een non-profit organisatie. We zijn afhankelijk van sponsoren en vrijwilligers. Een vrije gift als blijk van waardering voor de organisatie is van harte welkom. Dit jaar zullen de opbrengsten ten goede komen van kinderarmoede in Oldenzaal. Een vrije gift kan worden overgemaakt op rekeningnummer NL 08 RABO 0130301272 t.n.v. Stichting Avondvierdaagse Oldenzaal. Het is tevens mogelijk om via de volgende QR code te doneren. Deze zullen ook zichtbaar zijn bij het begin en eind van de wandelroutes elke dag.  
+De Wandel4Daagse Oldenzaal is een non-profit organisatie. We zijn afhankelijk van sponsoren en vrijwilligers. Een vrije gift als blijk van waardering voor de organisatie is van harte welkom. Dit jaar zullen de opbrengsten ten goede komen van kinderarmoede in Oldenzaal. Een vrije gift kan worden overgemaakt op rekeningnummer NL 08 RABO 0130301272 t.n.v. Stichting Avondvierdaagse Oldenzaal. Het is tevens mogelijk om via de volgende QR code te doneren. Deze zal ook zichtbaar zijn bij het begin en eind van de wandelroutes elke dag.  
 
 ![Vrije gift QR Code](/assets/images/vrijegift.png){: .align-center}  
 
