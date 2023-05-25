@@ -43,4 +43,4 @@ Ook honden zijn welkom om mee te lopen. Voor de fanatieke viervoeters is bij de 
 
 ## Afmelden
 
-Mocht je je hebben ingeschreven, maar onverhoopt toch niet deel kunnen nemen, dan kun je je afmelden door een e-mail te sturen naar [info@wandel4daagseoldenzaal.nl](mailto:info@wandel4daagseoldenzaal.nl).
+Mocht je je hebben ingeschreven, maar onverhoopt toch niet deel kunnen nemen, dan kun je je afmelden door een e-mail te sturen naar [info@wandel4daagseoldenzaal.nl](mailto:info@wandel4daagseoldenzaal.nl?subject=Afmelden Wandel4Daagse).
