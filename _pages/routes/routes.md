@@ -70,7 +70,9 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 # Donderdag 1 juni 2023
 
-Menig ervaren Wandel4Daagse wandelaar zal ook bekend zijn met deze route. Deze avond wandelen we een rondje door de natuurschoon van Tankenberg en omgeving. Een prachtige route met een aantal mooie vergezichten.
+Menig ervaren Wandel4Daagse wandelaar zal ook bekend zijn met deze route. Deze avond wandelen we een rondje door de natuurschoon van Tankenberg en omgeving. Een prachtige route met een aantal mooie vergezichten.  
+
+Deze avond kun je ook meedoen aan het woordspel langs de route. Hierbij maak je kans op vrijkaarten voor [Monkey Town](https://www.monkeytown.eu/nl/enschede/home){:target="_blank"}. Meer informatie hierover vind je op de [winactie pagina](/winacties#woordpuzzel).  
 
 ## Startlocatie
 
@@ -129,3 +131,7 @@ Dit jaar kun je voor het eerst ook gebruik maken van [Komoot](/komoot) om de rou
 # Fitcoins
 
 Inwoners van Zuid-Berghuizen kunnen [extra Fitcoins verdienen](/fitcoins) door zich aan te melden voor de Wandel4Daagse Oldenzaal in de Fitcoins App.  
+
+# Winacties
+
+Het lopen nog leuker maken? Tijdens de Wandel4Daagse kun je meedoen aan [winacties](/winacties). Zo kun je meedoen voor [de leukste foto](/winacties#mooiste-foto) en op donderdag voor [de woordpuzzel](/winacties#woordpuzzel).

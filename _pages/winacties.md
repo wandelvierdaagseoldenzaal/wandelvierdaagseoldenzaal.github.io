@@ -21,7 +21,7 @@ Maandagavond 29 mei maken we de winnaars bekend. Wie weet loop jij straks te shi
 
 # Woordpuzzel
 
-Tijdens de wandeling op donderdag 1 juni 2023 zullen langs de route 16 letters met daarbij een cijfer te vinden zijn. Spot al deze letters en noteer ze in je deelnemersboekje. Als je de letters in de juiste volgorde zet, krijg je de oplossing.
+Tijdens de wandeling op [donderdag 1 juni 2023](/routes#donderdag-1-juni-2023) zullen langs de route 16 letters met daarbij een cijfer te vinden zijn. Spot al deze letters en noteer ze in je deelnemersboekje. Als je de letters in de juiste volgorde zet, krijg je de oplossing. Je kunt zowel meedoen als je de [korte](/routes/kort/donderdag) of de [lange](/routes/lang/donderdag) route loopt.
 
 ![Woordpuzzel](/assets/images/woordlettersspel.png){: .align-center}
 
@@ -31,6 +31,8 @@ De oplossing kun je insturen via het [wedstrijdformulier](https://forms.microsof
 
 # Mooiste foto
 
-Deel tijdens de Wandel4Daagse je mooiste, gekste of leukste foto op [Facebook](https://www.facebook.com/wandel4daagseoldenzaal){:target="_blank"} of [Instagram](https://www.instagram.com/wandel4daagseoldenzaal){:target="_blank"} met de hashtag #w4doldenzaal. De mooiste foto's winnen een te gekke unieke limited edition Wandel4Daagse 60e Editie Dopper.  
+Deel tijdens de Wandel4Daagse je mooiste, gekste of leukste foto via onze [socials](/socials) op [Facebook](https://www.facebook.com/wandel4daagseoldenzaal){:target="_blank"}, [Twitter](https://twitter.com/Avo4DOldenzaal){:target="_blank"} of [Instagram](https://www.instagram.com/wandel4daagseoldenzaal){:target="_blank"} met de hashtag #w4doldenzaal. De mooiste foto's winnen een te gekke unieke limited edition Wandel4Daagse 60e Editie Dopper.  
 
-![Wandel4Daagse branded Dopper](/assets/images/dopper.png){: .align-center}
+![Wandel4Daagse branded Dopper](/assets/images/dopper.png){: .align-center}  
+
+De winnaars worden vrijdag 9 juni bekend gemaakt via de [social media kanalen](/socials) en website en krijgen persoonlijk bericht via het social media kanaal waarop de foto gedeeld is.

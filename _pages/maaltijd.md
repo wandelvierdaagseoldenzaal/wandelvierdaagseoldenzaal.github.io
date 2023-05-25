@@ -45,7 +45,7 @@ Vooraf aanmelden via:
 
 Menu: Huisgemaakt gehaktbal met salade en friet, prijs € 10,00  
 
-Aanmelden tot zondag 28 mei, telefonisch via [0541-512496](tel:+31541512496)  
+Aanmelden tot zondag 28 mei 2023, telefonisch via [0541-512496](tel:+31541512496)  
 
 # Vrijdag 2 juni 2023
 
