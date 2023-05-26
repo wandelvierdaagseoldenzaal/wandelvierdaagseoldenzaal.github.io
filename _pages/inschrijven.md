@@ -11,7 +11,7 @@ Inschrijven voor de Wandel4Daagse Oldenzaal 2023 is vanaf nu mogelijk. De Wandel
 
 Dit jaar is de deelname geheel gratis bij voorinschrijving om ons zestigjarige jubileum te vieren. We hopen hiermee op nog meer deelnemers te kunnen rekenen dan voorgaande jaren. Voorinschrijven is mogelijk tot en met maandag 29 mei 2023 om 17.00 uur.  
 
-Indien je je niet vooraf inschrijft via het formulier op deze website, maar tijdens de Wandel4Daagse Oldenzaal zelf, dan betaal je € 2,00 per persoon, contant of per betaalverzoek te voldoen bij het aanmelden bij onze stand aan de start van de route.  
+Indien je je niet vooraf inschrijft via het formulier op deze website, maar tijdens de Wandel4Daagse Oldenzaal zelf, dan betaal je € 2,00 per persoon, contant, door het scannen van de vrije gift QR code of handmatige overboeking bij het aanmelden bij onze stand aan de start van de route.  
 
 ## Deelnemen als groep of individu
 
