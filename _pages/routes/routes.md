@@ -14,6 +14,10 @@ Dit jaar viert de Wandel4Daagse Oldenzaal haar 60<sup>e</sup> editie. We hebben 
     <li><a href="/routes/vrijdag">Vrijdag 2 juni 2023</a></li>
 </ul>
 
+# Scootmobielen, kinderwagens en bolderkarren
+
+Deelnemers in een scootmobiel kunnen aan zowel de wandel4daagse als de [mindervaliden wandel3daagse](/routes/mindervaliden) deelnemen, naar gelang hun voorkeur. We houden echter bij het opstellen van de wandelroutes bij de wandel4daagse niet specifiek rekening hiermee. Er zitten daardoor wat smalle bospaden en doorgangen in iedere route. Hetzelfde geldt voor mensen die kinderwagens en bolderkarren mee willen nemen: kan en mag, maar het kan soms wat lastig zijn.
+
 # Komoot
 
 Dit jaar kun je voor het eerst ook gebruik maken van [Komoot](/komoot) om de routes te navigeren.  
