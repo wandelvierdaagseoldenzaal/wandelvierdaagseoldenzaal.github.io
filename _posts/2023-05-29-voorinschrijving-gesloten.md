@@ -1,5 +1,6 @@
 ---
-title: "Gratis voorinschrijving sluit over 2 uur"
+title: "Voorinschrijving gesloten, aanmelden kan nog bij startpunt"
+
 last_modified_at: 2023-05-29T21:34:00+01:00
 categories:
   - nieuws
