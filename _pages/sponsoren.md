@@ -70,6 +70,9 @@ sponsorlogos:
 - url: /assets/sponsors/Riteco.jpg
   name: Riteco
   link: https://notariskantoorriteco.nl/
+- url: /assets/sponsors/Thijs.png
+  name: Thijs
+  link: https://www.thijs-oldenzaal.nl/
 classes: wide
 ---
 

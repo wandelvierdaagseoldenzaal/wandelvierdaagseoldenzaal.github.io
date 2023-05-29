@@ -9,6 +9,8 @@ Ter ere van het 60 jarige jubileum van de Wandel4Daagse Oldenzaal zullen er dive
 
 # Like, deel en win
 
+** Deze actie is inmiddels afgelopen **
+
 Ter ere van ons 60 jarige jubileum hebben we een te gekke unieke limited edition branded Dopper drinkfles laten maken. Wil jij kans maken om deze te winnen?  
 
 1. Volg ons op Facebook ([Wandel4DaagseOldenzaal](https://www.facebook.com/Wandel4DaagseOldenzaal){:target="_blank"}) & Instagram ([wandel4daagseoldenzaal](https://www.instagram.com/wandel4daagseoldenzaal){:target="_blank"})
@@ -25,13 +27,13 @@ Tijdens de wandeling op [donderdag 1 juni 2023](/routes#donderdag-1-juni-2023) z
 
 ![Woordpuzzel](/assets/images/woordlettersspel.png){: .align-center}
 
-De oplossing kun je insturen via het [wedstrijdformulier](https://forms.microsoft.com/e/t6aYz1E4f9){:target="_blank"}. Dit formulier is in te vullen van donderdag 1 juni 2023 17.00 uur t/m zondag 4 juni 23.59 uur. Onder de goede inzendingen verloten we twee vrijkaartjes voor [Monkey Town](https://www.monkeytown.eu/nl/enschede/home){:target="_blank"}. De winnaars worden vrijdag 9 juni bekend gemaakt via de [social media kanalen](/socials) en website en krijgen persoonlijk bericht per e-mail.  
+De oplossing kun je insturen via het [wedstrijdformulier](https://forms.microsoft.com/e/t6aYz1E4f9){:target="_blank"}. Dit formulier is in te vullen van donderdag 1 juni 2023 17.00 uur t/m zondag 4 juni 23.59 uur. Onder de goede inzendingen verloten we 5x twee vrijkaartjes voor [Monkey Town](https://www.monkeytown.eu/nl/enschede/home){:target="_blank"}. Tevens maak je kans op een lekker ijsje van [Thijs Oldenzaal](https://www.thijs-oldenzaal.nl/){:target="_blank"}. De winnaars worden vrijdag 9 juni bekend gemaakt via de [social media kanalen](/socials) en website en krijgen persoonlijk bericht per e-mail.  
 
 ![Monkey Town kaartjes](/assets/images/monkeytowntickets.png){: .align-center}
 
 # Mooiste foto
 
-Deel tijdens de Wandel4Daagse je mooiste, gekste of leukste foto via onze [socials](/socials) op [Facebook](https://www.facebook.com/wandel4daagseoldenzaal){:target="_blank"}, [Twitter](https://twitter.com/Avo4DOldenzaal){:target="_blank"} of [Instagram](https://www.instagram.com/wandel4daagseoldenzaal){:target="_blank"} met de hashtag #w4doldenzaal. De mooiste foto's winnen een te gekke unieke limited edition Wandel4Daagse 60e Editie Dopper.  
+Deel tijdens de Wandel4Daagse je mooiste, gekste of leukste foto via onze [socials](/socials) op [Facebook](https://www.facebook.com/wandel4daagseoldenzaal){:target="_blank"}, [Twitter](https://twitter.com/Avo4DOldenzaal){:target="_blank"} of [Instagram](https://www.instagram.com/wandel4daagseoldenzaal){:target="_blank"} met de hashtag #w4doldenzaal. De mooiste foto's winnen een te gekke unieke limited edition Wandel4Daagse 60e Editie Dopper. Tevens maak je kans op een lekker ijsje van [Thijs Oldenzaal](https://www.thijs-oldenzaal.nl/){:target="_blank"}.   
 
 ![Wandel4Daagse branded Dopper](/assets/images/dopper.png){: .align-center}  
 
