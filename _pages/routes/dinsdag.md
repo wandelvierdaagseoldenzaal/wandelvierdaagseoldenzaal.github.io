@@ -19,7 +19,7 @@ De Wandel4Daagse Oldenzaal begint dit jaar vanaf een nieuwe locatie: het NS Stat
 | 17.45 uur - 19.00 uur | Kort | [Routebeschrijving](/routes/kort/dinsdag) |
 | 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](/routes/lang/dinsdag) |
 
-Vanaf 17.00 uur tot aan einde starttijd van de routes (18.30 uur voor de lange route, 19.00 uur voor de korte route) is het mogelijk om je knipkaart op te halen bij onze stand bij het startpunt op het Stationsplein. De starttijden zijn ruim genomen zodat iedereen op zijn eigen tempo kan starten. De knipkaart is tevens je stempelkaart voor de hele week. Zorg er dus voor dat je deze altijd bij je hebt.  
+Vanaf 17.00 uur tot aan einde starttijd van de routes (18.30 uur voor de lange route, 19.00 uur voor de korte route) is het mogelijk om je knipkaart op te halen bij onze stand bij het startpunt op het Stationsplein. De starttijden zijn ruim genomen zodat iedereen op zijn eigen tempo kan starten. De knipkaart is tevens je stempelkaart voor de hele week. Zorg er dus voor dat je deze altijd bij je hebt. Beide routes kunnen pas vanaf 17.45 uur gelopen worden. Eerder zijn de routes nog niet opgezet en de verkeersregelaars nog niet op hun post aanwezig.  
 
 ## Parkeren
 
