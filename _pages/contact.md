@@ -24,4 +24,4 @@ Stichting Wandel4daagse Oldenzaal heeft een aanvraag lopen voor ANBI-status. Dit
 
 # Noodgevallen
 
-Voor noodgevallen tijdens de Wandel4Daagse kunt u bellen met onze veiligheidscoordinator op 06-34659612. Gelieve dit nummer alleen te gebruiken voor noodgevallen. Voor alle andere zaken kunt u iemand van de organisatie aanspreken, herkenbaar aan het fel groene shirt met het logo van de Wandel4Daagse Oldenzaal erop. U kunt tevens contact opnemen per e-mail. Deze wordt regelmatig gelezen.
+Voor noodgevallen tijdens de Wandel4Daagse kunt u bellen met onze veiligheidscoordinator op <a href="tel:+31634659612">06-34659612</a>. Gelieve dit nummer alleen te gebruiken voor noodgevallen. Voor alle andere zaken kunt u iemand van de organisatie aanspreken, herkenbaar aan het fel groene shirt met het logo van de Wandel4Daagse Oldenzaal erop. U kunt tevens contact opnemen per e-mail. Deze wordt regelmatig gelezen.
