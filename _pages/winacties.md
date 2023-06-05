@@ -23,6 +23,8 @@ Maandagavond 29 mei maken we de winnaars bekend. Wie weet loop jij straks te shi
 
 # Woordpuzzel
 
+** Deze actie is inmiddels afgelopen **  
+
 Tijdens de wandeling op [donderdag 1 juni 2023](/routes#donderdag-1-juni-2023) zullen langs de route 16 letters met daarbij een cijfer te vinden zijn. Spot al deze letters en noteer ze in je deelnemersboekje. Als je de letters in de juiste volgorde zet, krijg je de oplossing. Je kunt zowel meedoen als je de [korte](/routes/kort/donderdag) of de [lange](/routes/lang/donderdag) route loopt.
 
 ![Woordpuzzel](/assets/images/woordlettersspel.png){: .align-center}
