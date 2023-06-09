@@ -35,6 +35,8 @@ De oplossing kun je insturen via het [wedstrijdformulier](https://forms.microsof
 
 # Mooiste foto
 
+** Deze actie is inmiddels afgelopen **
+
 Deel tijdens de Wandel4Daagse je mooiste, gekste of leukste foto via onze [socials](/socials) op [Facebook](https://www.facebook.com/wandel4daagseoldenzaal){:target="_blank"}, [Twitter](https://twitter.com/Avo4DOldenzaal){:target="_blank"} of [Instagram](https://www.instagram.com/wandel4daagseoldenzaal){:target="_blank"} met de hashtag #w4doldenzaal. De mooiste foto's winnen een te gekke unieke limited edition Wandel4Daagse 60e Editie Dopper. Tevens maak je kans op een lekker ijsje van [Thijs Oldenzaal](https://www.thijs-oldenzaal.nl/){:target="_blank"}.   
 
 ![Wandel4Daagse branded Dopper](/assets/images/dopper.png){: .align-center}  
