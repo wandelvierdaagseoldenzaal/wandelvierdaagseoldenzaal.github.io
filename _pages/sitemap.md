@@ -24,6 +24,7 @@ author_profile: false
   * [Contact](/contact)
   * [Wie zijn wij](/organisatie)
   * [ANBI Status](/anbi)
+  * [Feedback geven](/feedback)
 * Voorwaarden
   * [Privacy reglement](/privacy)
 * Wandelen
