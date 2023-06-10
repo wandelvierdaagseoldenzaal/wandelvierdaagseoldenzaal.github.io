@@ -11,4 +11,4 @@ De prijswinnaars van de laatste twee [winacties](/winacties) zijn bekend! In tot
 
 Bedankt allemaal voor jullie deelname en tot volgend jaar! 
   
-![Monkey Town kaartjes](/assets/images/monkeytowntickets.png)
+![Prijzen](/assets/images/news/2023/prijswinnaars.png)
