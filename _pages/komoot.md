@@ -5,7 +5,7 @@ permalink: /komoot
 author_profile: false
 ---
 
-Dit jaar zullen we voor het eerst gebruik maken van [Komoot](https://www.komoot.com/nl-nl){:target="_blank"}. Komoot is een app die je kunt gebruiken om routes te plannen en te navigeren. De app is gratis te downloaden voor [Android](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl&redirect_macos=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl){:target="_blank"} en [iOS](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fkomoot%2Fid447374873){:target="_blank"}. Bij het aanmaken van een nieuw Komoot account kun je kiezen voor 1 gratis regio. Indien je hierbij voor Twente kiest, kun je gratis de routes van de Wandel4Daagse lopen.
+Ook in 2024 zullen we voor het eerst gebruik maken van [Komoot](https://www.komoot.com/nl-nl){:target="_blank"}. Komoot is een app die je kunt gebruiken om routes te plannen en te navigeren. De app is gratis te downloaden voor [Android](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl&redirect_macos=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl){:target="_blank"} en [iOS](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fkomoot%2Fid447374873){:target="_blank"}. Bij het aanmaken van een nieuw Komoot account kun je kiezen voor 1 gratis regio. Indien je hierbij voor Twente kiest, kun je gratis de routes van de Wandel4Daagse lopen.
 
 ## App downloaden
 

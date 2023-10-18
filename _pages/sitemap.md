@@ -5,8 +5,6 @@ permalink: /sitemap/
 author_profile: false
 ---
 
-* Eten
-  * [Maaltijd](/maaltijd)
 * Media
   * [Nieuws](/nieuws)
   * [Foto's](/fotos)
@@ -14,7 +12,6 @@ author_profile: false
   * [Media vermeldingen](/media)
 * Meedoen
   * [Inschrijven](/inschrijven)  
-  * [Mindervaliden](/routes/mindervaliden)
   * [Vrijwilliger worden](/organisatie/vrijwilligers)
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
@@ -31,6 +28,3 @@ author_profile: false
   * [Routes](/routes)
   * [Wandelroutes Archief](/wandelroutes)
   * [Komoot](/komoot)
-* Winnen
-  * [Fitcoins](/fitcoins)
-  * [Winacties](/winacties) 
