@@ -33,7 +33,7 @@ countdownto: "2024-05-21 17:00:00"
           <a href="/nieuws"><img src="/assets/images/arrow.png" alt="bekijk al het nieuws" style="padding-right: 10px">al het nieuws</a>
       </section>
       <section id="LaatsteRoutes">
-        <h2>Route archief</h2>
+        <h2>Wandelroutes archief</h2>
           <div class="entries-{{ entries_layout }} feature__wrapper">
             {% assign allposts = site.posts  | where_exp: "item", "item.hidden != true" | where_exp: "item", "item.layout == 'route'" %}
             {% for post in allposts limit:2 %}
