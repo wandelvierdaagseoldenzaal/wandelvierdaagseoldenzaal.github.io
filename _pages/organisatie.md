@@ -29,3 +29,6 @@ Website:
 
 Social Media:  
 [Yvonne Zomers](/organisatie/yvonne)  
+
+Rolstoel3daagse:  
+[Anita Laarveld](/organisatie/anita)  
