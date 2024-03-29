@@ -10,6 +10,9 @@ sponsorlogos:
 - url: /assets/sponsors/AutoWessel.png
   name: Auto Wessel
   link: https://www.auto-wessel.nl/
+- url: /assets/sponsors/BoeskoolFonds.png
+  name: Boeskoolfonds
+  link: https://www.boeskoolfonds.nl/
 - url: /assets/sponsors/ErveHulsbeek.jpg
   name: Erve Hulsbeek
   link: https://www.hulsbeek.nl/
@@ -43,9 +46,6 @@ sponsorlogos:
 - url: /assets/sponsors/LetterPret.png
   name: LetterPret
   link: https://www.letterpret.com/
-- url: /assets/sponsors/MonkeyTown.png
-  name: MonkeyTown Enschede
-  link: https://www.monkeytown.eu/nl/enschede/home
 - url: /assets/sponsors/Natuurmonumenten.png
   name: Natuurmonumenten
   link: https://www.natuurmonumenten.nl/
@@ -58,18 +58,12 @@ sponsorlogos:
 - url: /assets/sponsors/Plus.png
   name: Plus
   link: https://www.plus.nl/supermarkten/oldenzaal_plus-oldenzaal_823
-- url: /assets/sponsors/ProvincieOverrijsel.png
-  name: Provincie Overijssel
-  link: https://www.overijssel.nl/
 - url: /assets/sponsors/Rabobank.png
   name: Rabobank
   link: https://www.rabobank.nl/
 - url: /assets/sponsors/Reerink.png
   name: Reerink
   link: https://reerink.nl/
-- url: /assets/sponsors/Riteco.jpg
-  name: Riteco
-  link: https://notariskantoorriteco.nl/
 - url: /assets/sponsors/Thijs.png
   name: Thijs
   link: https://www.thijs-oldenzaal.nl/
