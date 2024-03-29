@@ -12,7 +12,6 @@ author_profile: false
   * [Media vermeldingen](/media)
 * Meedoen
   * [Inschrijven](/inschrijven)  
-  * [Vrijwilliger worden](/organisatie/vrijwilligers)
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
 * Nieuws
@@ -20,7 +19,6 @@ author_profile: false
 * Organisatie
   * [Contact](/contact)
   * [Wie zijn wij](/organisatie)
-  * [ANBI Status](/anbi)
   * [Feedback geven](/feedback)
 * Voorwaarden
   * [Privacy reglement](/privacy)

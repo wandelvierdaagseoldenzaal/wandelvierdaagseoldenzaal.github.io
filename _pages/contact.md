@@ -19,5 +19,3 @@ Voor al uw vragen over ons evenement kunt u mailen naar [info@wandel4daagseolden
 We zijn ook terug te vinden op diverse [social media](/socials) kanalen.  
 
 De [organisatie](/organisatie) van de Wandel4Daagse Oldenzaal wordt mogelijk gemaakt door onze fantastische [sponsoren](/sponsoren).  
-
-Stichting Wandel4daagse Oldenzaal heeft een aanvraag lopen voor ANBI-status. Dit betekent dat giften aan de stichting aftrekbaar zijn van de belasting indien deze ANBI-status wordt toegekend. Voor meer informatie over de ANBI-status, zie [ANBI](/anbi).
