@@ -5,6 +5,12 @@ permalink: /feedback
 author_profile: false
 ---
 
-De Wandel4Daagse Oldenzaal 2023 is inmiddels alweer afgelopen. We horen graag van jullie hoe jullie het hebben ervaren. Wat was leuk, wat kon beter? Deze feedback nemen we mee naar volgend jaar. Alle vragen zijn optioneel, dus wat je niet in wilt of kunt vullen, kun je gewoon open laten. Invullen kan ook anoniem. Liever je feedback via e-mail opsturen? Dat mag ook! We horen graag van je op [info@wandel4daagseoldenzaal.nl](mailto:info@wandel4daagseoldenzaal.nl?subject=Feedback). Bedankt voor de moeite alvast!
+We hebben mooie en constructieve feedback mogen ontvangen over de Wandel4Daagse Oldenzaal 2023. Deze hebben we meegenomen in onze evaluatie en hebben we gebruikt om de Wandel4Daagse Oldenzaal 2024 nog beter te maken. Routes zijn aangepast, het wedstrijdelement is een blijver geworden en zullen we uitbreiden, Streetsoccer valt niet meer tegelijk met de Wandel4Daagse en we hebben een aantal nieuwe activiteiten toegevoegd. Het experiment van het aanbieden van een maaltijdoptie voorafgaand aan de wandeling is niet geslaagd en zullen we niet meer aanbieden.  
 
-[![Feedback formulier invullen](/assets/images/feedback.png){: .align-center}](https://forms.office.com/e/77ceMAX3K5){:target="_blank"}
+Tevens zijn we in gesprek gegaan met andere organisaties van Wandel4Daagsen in plaatsen om ons heen. Van elkaar kunnen we enorm veel leren en we hebben een aantal tips en tricks mogen ontvangen die al direct zijn toegepast.  
+
+Ook straks na afloop van de Wandel4Daagse Oldenzaal 2024 horen we weer graag van jullie. Wat was leuk, wat kon beter? Na afloop zullen we weer een formulier open stellen via deze website waar je je feedback kunt achterlaten.  
+
+Nu alvast feedback via e-mail opsturen? Dat mag ook! We horen graag van je op [info@wandel4daagseoldenzaal.nl](mailto:info@wandel4daagseoldenzaal.nl?subject=Feedback).
+
+Bedankt voor de moeite alvast!  

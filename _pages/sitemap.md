@@ -12,6 +12,7 @@ author_profile: false
   * [Media vermeldingen](/media)
 * Meedoen
   * [Inschrijven](/inschrijven)  
+  * [Tarieven](/tarieven)  
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
 * Nieuws
@@ -20,6 +21,7 @@ author_profile: false
   * [Contact](/contact)
   * [Wie zijn wij](/organisatie)
   * [Feedback geven](/feedback)
+  * [Meehelpen](/organisatie/vrijwilligers)
 * Voorwaarden
   * [Privacy reglement](/privacy)
 * Wandelen

@@ -6,7 +6,7 @@ permalink: /routes/dinsdag
 author_profile: false
 ---
 
-De Wandel4Daagse Oldenzaal begint dit jaar vanaf een nieuwe locatie: het NS Station Oldenzaal. Vandaag wandelen we een mooi rondje door het prachtige natuurgebied Boerskotten waar Zuid Berghuizen mee omringd wordt.
+De Wandel4Daagse Oldenzaal begint dit jaar, net zoals vorig jaar, vanaf het NS Station Oldenzaal. Vandaag wandelen we een mooi rondje door het prachtige natuurgebied Boerskotten waar Zuid Berghuizen mee omringd wordt.
 
 ## Startlocatie
 
@@ -23,7 +23,7 @@ Vanaf 17.00 uur tot aan einde starttijd van de routes (18.30 uur voor de lange r
 
 ## Parkeren
 
-Deze locatie beschikt over een ruime gratis parkeergelegenheid voor zowel auto's als fietsen. Er zullen verkeersregelaars aanwezig zijn om alles in goede banen te leiden.
+Deze locatie beschikt over een ruime gratis parkeergelegenheid voor zowel auto's als fietsen. EV oplaadpunten zijn eveneens aanwezig. Er zullen verkeersregelaars aanwezig zijn om alles in goede banen te leiden.
 
 ## Openbaar vervoer
 
@@ -31,10 +31,10 @@ Deze locatie is prima bereikbaar per openbaar vervoer. Er stoppen [treinen](http
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.
 
-## Hapje vooraf
+## Gratis drinkwater
 
-Voor een hapje vooraf aan de wandeling kun je vandaag terecht bij [NS Station Spoor 6](/maaltijd#ns-station-spoor-6).  
+[Voor het stationsgebouw](https://maps.app.goo.gl/kFac2JT7TNwTyNjs9){:target="_blank"} is een watertappunt van de NS aanwezig waar je gratis drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen drinken. 
 
 ## Vermaak onderweg
 
-Vandaag speelt [Dweilorkest Oln’zels Knooi Ensemble](https://www.dweilorkestoke.nl/nl/){:target="_blank"} vanaf 17.30 uur tot ongeveer 20.00 uur. Tevens spelen ze ook voor de [mindervaliden wandel3daagse](/routes/mindervaliden) die op doortocht gaan via de Groene Loper naar de [Muziekkoepel Oldenzaal](https://muziekkoepeloldenzaal.nl/){:target="_blank"} in Zuid Berghuizen.  
+Binnenkort maken we bekend wat er onderweg te beleven is. Houd deze pagina in de gaten voor de laatste updates.

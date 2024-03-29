@@ -5,7 +5,7 @@ permalink: /organisatie
 author_profile: false
 ---
 
-De Wandel4Daagse Oldenzaal wordt georganiseerd door een team enthousiaste vrijwilligers. De organisatie bestaat uit een bestuur en een groot aantal vrijwilligers die tijdens de dagen meehelpen met alles in goede banen leiden. Het bestuur is verantwoordelijk voor de organisatie van de Wandel4Daagse.
+De Wandel4Daagse Oldenzaal wordt georganiseerd door een team van enthousiaste vrijwilligers. De organisatie bestaat uit een bestuur en een groot aantal vrijwilligers die tijdens de dagen meehelpen met alles in goede banen leiden. Het bestuur is verantwoordelijk voor de organisatie van de Wandel4Daagse.
 
 ![Bestuur Wandel4Daagse Oldenzaal](/assets/organisatie/bestuur.jpg)
 
@@ -32,3 +32,7 @@ Social Media:
 
 Rolstoel3daagse:  
 [Anita Laarveld](/organisatie/anita)  
+
+Zelf ook meehelpen en een te gekke ervaring opdoen? [Meld je dan aan als vrijwilliger](/organisatie/vrijwilligers)!  
+
+![Organisatie en vrijwilligers Wandel4Daagse Oldenzaal 2023](/assets/organisatie/teamfoto2023.jpg)  
