@@ -7,6 +7,9 @@ author_profile: false
 
 De Wandel4Daagse Oldenzaal verschijnt regelmatig in de media. Hieronder een overzicht van de artikelen en video's die over ons zijn verschenen.
 
+## 2024
+
+
 ## 2023
 
 9 mei 2023 - HartVanOldenzaal - [Wandel4daagse Oldenzaal staat alweer voor de deur](https://www.hartvanoldenzaal.nl/nieuws/algemeen/105699/wandel4daagse-oldenzaal-staat-alweer-voor-de-deur){:target="_blank"}  
