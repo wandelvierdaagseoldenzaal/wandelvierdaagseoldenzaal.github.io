@@ -13,6 +13,7 @@ author_profile: false
 * Meedoen
   * [Inschrijven](/inschrijven)  
   * [Tarieven](/tarieven)  
+  * [Winacties](/winacties)  
 * Mogelijk maken
   * [Sponsoren](/sponsoren)
 * Nieuws
