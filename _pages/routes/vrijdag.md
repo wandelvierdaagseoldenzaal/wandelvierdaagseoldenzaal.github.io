@@ -1,12 +1,12 @@
 ---
 layout: routedag
-datum: 2 juni 2023
+datum: 24 mei 2024
 title: Vrijdag
 permalink: /routes/vrijdag
 author_profile: false
 ---
 
-Voor de slotdag beginnen- en eindigen we in het centrum van Oldenzaal. We duiken de mooie natuur in ten oosten van Oldenzaal. Een mooie en vooral ook feestelijke afsluiter van de Wandel4Daagse Oldenzaal.
+Voor de slotdag beginnen- en eindigen we zoals vanouds in het centrum van Oldenzaal. We duiken de mooie natuur in ten oosten van Oldenzaal. Een mooie en vooral ook feestelijke afsluiter van de Wandel4Daagse Oldenzaal.
 
 ## Startlocatie
 
@@ -29,12 +29,8 @@ Fietsen graag parkeren in de fietsenstallingen in de binnenstad en niet op de Gr
 
 Deze locatie is goed bereikbaar per openbaar vervoer. Er stoppen [diverse bussen](https://9292.nl/oldenzaal/bushalte-station){:target="_blank"} zoals lijn 60, 62, 64 en 66 rondom de binnenstad met slechts een kort wandeling resterend. Komende met de trein kun je vanuit [NS Station Oldenzaal](https://www.ns.nl/stationsinformatie/odz/oldenzaal){:target="_blank"} bus 60, 62 of 66 nemen richting het centrum of anders is het 10 minuutjes lopen.  
 
-Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.
-
-## Hapje vooraf
-
-Voor een hapje vooraf aan de wandeling kun je vandaag terecht bij [Tante Annies](/maaltijd#tante-annies) en [Stadshotel Ter Stege](/maaltijd#stadshotel-ter-stege).  
+Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}. 
 
 ## Vermaak onderweg
 
-Op deze slotdag zal [dweilorkest de Sputterkearls](https://sputterkearls.nl/){:target="_blank"} vanaf ongeveer 17.30 uur voor jullie spelen bij de Marksteen in het centrum van Oldenzaal. Vanaf 19.15 uur zal dit worden voortgezet bij de Potskamp. Tot slot vanaf 20.15 uur, na de intocht, wordt het optreden vervolgd op de Grote Markt tot 20.45/21.00 uur.  
+Binnenkort maken we bekend wat er onderweg te beleven is. Houd deze pagina in de gaten voor de laatste updates.   

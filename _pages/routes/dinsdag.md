@@ -1,16 +1,16 @@
 ---
 layout: routedag
-datum: 30 mei 2023
+datum: 21 mei 2024
 title: Dinsdag
 permalink: /routes/dinsdag
 author_profile: false
 ---
 
-De Wandel4Daagse Oldenzaal begint dit jaar, net zoals vorig jaar, vanaf het NS Station Oldenzaal. Vandaag wandelen we een mooi rondje door het prachtige natuurgebied Boerskotten waar Zuid Berghuizen mee omringd wordt.
+De Wandel4Daagse Oldenzaal begint dit jaar, net zoals vorig jaar, vanaf het treinstation in Oldenzaal. Vandaag wandelen we een mooi rondje door Zuid Berghuizen en het prachtige natuurgebied Boerskotten waar Zuid Berghuizen mee omringd wordt.
 
 ## Startlocatie
 
-[NS Station, Stationsplein 14, 7573 AV, Oldenzaal](https://goo.gl/maps/xB9GmvwCaecrx9v76){:target="_blank"}  
+[Treinstation, Stationsplein 14, 7573 AV, Oldenzaal](https://goo.gl/maps/xB9GmvwCaecrx9v76){:target="_blank"}  
 
 ## Starttijden & routebeschrijvingen
 
@@ -37,4 +37,4 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 ## Vermaak onderweg
 
-Binnenkort maken we bekend wat er onderweg te beleven is. Houd deze pagina in de gaten voor de laatste updates.
+Binnenkort maken we bekend wat er onderweg te beleven is. Houd deze pagina in de gaten voor de laatste updates.  

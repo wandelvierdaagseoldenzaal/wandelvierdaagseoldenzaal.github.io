@@ -25,7 +25,9 @@ Wanneer je ervoor kiest om je niet vooraf in te schrijven, kun je nog steeds mee
 
 € 2,00 euro per persoon per dag  
 
-Weet je nog niet zeker of je alle 4 dagen kunt meewandelen? Geen probleem! Je kunt ook per dag meewandelen. Voor € 2,00 euro per persoon per dag kun je meewandelen. Meld je hiervoor op de dag zelf bij de startlocatie van die dag. Je ontvangt bij een daginschrijving geen medaille.  
+Weet je nog niet zeker of je alle 4 dagen kunt meewandelen? Geen probleem! Je kunt ook per dag meewandelen. Voor € 2,00 euro per persoon per dag kun je meewandelen. Meld je hiervoor op de dag zelf bij de startlocatie van die dag.  
+
+Je ontvangt bij een daginschrijving geen medaille.  
 
 ## Groepen vanaf 10 personen
 

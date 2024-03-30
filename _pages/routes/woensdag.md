@@ -1,12 +1,12 @@
 ---
 layout: routedag
-datum: 31 mei 2023
+datum: 22 mei 2024
 title: Woensdag
 permalink: /routes/woensdag
 author_profile: false
 ---
 
-Op deze dag lopen we voor vele deelnemers een bekende route. We wandelen namelijk door het prachtige recreatiegebied Het Hulsbeek. Een mooie route door de natuur met een aantal leuke bezienswaardigheden onderweg.
+Op deze dag lopen we een voor veel deelnemers bekende route. We wandelen namelijk wederom door het prachtige recreatiegebied Het Hulsbeek. Een mooie route door de natuur met een aantal leuke bezienswaardigheden onderweg.
 
 ## Startlocatie
 
@@ -21,7 +21,7 @@ Op deze dag lopen we voor vele deelnemers een bekende route. We wandelen namelij
 
 ## Parkeren
 
-Voor deze locatie kun je gebruik maken van de P1 parkeergelegenheid bij Het Hulsbeek voor zowel auto's als fietsen. Er zullen verkeersregelaars aanwezig zijn om alles in goede banen te leiden. Dit parkeerterrein is voor deze avond speciaal opengesteld voor de Wandel4Daagse en vrij van parkeerkosten (onder voorbehoud van wijzigingen).
+Voor deze locatie kun je gebruik maken van de P1 parkeergelegenheid bij Het Hulsbeek voor zowel auto's als fietsen. Je zult het parkeerterrein betreden via een zij-ingang en niet via de reguliere ingang met slagbomen. Er zullen verkeersregelaars aanwezig zijn om alles in goede banen te leiden en je te wijzen waar je moet zijn. Dit parkeerterrein is voor deze avond speciaal opengesteld voor de Wandel4Daagse en vrij van parkeerkosten (onder voorbehoud van eventuele wijzigingen).
 
 Fietsen kunnen worden gestald in de fietstenstalling van Het Hulsbeek bij P1, net over het bruggetje.  
 
@@ -31,12 +31,12 @@ Deze locatie is helaas slecht bereikbaar per openbaar vervoer. Bus 60 stopt bij 
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.  
 
-## Hapje vooraf
+## Wedstrijd
 
-Voor een hapje vooraf aan de wandeling kun je vandaag terecht bij [Hulsbeek P1 Hulsbeach](/maaltijd#hulsbeek-p-1-hulsbeach).  
+Iedereen die wil kan gedurende de wandelroute mee doen aan een wedstrijd. Je gevonden antwoord kun je naderhand insturen via onze website om mee te dingen naar een prijsje. We zullen hierover later meer informatie geven.  
+
+Meer informatie over de wedstrijd en de prijs vind je op de [winactie pagina](/winacties#woensdag).  
 
 ## Vermaak onderweg
 
-Vandaag kunnen jullie onderweg genieten van [Dweilorkest Slipgevaar](https://www.facebook.com/profile.php?id=100062952294500){:target="_blank"}. Zij spelen vanaf 19.00 uur tot ongeveer 20.30 uur.  
-
-Voor de minder validen treedt het koor de Confetti’s op bij Thijs aan de Grotestraat.  
+Binnenkort maken we bekend wat er onderweg te beleven is. Houd deze pagina in de gaten voor de laatste updates.  
