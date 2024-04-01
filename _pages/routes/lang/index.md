@@ -7,10 +7,10 @@ author_profile: false
 
 De volgende lange routes van ongeveer 10-12 kilometer zijn beschikbaar:
 
-- [Dinsdag 30 mei 2023](/routes/lang/dinsdag)
-- [Woensdag 31 mei 2023](/routes/lang/woensdag)
-- [Donderdag 1 juni 2023](/routes/lang/donderdag)
-- [Vrijdag 2 juni 2023](/routes/lang/vrijdag)
+- [Dinsdag 21 mei 2024](/routes/lang/dinsdag)
+- [Woensdag 22 mei 2024](/routes/lang/woensdag)
+- [Donderdag 23 mei 2024](/routes/lang/donderdag)
+- [Vrijdag 24 mei 2024](/routes/lang/vrijdag)
 
 Ook is er voor elke dag een [korte route](/kort) van ongeveer 5-6 kilometer beschikbaar.  
 Tevens zal er een speciale route zijn voor [mindervaliden](/routes/mindervaliden).
