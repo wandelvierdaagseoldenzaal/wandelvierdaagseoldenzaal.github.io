@@ -31,6 +31,10 @@ Deze locatie is helaas slecht bereikbaar per openbaar vervoer. Bus 60 stopt bij 
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.  
 
+## Gratis drinkwater
+
+Op diverse plekken op Het Hulsbeem zijn gratis watertappunten waar je drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen drinken. 
+
 ## Wedstrijd
 
 Iedereen die wil kan gedurende de wandelroute mee doen aan een wedstrijd. Je gevonden antwoord kun je naderhand insturen via onze website om mee te dingen naar een prijsje. We zullen hierover later meer informatie geven.  

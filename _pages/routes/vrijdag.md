@@ -31,6 +31,10 @@ Deze locatie is goed bereikbaar per openbaar vervoer. Er stoppen [diverse bussen
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}. 
 
+## Gratis drinkwater
+
+Op het marktplein is een watertappunt aanwezig waar je gratis drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen drinken. 
+
 ## Vermaak onderweg
 
 Binnenkort maken we bekend wat er onderweg te beleven is. Houd deze pagina in de gaten voor de laatste updates.   
