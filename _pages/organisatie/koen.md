@@ -5,7 +5,7 @@ permalink: /organisatie/koen
 author_profile: false
 ---
 
-Functie: Website en Social Media  
+Functie: Website, Social Media en automatisering  
 Leeftijd: 41 jaar  
 Beroep: ICT Consultant  
 E-mail: [koen@wandel4daagseoldenzaal.nl](mailto:koen@wandel4daagseoldenzaal.nl)  
