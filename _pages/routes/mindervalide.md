@@ -13,7 +13,7 @@ Dit jaar wordt er wederom door de Zorgfederatie Oldenzaal en de Zorggroep Sint M
 - [Vrijdag 24 mei 2024](/routes/mindervalide/vrijdag)
 
 ## Kosten
-De kosten voor deelname aan de mindervaliden route zijn € 4,00 per persoon voor alle drie de dagen samen. Dit is inclusief een medaille. De kosten dienen bij aanmelding betaald te worden.  
+De kosten voor deelname aan de mindervaliden route zijn € 12,00 per persoon voor alle drie de dagen samen. Dit is inclusief een medaille, wat lekkers onderweg, koffie met broodje of gebak na de tijd en bij de intocht een bloemetje voor de deelnemer en begeleider. De kosten dienen bij aanmelding betaald te worden.  
 
 ## Aanmelden & vragen
 Aanmelden voor deze route is voor iedereen mogelijk. Je kunt jezelf aanmelden door te bellen met Anita Laarveld van [de Zorgfederatie](https://www.zorgfederatieoldenzaal.nl/portal-over-het-bedrijf/contact){:target="_blank"} via [0541-513433](tel:+31541513433) of per e-mail naar [a.laarveld@zorgfederatieoldenzaal.nl](mailto:a.laarveld@zorgfederatieoldenzaal.nl?subject=Aanmelden%20Mindervaliden3Daagse). Je kunt dit dus _niet_ doen via deze website. Ook voor vragen kun je bij hen terecht.  
