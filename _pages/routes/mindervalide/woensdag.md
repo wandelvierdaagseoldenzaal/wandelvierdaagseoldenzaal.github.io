@@ -18,7 +18,7 @@ permalink: /routes/mindervalide/woensdag
 5.	Aan het eind rechtsaf de Bentheimerstraat.
 6.	Met de bocht mee rechtsaf de Haerstraat op.
 7.	Bij het vakwerkhuis de Engelse tuin in.
-8.	Pauzeplek
+8.	**Pauzeplek**
 9.	Pad door de Engelse tuin vervolgen, bij het “Engelse huis” aan de Haerstraat de Engelse tuin verlaten, rechtsaf de Haerstraat op.
 10.	Rechtsaf voetpad langs de de Kalheupinklaan.
 11.	Linksaf Scholte Grevinkhoflaan.
