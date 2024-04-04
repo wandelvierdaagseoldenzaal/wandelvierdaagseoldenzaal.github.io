@@ -10,7 +10,8 @@ Op deze dag lopen we een voor veel deelnemers bekende route. We wandelen namelij
 
 ## Startlocatie
 
-[Hulsbeek P1, Oude Almeloseweg, 7576 PE Oldenzaal](https://goo.gl/maps/uGMfzSToiXfAvQCBA){:target="_blank"}  
+Lange & korte route: [Hulsbeek P1, Oude Almeloseweg, 7576 PE Oldenzaal](https://goo.gl/maps/uGMfzSToiXfAvQCBA){:target="_blank"}  
+Mindervaliden route: [Mariahof, Beatrixstraat 64, 7573 EC, Oldenzaal](https://goo.gl/maps/nSTkzPjKzGCDorGQ7){:target="_blank"}  
 
 ## Starttijden & routebeschrijvingen
 
@@ -18,6 +19,7 @@ Op deze dag lopen we een voor veel deelnemers bekende route. We wandelen namelij
 |-------------|-------------|
 | 18.00 uur - 19.00 uur | Kort | [Routebeschrijving](/routes/kort/woensdag) |
 | 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](/routes/lang/woensdag) |
+| 18.30 uur | Mindervaliden | [Routebeschrijving](/routes/mindervaliden/woensdag) |
 
 ## Parkeren
 

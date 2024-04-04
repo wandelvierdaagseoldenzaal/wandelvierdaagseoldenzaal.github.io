@@ -10,7 +10,8 @@ De Wandel4Daagse Oldenzaal begint dit jaar, net zoals vorig jaar, vanaf het trei
 
 ## Startlocatie
 
-[Treinstation, Stationsplein 14, 7573 AV, Oldenzaal](https://goo.gl/maps/xB9GmvwCaecrx9v76){:target="_blank"}  
+Lange & korte route: [Treinstation, Stationsplein 14, 7573 AV, Oldenzaal](https://goo.gl/maps/xB9GmvwCaecrx9v76){:target="_blank"}  
+Mindervaliden route: [Mariahof, Beatrixstraat 64, 7573 EC, Oldenzaal](https://goo.gl/maps/nSTkzPjKzGCDorGQ7){:target="_blank"}  
 
 ## Starttijden & routebeschrijvingen
 
@@ -18,8 +19,11 @@ De Wandel4Daagse Oldenzaal begint dit jaar, net zoals vorig jaar, vanaf het trei
 |-------------|-------------|
 | 17.45 uur - 19.00 uur | Kort | [Routebeschrijving](/routes/kort/dinsdag) |
 | 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](/routes/lang/dinsdag) |
+| 18.30 uur | Mindervaliden | [Routebeschrijving](/routes/mindervaliden/dinsdag) |
 
-Vanaf 17.00 uur tot aan einde starttijd van de routes (18.30 uur voor de lange route, 19.00 uur voor de korte route) is het mogelijk om je knipkaart op te halen bij onze stand bij het startpunt op het Stationsplein. De starttijden zijn ruim genomen zodat iedereen op zijn eigen tempo kan starten. De knipkaart is tevens je stempelkaart voor de hele week. Zorg er dus voor dat je deze altijd bij je hebt. Beide routes kunnen pas vanaf 17.45 uur gelopen worden. Eerder zijn de routes nog niet opgezet en de verkeersregelaars nog niet op hun post aanwezig.  
+Voor de lange en korte routes geldt dat vanaf 17.00 uur tot aan einde starttijd van de routes (18.30 uur voor de lange route, 19.00 uur voor de korte route) het mogelijk is om je knipkaart op te halen bij onze stand bij het startpunt op het Stationsplein. De starttijden zijn ruim genomen zodat iedereen op zijn eigen tempo kan starten. De knipkaart is tevens je stempelkaart voor de hele week. Zorg er dus voor dat je deze altijd bij je hebt. Beide routes kunnen pas vanaf 17.45 uur gelopen worden. Eerder zijn de routes nog niet opgezet en de verkeersregelaars nog niet op hun post aanwezig.  
+
+Voor de mindervaliden route geldt dat de starttijd om exact 18.30 uur is vanaf de [Mariahof](https://goo.gl/maps/nSTkzPjKzGCDorGQ7){:target="_blank"} aan de Beatrixstraat 64 te Oldenzaal. Deelnemers aan de mindervaliden route zullen aldaar hun knipkaart ontvangen.  
 
 ## Parkeren
 

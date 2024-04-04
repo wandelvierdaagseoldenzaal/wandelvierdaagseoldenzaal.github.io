@@ -12,7 +12,8 @@ Gelieve jullie extra aandacht om op de wandelpaden te blijven en hier niet van a
 
 ## Startlocatie
 
-[Hotel ‘t Landhuis, Bentheimerstraat 118, 7573 EC Oldenzaal](https://goo.gl/maps/nwD1usgUDQnt8hvPA){:target="_blank"}  
+Korte & lange route: [Hotel ‘t Landhuis, Bentheimerstraat 118, 7573 EC Oldenzaal](https://goo.gl/maps/nwD1usgUDQnt8hvPA){:target="_blank"}  
+Mindervaliden route: vandaag is er geen aparte route voor mindervaliden
 
 ## Starttijden & routebeschrijvingen
 
@@ -20,6 +21,7 @@ Gelieve jullie extra aandacht om op de wandelpaden te blijven en hier niet van a
 |-------------|-------------|
 | 18.00 uur - 19.00 uur | Kort | [Routebeschrijving](/routes/kort/donderdag) |
 | 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](/routes/lang/donderdag) |
+| - | Mindervaliden | Vandaag is er geen apare route voor mindervaliden |
 
 ## Parkeren
 

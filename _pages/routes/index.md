@@ -25,3 +25,7 @@ Dit jaar kun je wederom ook gebruik maken van [Komoot](/komoot) om de routes te 
 # Winacties
 
 Het lopen nog leuker maken? Tijdens de Wandel4Daagse kun je meedoen aan [winacties](/winacties) op [woensdag](/winacties#woensdag) en [donderdag](/winacties#donderdag).  
+
+# Blijf op de wandelpaden
+
+Speciaal verzoek vanuit de organisatie: blijf op de wandelpaden en ga niet van de paden af. Dit om de natuur en de omgeving te beschermen en ervoor te zorgen dat we in de komende jaren ook weer een vergunning kunnen verkrijgen voor het gebruik van de natuurgebieden voor het lopen van de Wandel4Daagse.    
