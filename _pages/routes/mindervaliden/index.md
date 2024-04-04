@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Lange Routes
+title: Mindervalide Routes
 permalink: /mindervaliden
 author_profile: false
 ---
