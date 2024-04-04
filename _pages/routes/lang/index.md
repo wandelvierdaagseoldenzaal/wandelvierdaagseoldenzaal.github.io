@@ -13,4 +13,4 @@ De volgende lange routes van ongeveer 10 tot 12 kilometer zijn beschikbaar:
 - [Vrijdag 24 mei 2024](/routes/lang/vrijdag)
 
 Ook is er voor elke dag een [korte route](/kort) van ongeveer 5 tot 6 kilometer beschikbaar.  
-Tevens zal er een speciale route zijn voor [mindervaliden](/routes/mindervaliden).
+Tevens zal er een speciale route zijn voor [mindervaliden](/routes/mindervalide).

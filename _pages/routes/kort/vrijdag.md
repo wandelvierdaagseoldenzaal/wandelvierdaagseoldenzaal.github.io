@@ -6,6 +6,7 @@ datum: 24 mei 2024
 startlocatie: Marktsteen, Groote Markt Oldenzaal
 googlemapsid: piGtQbNoBbjeQnQT6
 starttijd: Tussen 18:15 en 18:30
+toonkaart: true
 komootid: 1415768526
 permalink: /routes/kort/vrijdag
 ---

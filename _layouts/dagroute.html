@@ -2,9 +2,17 @@
 layout: default
 author_profile: false
 ---
+{% if page.lengte == "Kort" %}
+  {% assign routeType = page.lengte | append: 'e' %}
+{% elsif page.lengte == "Lang" %}
+  {% assign routeType = page.lengte | append: 'e' %}
+{% else %}
+  {% assign routeType = page.lengte %}
+{% endif %}
+
 {% assign title_lowercase = page.title | downcase %}
 {% assign lengte_lowercase = page.lengte | downcase %}
-{% assign title = page.lengte | append: 'e route ' | append: title_lowercase %}
+{% assign title = routeType | append: ' route ' | append: title_lowercase %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
@@ -61,14 +69,16 @@ author_profile: false
         <h2 id="route">Route</h2>
         {{ content }}
 
-        <h2 id="route">Kaart</h2>
-        {% if page.komootid %}
-        <a href="https://www.komoot.com/tour/{{ page.komootid }}#previewMap" tooltip="Bekijk de kaart op Komoot" target="_blank">
+        {% if page.toonkaart %}
+          <h2 id="route">Kaart</h2>
+          {% if page.komootid %}
+          <a href="https://www.komoot.com/tour/{{ page.komootid }}#previewMap" tooltip="Bekijk de kaart op Komoot" target="_blank">
+          {% endif %}
+          <img src="/assets/routes/kaart-{{ lengte_lowercase }}-{{ title_lowercase }}.png" alt="Kaart van de route" />
+          {% if page.komootid %}
+          </a>
+          {% endif %}
         {% endif %}
-        <img src="/assets/routes/kaart-{{ lengte_lowercase }}-{{ title_lowercase }}.png" alt="Kaart van de route" />
-        {% if page.komootid %}
-        </a>
-        {% endif %}        
 
         <div class="no-print">
           {% if page.komootid %}

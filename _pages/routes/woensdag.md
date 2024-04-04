@@ -19,7 +19,7 @@ Mindervaliden route: [Mariahof, Beatrixstraat 64, 7573 EC, Oldenzaal](https://go
 |-------------|-------------|
 | 18.00 uur - 19.00 uur | Kort | [Routebeschrijving](/routes/kort/woensdag) |
 | 17.45 uur - 18.30 uur | Lang | [Routebeschrijving](/routes/lang/woensdag) |
-| 18.30 uur | Mindervaliden | [Routebeschrijving](/routes/mindervaliden/woensdag) |
+| 18.30 uur | Mindervaliden | [Routebeschrijving](/routes/mindervalide/woensdag) |
 
 ## Parkeren
 

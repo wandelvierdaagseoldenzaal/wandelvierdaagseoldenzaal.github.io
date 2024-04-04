@@ -7,6 +7,6 @@ tags:
   - 60e editie
 ---
 
-De routes zijn bekend. We hebben 4 dagen een aantal mooie routes uitgezet. We gaan de prachtige natuur van Oldenzaal in. Tevens zal er een speciale route zijn voor [mindervaliden](/routes/mindervaliden). Trek je wandelschoenen maar vast aan! Meer informatie op onze [routes pagina](/routes).
+De routes zijn bekend. We hebben 4 dagen een aantal mooie routes uitgezet. We gaan de prachtige natuur van Oldenzaal in. Tevens zal er een speciale route zijn voor [mindervaliden](/routes/mindervalide). Trek je wandelschoenen maar vast aan! Meer informatie op onze [routes pagina](/routes).
   
 [![Route pagina](/assets/images/news/2023/zuidberghuizen.png)](/routes)
