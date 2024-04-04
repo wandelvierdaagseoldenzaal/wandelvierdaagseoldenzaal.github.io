@@ -5,7 +5,8 @@ permalink: /feedback
 author_profile: false
 ---
 
-We hebben mooie en constructieve feedback mogen ontvangen over de Wandel4Daagse Oldenzaal 2023. Deze hebben we meegenomen in onze evaluatie en hebben we gebruikt om de Wandel4Daagse Oldenzaal 2024 nog beter te maken. Routes zijn aangepast, het wedstrijdelement is een blijver geworden en zullen we uitbreiden, Streetsoccer valt niet meer tegelijk met de Wandel4Daagse en we hebben een aantal nieuwe activiteiten toegevoegd. Het experiment van het aanbieden van een maaltijdoptie voorafgaand aan de wandeling is niet geslaagd en zullen we niet meer aanbieden.  
+We hebben mooie en constructieve feedback mogen ontvangen over de Wandel4Daagse Oldenzaal 2023. Deze hebben we meegenomen in onze evaluatie en hebben we gebruikt om de Wandel4Daagse Oldenzaal 2024 nog beter te maken. Routes zijn aangepast, het wedstrijdelement is een blijver geworden en zullen we uitbreiden, Streetsoccer valt niet meer tegelijk met de Wandel4Daagse en we hebben een aantal nieuwe activiteiten toegevoegd. Het experiment van het aanbieden van een maaltijdoptie voorafgaand aan de wandeling is niet geslaagd en zullen we niet meer aanbieden. 
+Over de routes die we wandelen is ook aardig wat feedback ontvangen. Sommigen zouden wat meer afwisseling willen zien, terwijl anderen juist deze routes prijzen vanwege de mooie natuur. We hebben geprobeerd hier een goede balans in te vinden door ze iets aan te passen, maar in grote lijnen zijn ze vergelijkbaar met vorig jaar.  
 
 Tevens zijn we in gesprek gegaan met andere organisaties van Wandel4Daagsen in plaatsen om ons heen. Van elkaar kunnen we enorm veel leren en we hebben een aantal tips en tricks mogen ontvangen die al direct zijn toegepast.  
 
