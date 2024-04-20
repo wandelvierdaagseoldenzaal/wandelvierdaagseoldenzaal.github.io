@@ -43,10 +43,10 @@ Dit tarief geldt alleen bij voorinschrijving tussen zondag 21 april 2024 en maan
 
 Ook de basisschool leerlingen zien we graag in grotere getalen deelnemen, liefst in schooltenue. Ook zij kunnen gebruik maken van het speciale groepstarief. Elke leerling dient zelf zorg te dragen voor één begeleider. Zowel de leerling als de begeleider dienen zich in te schrijven via deze website en lopen mee voor het speciale tarief van € 4,00 euro per persoon.  
 
-Wandelt er meer dan één begeleider met je mee? Laat de anderen zich dan inschrijven via een normale inschrijving tegen het normale tarief.  
+Wandelt er meer dan één begeleider met je mee? Laat de anderen zich dan inschrijven via [een normale inschrijving](/inschrijven) tegen het normale tarief.  
 
 Dit tarief geldt voor alle 4 dagen. Jij en je je begeleider ontvangen bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
 
 Leerlingen hoeven niet allemaal tegelijk te starten en finishen. Het is wel zo gezellig om met je klas samen te lopen, trek dus je schoolshirt aan of neem een spandoek mee en moedig je klasgenoten aan om mee te doen en spreek onderling gezamenlijk een tijd af om te starten.  
 
-Dit tarief geldt alleen bij voorinschrijving tussen zondag 21 april 2024 en maandag 20 mei 2024 om 18.00 uur via de [inschrijfpagina](/inschrijven) of via inschrijfformulieren die mogelijk via je school zullen worden uitgereikt.  
+Dit speciale kortingstarief geldt alleen bij voorinschrijving tussen zondag 21 april 2024 en maandag 20 mei 2024 om 18.00 uur via speciale inschrijflink die uiterlijk vrijdag 26 april via school wordt verstrekt.   
