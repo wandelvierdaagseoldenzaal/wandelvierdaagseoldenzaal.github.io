@@ -53,4 +53,4 @@ Dit speciale kortingstarief geldt alleen bij voorinschrijving tussen zondag 21 a
 
 ## Mindervaliden 3 daagse
 
-Deelname aan de mindervaliden 3 daagse kost 12,00 euro per deelnemer en bevat een afwijkend programma. Kijk voor meer informatie en inschrijven op de [mindervaliden pagina](/routes/mindervalide).  
+Deelname aan de mindervaliden 3 daagse kost € 12,00 euro per deelnemer en bevat een afwijkend programma. Kijk voor meer informatie en inschrijven op de [mindervaliden pagina](/routes/mindervalide).  
