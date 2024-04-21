@@ -25,6 +25,7 @@ author_profile: false
   * [Meehelpen](/organisatie/vrijwilligers)
 * Voorwaarden
   * [Privacy reglement](/privacy)
+  * [Algemene voorwaarden](/voorwaarden)
 * Wandelen
   * [Routes](/routes)
   * [Wandelroutes Archief](/wandelroutes)

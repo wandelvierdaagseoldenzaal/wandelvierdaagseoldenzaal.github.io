@@ -25,3 +25,7 @@ Let op:
 - Deelnemers aan de mindervaliden 3 daagse schrijven zich in via [deze pagina](/routes/mindervalide#aanmelden--vragen).  
 - Deelnemers voor het [basisschool tarief](/tarieven#basisschool-leerlingen) schrijven zich in via de link die via school wordt verstrekt.  
 - Alle overige deelnemers (individueel, families, vrienden, groepen, verenigingen, bedrijven, etc.) schrijven zich in via bovenstaande knop.  
+
+## Algemene voorwaarden
+
+Door je in te schrijven voor de Wandel4Daagse Oldenzaal ga je akkoord met onze [algemene voorwaarden](/voorwaarden) en ons [privacy statement](/privacy).  
