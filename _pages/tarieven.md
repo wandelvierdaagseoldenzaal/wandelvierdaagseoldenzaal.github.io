@@ -49,4 +49,8 @@ Dit tarief geldt voor alle 4 dagen. Jij en je je begeleider ontvangen bij de fin
 
 Leerlingen hoeven niet allemaal tegelijk te starten en finishen. Het is wel zo gezellig om met je klas samen te lopen, trek dus je schoolshirt aan of neem een spandoek mee en moedig je klasgenoten aan om mee te doen en spreek onderling gezamenlijk een tijd af om te starten.  
 
-Dit speciale kortingstarief geldt alleen bij voorinschrijving tussen zondag 21 april 2024 en maandag 20 mei 2024 om 18.00 uur via speciale inschrijflink die uiterlijk vrijdag 26 april via school wordt verstrekt.   
+Dit speciale kortingstarief geldt alleen bij voorinschrijving tussen zondag 21 april 2024 en maandag 20 mei 2024 om 18.00 uur via speciale inschrijflink die uiterlijk vrijdag 26 april via school wordt verstrekt.  
+
+## Mindervaliden 3 daagse
+
+Deelname aan de mindervaliden 3 daagse kost 12,00 euro per deelnemer en bevat een afwijkend programma. Kijk voor meer informatie en inschrijven op de [mindervaliden pagina](/routes/mindervalide/#kosten).  
