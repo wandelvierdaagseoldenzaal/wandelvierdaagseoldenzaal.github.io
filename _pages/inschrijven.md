@@ -22,6 +22,6 @@ Klik op de onderstaande knop om je inschrijving te starten. Let er op dat je na 
 [![Inschrijven](/assets/images/inschrijven.png)](https://forms.microsoft.com/e/gDf6FCtkiC)
 
 Let op:  
-- Deelnemers aan de mindervaliden 3 daagse schrijven zich in via [deze pagina](/routes/mindervalide/#aanmelden--vragen).  
+- Deelnemers aan de mindervaliden 3 daagse schrijven zich in via [deze pagina](/routes/mindervalide#aanmelden--vragen).  
 - Deelnemers voor het [basisschool tarief](/tarieven#basisschool-leerlingen) schrijven zich in via de link die via school wordt verstrekt.  
 - Alle overige deelnemers (individueel, families, vrienden, groepen, verenigingen, bedrijven, etc.) schrijven zich in via bovenstaande knop.  
