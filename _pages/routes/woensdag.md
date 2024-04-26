@@ -39,9 +39,7 @@ Op diverse plekken op Het Hulsbeem zijn gratis watertappunten waar je drinkwater
 
 ## Wedstrijd
 
-Iedereen die wil kan gedurende de wandelroute mee doen aan een wedstrijd. Je gevonden antwoord kun je naderhand insturen via onze website om mee te dingen naar een prijsje. We zullen hierover later meer informatie geven.  
-
-Meer informatie over de wedstrijd en de prijs vind je op de [winactie pagina](/winacties#woensdag).  
+Iedereen die wil kan gedurende de wandelroute mee doen aan een wedstrijd. Je gevonden antwoord kun je naderhand insturen via onze website om mee te dingen naar een prijsje. Meer informatie over de wedstrijd en de prijs vind je op de [winactie pagina](/winacties#woensdag).  
 
 ## Vermaak onderweg
 
