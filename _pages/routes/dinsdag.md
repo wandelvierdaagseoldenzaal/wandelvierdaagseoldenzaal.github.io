@@ -41,10 +41,12 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 ## Vermaak onderweg
 
-Deze dag hebben we een aantal optredens voor jullie in petto. Zo zal er bij de start een optreden zijn van [Ragna Danst!](https://www.ragnadanst.nl){:target="_blank"}. Ragna zal j
+Deze dag hebben we een aantal optredens voor jullie in petto. Zo zal er bij de start een optreden zijn van [Ragna Danst!](https://www.ragnadanst.nl){:target="_blank"}. Ook zal er bij de muziekkoepel in Berghuizen een muzikaal optreden zijn.  
 
-Ragna Danst!
+### Ragna Danst!
 
 Ragna is de eigenaresse van het bedrijf Ragna Danst! Ze is docent dans en dans- en bewegingstherapeut en werkzaam in de regio Twente. Ze geeft danslessen in de stijlen jazz, musical en kinderdans, speelt theater- en dansvoorstelling voor kinderen en heeft zich gespecialiseerd in de danseducatie en Taaldans®- en Rekendans®. Ragna is actief met zowel kinder-en jeugdvoorstellingen als danseducatie in het onderwijs in de hele regio Twente. Ook is ze werkzaam als danstherapeut bij de zorginstelling Livio. Hier werkt ze met de doelgroepen: dementie, jonge mensen met dementie en mensen met een cognitieve en/of lichamelijk beperking. Meer over Ragna weten? Lees dan verder.
 
-Bij de muziekkoepel in Berghuizen wordt door de stichting Muziekkoepel muziek verzorgd tijdens de wandelingen.
+### Muziekkoepel Oldenzaal
+
+Bij de muziekkoepel in Berghuizen wordt door de [stichting Muziekkoepel Oldenzaal](https://muziekkoepeloldenzaal.nl/){:target="_blank"} een musicaal optreden verzorgd tijdens de wandeling.

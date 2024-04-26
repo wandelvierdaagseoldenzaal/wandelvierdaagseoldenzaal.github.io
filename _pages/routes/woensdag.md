@@ -43,4 +43,12 @@ Iedereen die wil kan gedurende de wandelroute mee doen aan een wedstrijd. Je gev
 
 ## Vermaak onderweg
 
-Binnenkort maken we bekend wat er onderweg te beleven is. Houd deze pagina in de gaten voor de laatste updates.  
+Gedurende de avond zullen er optredens zijn van dweilorkest OKE, Oldenzaals Knooi Ensembele.  
+
+Met optredens van Anke Engelbertink Zing je Fit wordt deze avond met 2 optredens van 20 minuten compleet gemaakt met zang van verschillende mensen. 1 Optreden voor vertrek en 1 tijdens de terugkomst van de deelnemers.  
+
+Voor de minder validen is er in de Engelse tuin een optreden van de zangeressen van de Confetties met de nodige meezingers.  
+
+### Adem, Zing, Geniet
+
+Ben jij toe om een stap verder te zetten en meer uit je passie te halen dan het zingen onder de douche? Dan is Zing je fit echt iets voor jou! Wat zing je fit voor jou doet? die hoge noot is zoveel makkelijker geworden en je kunt meer met je stem dan je ooit had verwacht. Met een gezonde dosis zelfvertrouwen zing jij dat ene nummer en straal je als een artiest! Je geniet, hebt plezier. Zenuwen zijn ''part of the deal'' geworden en je presentatie? die heeft het ''wow'' effect gekregen! Te mooi om waar te zijn? Ik ga deze uitdaging graag met jou aan! WELKOM bij Zing je fit!

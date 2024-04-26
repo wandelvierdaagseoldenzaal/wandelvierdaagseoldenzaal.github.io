@@ -41,4 +41,4 @@ Iedereen die wil kan gedurende de wandelroute mee doen aan een wedstrijd. Je gev
 
 ## Vermaak onderweg
 
-Binnenkort maken we bekend wat er onderweg te beleven is. Houd deze pagina in de gaten voor de laatste updates.  
+Gedurende de gehele avond zal dweilorkest Krisus de muzikale klanken verzorgen.  

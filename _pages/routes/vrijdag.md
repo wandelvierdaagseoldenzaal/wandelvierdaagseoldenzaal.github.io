@@ -39,4 +39,10 @@ Op het marktplein is een watertappunt aanwezig waar je gratis drinkwater kunt ta
 
 ## Vermaak onderweg
 
-Binnenkort maken we bekend wat er onderweg te beleven is. Houd deze pagina in de gaten voor de laatste updates.   
+Zowel bij vertrek, de Potskamp als bij terugkeer op de Markt kunnen we genieten van muzikale klanken van dweilorkest de Sputterkearls.  
+
+Op de markt en bij de Postkamp zal NextDanceStudio verschillende optredens verzorgen.  
+
+### Men zorgt zelf voor alle benodigdheden
+
+Welkom bij NEXT Dance Studio, de nieuwe dansschool gerund door Emma Saaltink en Carmen Koopman. Bij ons vind je een dynamische en inspirerende omgeving waar dansers van alle niveaus zich kunnen ontwikkelen en hun passie voor dans kunnen uiten! Bij NEXT Dance Studio hechten we veel waarde aan een positieve en ondersteunende sfeer. We willen dat onze dansers zich comfortabel voelen en zichzelf kunnen zijn. Dansen is immers niet alleen een fysieke activiteit, maar ook een sociale en emotionele ervaring. Onze studio is een plek waar je vriendschappen kunt sluiten, samen kunt groeien en jezelf kunt ontdekken.  
