@@ -7,7 +7,7 @@ tags:
   - 61e editie
 ---
 
-Met trots kunnen we zeggen dat we sinds vanochtend twee bestuursleden erbij hebben bij de Wandel4Daagse Oldenzaal met een Koninklijke onderscheiding. Jan en Hennie zijn beiden ten overstaan van een tot de nok toe gevulde Hofkerk in Oldenzaal benoemd tot respectievelijk Ridder in de Orde van Oranje-Nassaue en Lid in de Orde van Oranje-Nassau. Beiden zijn al vele tientallen jaren belangeloos actief binnen diverse organisaties en stichtingen in- en rondom Oldenzaal, waaronder sinds een aantal jaar de organisatie van de jaarlijkse Wandel4Daagse Oldenzaal.  
+Met trots kunnen we zeggen dat we sinds vanochtend twee bestuursleden erbij hebben bij de Wandel4Daagse Oldenzaal met een Koninklijke onderscheiding. Jan en Hennie zijn beiden ten overstaan van een tot de nok toe gevulde Hofkerk in Oldenzaal benoemd tot respectievelijk Ridder in de Orde van Oranje-Nassau en Lid in de Orde van Oranje-Nassau. Beiden zijn al vele tientallen jaren belangeloos actief binnen diverse organisaties en stichtingen in- en rondom Oldenzaal, waaronder sinds een aantal jaar de organisatie van de jaarlijkse Wandel4Daagse Oldenzaal.  
 
 Beide heren, gefeliciteerd met julle onderscheiding! We zijn trots op jullie en hopen nog vele jaren van jullie inzet te mogen genieten.  
 
