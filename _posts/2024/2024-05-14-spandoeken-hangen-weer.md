@@ -9,7 +9,7 @@ tags:
 
 Onze spandoeken hangen weer! Met nog een week te gaan tot de start van de 61e editie van de Wandel4Daagse Oldenzaal zijn de spandoeken weer opgehangen. De spandoeken zijn te vinden op verschillende locaties in Oldenzaal. Heb jij ze al gezien?
 
-![Stagiaires informatiemiddag](/assets/images/news/2024/spandoeken.png)
+![Spandoek Wandel4Daagse](/assets/images/news/2024/spandoeken.png)
 
 ## Al ingeschreven?
 
