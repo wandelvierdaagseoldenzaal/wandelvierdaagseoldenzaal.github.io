@@ -18,7 +18,7 @@ permalink: /routes/lang/woensdag
 5.	Op de kruising oversteken, Binnenweg blijven volgen. 
 6.	Net voor het einde van de weg linksaf het wandelpad in. 
 7.	Bij R18 rechtdoor en vervolgens het pad blijven volgen. 
-8.	Bij R12 links (**korte route gaat hier rechtdoor**), fietspad volgen. 
+8.	Bij R12 rechts (**korte route gaat hier rechtdoor**), fietspad volgen. 
 9.	Fietspad gaat over in onverharde weg (Viekboerweg). 
 10.	Op de splitsing bij S87 linksaf de verharde weg volgen (Spekhorstweg) 
 11.	Bij Q77 linksaf de verharde weg volgen (Beldhuismolenweg) 
@@ -39,6 +39,6 @@ permalink: /routes/lang/woensdag
 26.	Neem het rode fietspad naar links. 
 27.	Blijf het fietspad volgen tot wandelroutepaal R19 en sla daar rechtsaf. 
 28.	Volg het pad tot aan het hek en sla net voor het hek bij wandelroutepaaltje Q07 linksaf(rood/groen/blauwe route volgen) 
-29.	Blijf het pad helemaal rechtdoor volgen tot aan het einde en sla dan rechtsaf. 
-30.	Sla bij Q17 rechtsaf. 
+29.	Neem het 1e pad rechts en vervolgens bij het toiletgebouw linksaf.
+30.	Sla bij R14 rechtsaf. 
 31.	Blijf het pad volgen tot u weer bij het startpunt bent aangekomen

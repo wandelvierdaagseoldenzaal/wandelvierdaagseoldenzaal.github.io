@@ -28,7 +28,7 @@ permalink: /routes/kort/woensdag
 15.	Blijf het fietspad volgen tot aan de oversteekplaats en steek de verharde weg over. 
 16.	Neem het rode fietspad naar links. 
 17.	Blijf het fietspad volgen tot wandelroutepaal R19 en sla daar rechtsaf. 
-18.	Volg het pad tot aan het hek en sla net voor het hek bij wandelroutepaaltje Q07 linksaf(rood/groen/blauwe route volgen) 
+18.	Volg het pad tot aan het hek en sla net voor het hek bij wandelroutepaaltje Q07 linksaf (rood/groen/blauwe route volgen).
 19.	Blijf het pad helemaal rechtdoor volgen tot aan het einde en sla dan rechtsaf. 
-20.	Sla bij Q17 rechtsaf. 
-21.	Blijf het pad volgen tot u weer bij het startpunt bent aangekomen  
+20.	Sla bij R14 rechtsaf. 
+21.	Blijf het pad volgen tot u weer bij het startpunt bent aangekomen.
