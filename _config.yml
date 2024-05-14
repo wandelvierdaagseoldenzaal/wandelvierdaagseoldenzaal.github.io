@@ -139,7 +139,7 @@ author:
 footer:
   links:
     - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fas fa-times"
       url: https://twitter.com/Avo4DOldenzaal
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -159,6 +159,9 @@ footer:
     - label: "Komoot"
       img: /assets/images/komoot.png
       url: /komoot 
+    - label: "WhatsApp"
+      icon: "fab fa-whatsapp"
+      url: https://whatsapp.com/channel/0029VaY6m9EKGGGIPUfD3S24      
     - label: "RSS Feed"
       icon: "fas fa-fw fa-rss-square"
       url: /feed.xml
