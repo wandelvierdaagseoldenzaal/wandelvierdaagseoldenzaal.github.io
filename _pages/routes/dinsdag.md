@@ -39,6 +39,8 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 [Voor het stationsgebouw](https://maps.app.goo.gl/kFac2JT7TNwTyNjs9){:target="_blank"} is een watertappunt van de NS aanwezig waar je gratis drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen drinken. 
 
+Tevens zal er bij de [Muziekkoepel Oldenzaal](https://maps.app.goo.gl/sekQTF5tb7MyUt376){:target="_blank"} een stand te vinden zijn van "De Gezonde Toekomst" met twee gratis waterdispensers. Zij delen gratis drinkbidons uit aan deelnemers die met ze in gesprek gaan over wat JOGG doet in Oldenzaal. Zolang de voorraad strekt.  
+
 ## Vermaak onderweg
 
 Deze dag hebben we een aantal optredens voor jullie in petto. Zo zal er bij de start een optreden zijn van [Ragna Danst!](https://www.ragnadanst.nl){:target="_blank"}. Ook zal er bij de muziekkoepel in Berghuizen een muzikaal optreden zijn.  

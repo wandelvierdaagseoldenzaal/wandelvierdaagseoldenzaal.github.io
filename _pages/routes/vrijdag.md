@@ -41,6 +41,8 @@ Op het marktplein is een watertappunt aanwezig waar je gratis drinkwater kunt ta
 
 Zowel bij vertrek, de Potskamp als bij terugkeer op de Markt kunnen we genieten van muzikale klanken van dweilorkest de Sputterkearls.  
 
+Vanaf 19.00 uur treden de confetties op bij de Potskamp.  
+
 Op de markt en bij de Postkamp zal NextDanceStudio verschillende optredens verzorgen.  
 
 ### NEXT Dance Studio
