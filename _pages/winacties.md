@@ -33,7 +33,7 @@ De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/
 
 - 10x 2 muntjes voor een heerlijk ijsje bij [Thijs Oldenzaal](https://thijs-oldenzaal.nl){:target="_blank"}
 - 5x vrijkaartje voor [Monkey Town Enschede](https://monkeytown.eu/nl/enschede/home){:target="_blank"}
-- 4x een kan overheerlijke ranja siroop
+- 4x een kan overheerlijke ranja siroop, beschikbaar gesteld door [Akom Oldenzaal](https://www.akomoldenzaal.nl/){:target="_blank"}  
 - 10x drinkbidon, beschikbaar gesteld door [JOGG](https://jogg.nl/){:target="_blank"}
 
 # Uitslag
