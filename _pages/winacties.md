@@ -11,7 +11,7 @@ _! Tip ! Neem zelf een pen en papier mee tijdens het wandelen om de antwoorden o
 
 ## Woensdag 22 mei 2024
 
-Op [woensdag](/routes/woensdag) zul je langs de route een rebus tegen komen. Deze bestaat maar liefst uit 19 delen, herkenbaar aan A4tjes met het Wandel4Daagse logo. Deze onderdelen vormen samen een zin. Denk je de zin te hebben ontrafeld? Stuurt je antwoord dan in via het formulier welke tijdens de Wandel4Dagen op deze pagina en via een QR Code bij de finish beschikbaar zal komen en maak kans op een van de prijzen.  
+Op [woensdag](/routes/woensdag) zul je langs de route een rebus tegen komen. Deze bestaat maar liefst uit 19 delen, herkenbaar aan A4tjes met het Wandel4Daagse logo. Deze onderdelen vormen samen een zin. Denk je de zin te hebben ontrafeld? Stuur je antwoord dan in via het formulier hieronder of via een QR Code die bij de finish beschikbaar zal komen en maak kans op een van de prijzen.  
 
 [Klik hier om je antwoord in in te sturen voor de rebus](https://forms.microsoft.com/e/Hv5vQy0H3U){:target="_blank"}  
 
@@ -19,7 +19,7 @@ Insturen kan van woensdag 22 mei 2024 17.00 uur tot en met dinsdag 28 mei 2024 1
 
 ## Donderdag 23 mei 2024
 
-Op [donderdag](/routes/donderdag) kun je langs de route letters vinden. Deze letters vormen samen een woord. Denk je het woord te hebben gevonden? Stuur je antwoord dan in via het formulier welke tijdens de Wandel4Dagen op deze pagina en via een QR Code bij de finish beschikbaar zal komen en maak kans op een van de prijzen.  
+Op [donderdag](/routes/donderdag) kun je langs de route letters vinden. Deze letters vormen samen een woord. Denk je het woord te hebben gevonden? Stuur je antwoord dan in via het formulier hieronder of via een QR Code die bij de finish beschikbaar zal komen en maak kans op een van de prijzen.  
 
 [Klik hier om je antwoord in in te sturen voor de woordpuzzel](https://forms.microsoft.com/e/ARxC2Ru2Z4){:target="_blank"}  
 
