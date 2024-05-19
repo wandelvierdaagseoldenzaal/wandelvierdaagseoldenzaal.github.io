@@ -36,8 +36,8 @@ De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/
 - 10x een jaarvoorraad overheerlijke ranja siroop in de vorm van een 5 liter kan, beschikbaar gesteld door [Akom Oldenzaal](https://www.akomoldenzaal.nl/){:target="_blank"}  
 - 10x drinkbidon, beschikbaar gesteld door [JOGG](https://jogg.nl/){:target="_blank"}  
 - 10x snoeppakket, beschikbaar gesteld door [Jumbo Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers){:target="_blank"}  
-
-![Foto van de prijzen](/assets/images/news/2024/prijzen.png)
+  
+  ![Foto van de prijzen](/assets/images/news/2024/prijzen.png)
 
 # Uitslag
 
