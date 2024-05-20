@@ -7,14 +7,6 @@ author_profile: false
 
 Om de Wandel4Daagse Oldenzaal te kunnen lopen, dien je je in te schrijven. De kosten voor deelname aan de Wandel4Daagse Oldenzaal worden hieronder toegelicht. Voor dit bedrag krijg je een te gekke ervaring door te wandelen met een groot aantal deelnemers door het prachtige Oldenzaal. Voor de meeste tarieven is dit inclusief een medaille en ongetwijfeld mooie herinneringen aan de Wandel4Daagse.  
 
-## Alle 4 dagen meewandelen bij voorinschrijving
-
-€ 5,00 euro per persoon  
-
-Wanneer je je vooraf inschrijft via deze website, betaal je € 5,00 euro per persoon voor deelname aan alle 4 dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
-
-Inschrijven via deze website is niet meer mogelijk. Dit kon tussen zondag 21 april 2024 en maandag 20 mei 2024 om 18.00 uur.  
-
 ## Alle 4 dagen meewandelen bij inschrijving op de startlocatie
 
 € 7,50 euro per persoon  
@@ -31,17 +23,27 @@ Weet je nog niet zeker of je alle 4 dagen kunt meewandelen? Geen probleem! Je ku
 
 Je ontvangt bij een daginschrijving geen medaille.  
 
-## Groepen vanaf 10 personen
+## Alle 4 dagen meewandelen bij voorinschrijving
 
-€ 4,00 euro per persoon  
-
-Nieuw dit jaar is een speciaal groepstarief. We zouden erg graag zien dat meer verenigingen, scholen en sportclubs mee zouden doen. Wanneer je met een groep vanaf 10 personen wilt meewandelen, kun je je als groep inschrijven. De kosten hiervoor bedragen € 4,00 euro per persoon voor alle 4 dagen. Je ontvangt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname. Voorwaarde is dat je als groep herkenbaar bent en samen start en finisht. Trek dus je clubshirt aan of neem een spandoek mee en moedig je teamgenoten aan om mee te doen!  
+~~€ 5,00 euro per persoon~~  
 
 Inschrijven via deze website is niet meer mogelijk. Dit kon tussen zondag 21 april 2024 en maandag 20 mei 2024 om 18.00 uur.  
 
+Wanneer je je vooraf inschrijft via deze website, betaal je € 5,00 euro per persoon voor deelname aan alle 4 dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
+
+## Groepen vanaf 10 personen
+
+~~€ 4,00 euro per persoon~~  
+
+Inschrijven via deze website is niet meer mogelijk. Dit kon tussen zondag 21 april 2024 en maandag 20 mei 2024 om 18.00 uur.  
+
+Nieuw dit jaar is een speciaal groepstarief. We zouden erg graag zien dat meer verenigingen, scholen en sportclubs mee zouden doen. Wanneer je met een groep vanaf 10 personen wilt meewandelen, kun je je als groep inschrijven. De kosten hiervoor bedragen € 4,00 euro per persoon voor alle 4 dagen. Je ontvangt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname. Voorwaarde is dat je als groep herkenbaar bent en samen start en finisht. Trek dus je clubshirt aan of neem een spandoek mee en moedig je teamgenoten aan om mee te doen!  
+
 ## Basisschool leerlingen
 
-€ 4,00 euro per persoon
+~~€ 4,00 euro per persoon~~  
+
+Inschrijven via deze website is niet meer mogelijk. Dit kon tussen zondag 21 april 2024 en maandag 20 mei 2024 om 18.00 uur.  
 
 Ook de basisschool leerlingen zien we graag in grotere getalen deelnemen, liefst in schooltenue. Ook zij kunnen gebruik maken van het speciale groepstarief. Elke leerling dient zelf zorg te dragen voor één begeleider. Zowel de leerling als de begeleider dienen zich in te schrijven via deze website en lopen mee voor het speciale tarief van € 4,00 euro per persoon.  
 
@@ -50,8 +52,6 @@ Wandelt er meer dan één begeleider met je mee? Laat de anderen zich dan inschr
 Dit tarief geldt voor alle 4 dagen. Jij en je je begeleider ontvangen bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
 
 Leerlingen hoeven niet allemaal tegelijk te starten en finishen. Het is wel zo gezellig om met je klas samen te lopen, trek dus je schoolshirt aan of neem een spandoek mee en moedig je klasgenoten aan om mee te doen en spreek onderling gezamenlijk een tijd af om te starten.  
-
-Inschrijven via deze website is niet meer mogelijk. Dit kon tussen zondag 21 april 2024 en maandag 20 mei 2024 om 18.00 uur.  
 
 ## Mindervaliden 3 daagse
 
