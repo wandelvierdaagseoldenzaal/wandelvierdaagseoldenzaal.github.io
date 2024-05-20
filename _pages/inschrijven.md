@@ -5,7 +5,7 @@ permalink: /inschrijven
 author_profile: false
 ---
 
-Inschrijven voor de Wandel4Daagse Oldenzaal 2024 is vanaf nu mogelijk. De mogelijkheid om vooraf voordelig in te schrijven sluit op maandag 20 mei 2024 om 18.00 uur.  
+Voorinschrijven voor de Wandel4Daagse Oldenzaal 2024 is niet meer mogelijk. De mogelijkheid om vooraf voordelig in te schrijven sloot op maandag 20 mei 2024 om 18.00 uur. Je kunt nog wel steeds meedoen aan de Wandel4Daagse Oldenzaal, maar dan betaal je het [hogere tarief](/tarieven#alle-4-dagen-meewandelen-bij-inschrijving-op-de-startlocatie). Meld je hiervoor bij onze stand het bij het startpunt van de dag. Betalen kan per pin, contant of per iDeal.  
 
 ## Kosten
 
@@ -17,14 +17,7 @@ Benieuwd welke routes we gaan lopen? Kijk op de [routes](/routes) pagina.
 
 ## Inschrijven
 
-Klik op de onderstaande knop om je inschrijving te starten. Let er op dat je na het invullen van het formulier een bevestiging per e-mail ontvangt met daarin een link om te betalen voor je inschrijving via iDeal. Pas na betaling is je inschrijving definitief. Heb je deze mail niet ontvangen? Kijk dan in je spamfolder of [neem contact met ons op](/contact).
-
-[![Inschrijven](/assets/images/inschrijven.png)](https://forms.microsoft.com/e/gDf6FCtkiC)
-
-Let op:  
-- Deelnemers aan de mindervaliden 3 daagse schrijven zich in via [deze pagina](/routes/mindervalide#aanmelden--vragen).  
-- Deelnemers voor het [basisschool tarief](/tarieven#basisschool-leerlingen) schrijven zich in via de link die via school wordt verstrekt.  
-- Alle overige deelnemers (individueel, families, vrienden, groepen, verenigingen, bedrijven, etc.) schrijven zich in via bovenstaande knop.  
+Voorinschrijven is niet meer mogelijk. Meld je bij onze stand bij het startpunt van de dag om je in te schrijven.  
 
 ## Algemene voorwaarden
 
