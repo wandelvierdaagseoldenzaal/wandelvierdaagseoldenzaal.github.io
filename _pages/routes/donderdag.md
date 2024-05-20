@@ -41,4 +41,4 @@ Iedereen die wil kan gedurende de wandelroute mee doen aan een wedstrijd. Je gev
 
 ## Vermaak onderweg
 
-Gedurende de gehele avond zal dweilorkest Krisus de muzikale klanken verzorgen.  
+Helaas heeft het dweilorkest Krisus af moeten zeggen i.v.m. een condoleance en hebben we daarmee voor deze avond geen muzikaal vermaak.  
