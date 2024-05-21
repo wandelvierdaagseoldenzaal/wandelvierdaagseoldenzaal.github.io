@@ -27,7 +27,7 @@ Mindervaliden route: vandaag is er geen aparte route voor mindervaliden
 
 We zijn voor deze dag aangewezen op de openbare parkeerplaatsen in de wijk rondom Het Landhuis, welke beperkt zijn. De Bentheimerstraat zal tussen de Kalheupinklaan en de Haerstraat, dus voor het Landhuis, worden afgesloten voor autoverkeer door onze verkeersregelaars voor de veiligheid van de deelnemers. Gelieve zoveel mogelijk per fiets te komen en parkeeroverlast in de wijk te voorkomen. Let op de bebording om verkeershinder en parkeerboetes te voorkomen.    
 
-Fietsen kunnen geparkeerd worden aan de zijkant van Het Landhuis. Let erop dat de oprit toegankelijk blijft voor de hulpdiensten.  
+Voor fietsen zal er een aparte parkeerstrook worden ingericht langs de Kalheupinklaan. Onze medewerkers zullen helpen om je naar de juiste plek te wijzen. Fietsen liever niet parkeren aan de zijkant van Het Landhuis. Door de grote hoeveelheden deelnemers die we dit jaar hebben zal het daar niet passen of de doorgang gaan blokkeren. Mocht je dat desondanks toch doen, let erop dat de oprit en de nooduitgangen toegankelijk blijven voor de hulpdiensten.  
 
 ## Openbaar vervoer
 
