@@ -23,7 +23,7 @@ Mindervaliden route: [Mariahof, Beatrixstraat 64, 7573 EC, Oldenzaal](https://go
 
 ## Parkeren
 
-Voor deze locatie kun je gebruik maken van de P1 parkeergelegenheid bij Het Hulsbeek voor zowel auto's als fietsen. Je zult het parkeerterrein betreden via een zij-ingang en niet via de reguliere ingang met slagbomen. Er zullen verkeersregelaars aanwezig zijn om alles in goede banen te leiden en je te wijzen waar je moet zijn. Dit parkeerterrein is voor deze avond speciaal opengesteld voor de Wandel4Daagse en vrij van parkeerkosten (onder voorbehoud van eventuele wijzigingen).
+Voor deze locatie kun je gebruik maken van de P1 parkeergelegenheid bij Het Hulsbeek voor zowel auto's als fietsen. Je zult het parkeerterrein betreden via een zij-ingang en niet via de reguliere ingang met slagbomen. Er zullen verkeersregelaars aanwezig zijn om alles in goede banen te leiden en je te wijzen waar je moet zijn. Dit parkeerterrein is voor deze avond speciaal opengesteld voor de Wandel4Daagse en vrij van parkeerkosten (onder voorbehoud van eventuele wijzigingen). Twee EV oplaadpunten zijn aanwezig.  
 
 Fietsen kunnen worden gestald in de fietstenstalling van Het Hulsbeek bij P1, net over het bruggetje.  
 
