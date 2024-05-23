@@ -20,7 +20,13 @@ Nachtschade 6
 
 Voor al uw vragen over ons evenement kunt u mailen naar [info@wandel4daagseoldenzaal.nl](mailto:info@wandel4daagseoldenzaal.nl). Omdat we een vrijwilligersorganisatie zijn en dit naast ons werk doen, zijn we telefonisch op dit moment helaas niet bereikbaar. Via e-mail reageren we doorgaans binnen 24 uur. 
 
-Voor dringende zaken tijdens de Wandel4Daagse Oldenzaal kunt u altijd een van onze medewerkers aanspreken. Zij zijn duidelijk herkenbaar in Wandel4Daagse outfit.    
+Voor dringende zaken tijdens de Wandel4Daagse Oldenzaal kunt u altijd een van onze medewerkers aanspreken. Zij zijn duidelijk herkenbaar in Wandel4Daagse outfit.  
+
+## Noodnummer / Calamiteiten
+
+Voor calamiteiten tijdens de Wandel4Daagse Oldenzaal kunt u bellen met [06-34659612](tel:+31634659612). Dit nummer is uitsluitend bedoeld voor noodgevallen en calamiteiten. Mocht er onderweg iets gebeuren waarvoor onze hulp direct nodig is, dan kunt u dit nummer bellen. Wij kunnen dan de hulpdiensten inschakelen en u zo snel mogelijk helpen.  
+
+Voor alle andere situaties en vragen verzoeken wij u het bovenstaande e-mail adres te gebruiken.  
 
 ## Social Media
 
