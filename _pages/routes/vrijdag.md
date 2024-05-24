@@ -8,18 +8,15 @@ author_profile: false
 
 Voor de slotdag beginnen- en eindigen we zoals vanouds in het centrum van Oldenzaal. We duiken de mooie natuur in ten oosten van Oldenzaal. Een mooie en vooral ook feestelijke afsluiter van de Wandel4Daagse Oldenzaal.
 
+**Deze dag is afgelast. Zie [nieuwsbericht](/nieuws/vierde-dag-afgelast-in-verband-met-weersvoorspellingen/).**  
+
 ## Startlocatie
 
-Korte & lange route: [Marktsteen, Groote Markt Oldenzaal](https://goo.gl/maps/piGtQbNoBbjeQnQT6){:target="_blank"}  
-Mindervaliden route: [Mariahof, Beatrixstraat 64, 7573 EC, Oldenzaal](https://goo.gl/maps/nSTkzPjKzGCDorGQ7){:target="_blank"}  
+Tussen 17.45 uur en 19.00 uur kun je je medaille ophalen in De Vijfhoek, zie [nieuwsbericht](/nieuws/vierde-dag-afgelast-in-verband-met-weersvoorspellingen/).  
 
 ## Starttijden & routebeschrijvingen
 
-| Starttijd | Lengte | Route |
-|-------------|-------------|
-| 18.15 uur - 18.30 uur | Kort | [Routebeschrijving](/routes/kort/vrijdag) |
-| 17.30 uur - 18.00 uur | Lang | [Routebeschrijving](/routes/lang/vrijdag) |
-| 18.30 uur | Mindervaliden | [Routebeschrijving](/routes/mindervalide/vrijdag) |
+Tussen 17.45 uur en 19.00 uur kun je je medaille ophalen in De Vijfhoek, zie [nieuwsbericht](/nieuws/vierde-dag-afgelast-in-verband-met-weersvoorspellingen/).  
 
 ## Parkeren
 
@@ -39,11 +36,7 @@ Op het marktplein is een watertappunt aanwezig waar je gratis drinkwater kunt ta
 
 ## Vermaak onderweg
 
-Zowel bij vertrek, de Potskamp als bij terugkeer op de Markt kunnen we genieten van muzikale klanken van dweilorkest de Sputterkearls.  
-
-Vanaf 19.00 uur treden de confetties op bij de Potskamp.  
-
-Op de markt en bij de Postkamp zal NextDanceStudio verschillende optredens verzorgen.  
+De Confetti's en NEXT Dance zullen optredens verzorgen in De Vijfhoek.
 
 ### NEXT Dance Studio
 

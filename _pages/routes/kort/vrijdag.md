@@ -11,6 +11,8 @@ komootid: 1415768526
 permalink: /routes/kort/vrijdag
 ---
 
+**Deze dag is afgelast. Zie [nieuwsbericht](/nieuws/vierde-dag-afgelast-in-verband-met-weersvoorspellingen/).**  
+
 1.	Loop de Marktstraat in en volg tot het einde. 
 2.	Aan het einde rechtsaf (Paradijsstraat). 
 3.	Voorbij de Hofkerk, linksaf de Hofmeierstraat in. 
