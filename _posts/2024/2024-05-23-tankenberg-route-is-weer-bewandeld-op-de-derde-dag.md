@@ -19,7 +19,7 @@ Vanuit [Partou](https://partou.nl/kinderopvang/oldenzaal/kinderdagverblijf){:tar
 
 ![Sfeerimpressie donderdag 1](/assets/images/news/2024/donderdag1.png)  
 
-Bij aankomst bij de finish waren er voor de eerste 20 deelnemers die hun hond mee hadden genomen een waar pretpakket beschikbaar, aangeboden door [Reerink Oldenzaal](https://reerink.nl/){:target="_blank"}.  
+Bij aankomst bij de finish was er voor de eerste 20 deelnemers die hun hond mee hadden genomen een waar pretpakket beschikbaar, aangeboden door [Reerink Oldenzaal](https://reerink.nl/){:target="_blank"}.  
 
 ![Sfeerimpressie donderdag 2](/assets/images/news/2024/donderdag2.png)  
 
