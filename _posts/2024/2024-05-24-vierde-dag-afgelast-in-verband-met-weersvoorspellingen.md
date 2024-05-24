@@ -11,7 +11,11 @@ Helaas hebben we als organisatie moeten besluiten om de vierde dag van de 61e ed
 
 ## Uitreiking van de medailles
 
-Ook al wordt de vierde dag niet gelopen, toch willen we diegenen met een knipkaart voor alle vier de dagen de medaille niet onthouden. _Hiervoor zullen we vanavond, vrijdag 24 mei 2024, tussen 17.45 uur en 19.00 uur aanwezig zijn in De Vijfhoek_. Hier kun je tegen inlevering van je knipkaart de medaille ophalen. Onder het genot van een appeltje en een ijsje kun je nog genieten van optredens van de Confetti's en NEXT dance die daar plaats zullen vinden.  
+Ook al wordt de vierde dag niet gelopen, toch willen we diegenen met een knipkaart voor alle vier de dagen de medaille niet onthouden.  
+
+_Hiervoor zullen we vanavond, vrijdag 24 mei 2024, tussen 17.45 uur en 19.00 uur aanwezig zijn in De Vijfhoek_.  
+
+Hier kun je tegen inlevering van je knipkaart de medaille ophalen. Onder het genot van een appeltje en een ijsje kun je nog genieten van optredens van de Confetti's en NEXT dance die daar plaats zullen vinden.  
 
 Deze week zijn velen van jullie al op de foto geweest met het nieuwe fotoframe. Deze zal vanavond ook weer aanwezig zijn om te trots te kunnen poseren met je medaille.  
 
