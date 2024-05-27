@@ -15,4 +15,6 @@ Jammer was uiteraard dat we de vierde dag hebben moeten afgelasten in verband me
 
 Ging alles dan helemaal perfect? Nee, natuurlijk niet. Er zijn altijd verbeterpunten en leermomenten. We hebben al een aantal zaken genoteerd waar we volgend jaar mee aan de slag gaan. We zullen de komende weken de evaluatie opmaken en kijken waar we kunnen verbeteren. We hopen dat jullie ons daarbij willen helpen door de [enquête in te vullen](https://forms.microsoft.com/e/nVT5gEB32W){:target="_blank"}. We horen graag van jullie!  
 
-We willen iedereen bedanken voor jullie deelname, de [vrijwilligers](/organisatie/vrijwilligers) voor hun inzet en de [sponsoren](/sponsoren) voor hun bijdrage. Zonder jullie was dit niet mogelijk geweest. We hopen dat jullie net zo genoten hebben als wij en dat we jullie volgend jaar weer mogen verwelkomen. Volgend jaar zal de Wandel4Daagse Oldenzaal plaats vinden van dinsdag 10 juni t/m vrijdag 13 juni 2025. Blokkeer deze avonden alvast in je agenda. Graag tot dan!  
+We willen iedereen bedanken voor jullie deelname, de [vrijwilligers](/organisatie/vrijwilligers) voor hun inzet en de [sponsoren](/sponsoren) voor hun bijdrage. Zonder jullie was dit niet mogelijk geweest. We hopen dat jullie net zo genoten hebben als wij en dat we jullie volgend jaar weer mogen verwelkomen.  
+
+Volgend jaar zal de Wandel4Daagse Oldenzaal plaats vinden van dinsdag 10 juni t/m vrijdag 13 juni 2025. Blokkeer deze avonden alvast in je agenda. Graag tot dan!  
