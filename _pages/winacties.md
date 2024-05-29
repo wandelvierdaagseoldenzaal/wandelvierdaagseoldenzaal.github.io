@@ -33,7 +33,7 @@ De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/
 
 - 10x 2 muntjes voor een heerlijk ijsje bij [Thijs Oldenzaal](https://thijs-oldenzaal.nl){:target="_blank"}
 - 5x vrijkaartje voor [Monkey Town Enschede](https://monkeytown.eu/nl/enschede/home){:target="_blank"}
-- 10x een jaarvoorraad overheerlijke ranja siroop in de vorm van een 5 liter kan, beschikbaar gesteld door [Akom Oldenzaal](https://www.akomoldenzaal.nl/){:target="_blank"}  
+- 15x een jaarvoorraad overheerlijke ranja siroop in de vorm van een 5 liter kan, beschikbaar gesteld door [Akom Oldenzaal](https://www.akomoldenzaal.nl/){:target="_blank"}  
 - 10x drinkbidon, beschikbaar gesteld door [JOGG](https://jogg.nl/){:target="_blank"}  
 - 10x snoeppakket, beschikbaar gesteld door [Jumbo Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers){:target="_blank"}  
   
@@ -41,4 +41,4 @@ De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/
 
 # Uitslag
 
-De winnaars worden woensdag 29 mei 2024 bekend gemaakt via de [social media kanalen](/socials) en website en krijgen persoonlijk bericht per e-mail.  
+Kijk voor de winnaars in [het nieuwsbericht](/nieuws/uitslag-winacties-61e-editie/) van woensdag 29 mei 2024. De winnaars hebben inmiddels persoonlijk bericht ontvangen via e-mail.  
