@@ -1,5 +1,5 @@
 ---
-title: "Ijsjes voor de schoolkinderen van De Linde"
+title: "IJsjes voor de schoolkinderen van De Linde"
 last_modified_at: 2024-06-04T12:53:21+01:00
 categories:
   - nieuws
@@ -21,7 +21,7 @@ Eén school sprong er dit jaar uit met de meeste deelnemers en nam ook nog eens 
 
 ![Kids van basisschool De Linde](/assets/images/news/2024/delinde5.png)  
 
-![Kids van basisschool De Linde](/assets/images/news/2024/delinde5.png)  
+![Kids van basisschool De Linde](/assets/images/news/2024/delinde6.png)  
 
 Met dank aan [Plus Oldenzaal](https://www.plus.nl/supermarkten/oldenzaal_plus-oldenzaal_823){:target="_blank"} voor het sponsoren van de ijsjes en de kids (+ouders) van De Linde voor hun enthousiaste inzet!  
 
