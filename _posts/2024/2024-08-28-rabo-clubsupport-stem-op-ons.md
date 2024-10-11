@@ -11,4 +11,7 @@ Dankzij jullie stemmen hebben we [vorig jaar een mooi bedrag mogen ontvangen](/n
 
 Stemmen kan vanaf maandag 2 september tot en met dinsdag 24 september 2024. Ben je lid van de Rabobank Twente Oost? Dan ontvang je een persoonlijke stemcode waarmee je gratis 3 stemmen uit kunt brengen. We zouden het erg waarderen als je één van deze stemmen aan ons zou willen geven.  
 
+Stemmen kan nu via de volgende website:
+[https://www.rabobank.nl/leden/clubsupport/stemmen](https://www.rabobank.nl/leden/clubsupport/stemmen){:target="_blank"}
+
 Alvast bedankt voor jullie steun!
