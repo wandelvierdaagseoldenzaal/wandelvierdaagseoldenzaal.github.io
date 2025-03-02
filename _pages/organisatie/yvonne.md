@@ -6,9 +6,11 @@ author_profile: false
 ---
 
 Functie: Social Media  
-Leeftijd: 40 jaar  
+Leeftijd: 41 jaar  
 E-mail: [yvonne@wandel4daagseoldenzaal.nl](mailto:yvonne@wandel4daagseoldenzaal.nl)  
 
 ![Koen, Yvonne, Quinten en Anique](/assets/organisatie/yvonne.png)
 
-Ook dit jaar zal ik zorgen voor alles rondom social media bij de Wandel4daagse Oldenzaal. Ik ben getrouwd met Koen en samen hebben we twee kinderen, Quinten en Anique. Regelmatig wandel ik een stuk door ons mooie Oldenzaal. Deel je foto's en ervaringen met ons via onze [socials](/socials) en gebruik de hashtag #wandel4daagseoldenzaal. Laten we er met z'n allen een mooie 61e editie van maken!
+Voor mij alweer het derde jaar om alles rondom social media bij de Wandel4daagse Oldenzaal te verzorgen. Ik ben getrouwd met [Koen](/organisatie/koen) en samen hebben we twee kinderen, Quinten en Anique. Regelmatig wandel ik een stuk door ons mooie Oldenzaal. Altijd weer leuk om te zien hoeveel mensen genieten van vier mooie dagen wandelen door ons mooie Oldenzaal.\
+
+Deel je foto's en ervaringen ook dit jaar weer met ons via onze [socials](/socials).

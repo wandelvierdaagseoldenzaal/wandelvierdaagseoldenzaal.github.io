@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 Functie: Wandelcommissie  
-Leeftijd: 44 jaar  
+Leeftijd: 45 jaar  
 Beroep: Controls Engineer  
 E-mail: [dennis@wandel4daagseoldenzaal.nl](mailto:dennis@wandel4daagseoldenzaal.nl)  
 

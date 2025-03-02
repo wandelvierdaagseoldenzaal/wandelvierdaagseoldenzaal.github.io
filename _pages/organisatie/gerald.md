@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 Functie: Sponsoring  
-Leeftijd: 52 jaar  
+Leeftijd: 53 jaar  
 Beroep: Group Leader Material Engineering  
 E-mail: [gerald@wandel4daagseoldenzaal.nl](mailto:gerald@wandel4daagseoldenzaal.nl)  
 
