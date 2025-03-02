@@ -9,7 +9,6 @@ author_profile: false
   * [Nieuws](/nieuws)
   * [Foto's](/fotos)
   * [Social Media](/socials)
-  * [Media vermeldingen](/media)
 * Meedoen
   * [Inschrijven](/inschrijven)  
   * [Tarieven](/tarieven)  

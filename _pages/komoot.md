@@ -5,12 +5,12 @@ permalink: /komoot
 author_profile: false
 ---
 
-Ook in 2024 zullen we gebruik maken van [Komoot](https://www.komoot.com/nl-nl){:target="_blank"}. Komoot is een app die je kunt gebruiken om routes te plannen en te navigeren. De app is gratis te downloaden voor [Android](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl&redirect_macos=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl){:target="_blank"} en [iOS](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fkomoot%2Fid447374873){:target="_blank"}. Bij het aanmaken van een nieuw Komoot account kun je kiezen voor 1 gratis regio. Indien je hierbij voor Twente kiest, kun je gratis de routes van de Wandel4Daagse lopen.
+Ook in 2025 zullen we gebruik maken van [Komoot](https://www.komoot.com/nl-nl){:target="_blank"}. Komoot is een app die je kunt gebruiken om routes te plannen en te navigeren. De app is gratis te downloaden voor [Android](https://play.google.com/store/search?q=komoot&c=apps){:target="_blank"} en [iOS](https://apps.apple.com/us/app/komoot-hike-bike-run/id447374873){:target="_blank"}. Bij het aanmaken van een nieuw Komoot account kun je kiezen voor 1 gratis regio. Indien je hierbij voor Overijssel kiest, kun je gratis de routes van de Wandel4Daagse lopen.
 
 ## App downloaden
 
-[![Download Komoot voor Android](/assets/images/komoot/appstore-android-en.svg)](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl&redirect_macos=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl){:target="_blank"} 
-[![Download Komoot voor iOS](/assets/images/komoot/appstore-iphone-en.svg)](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl&redirect_macos=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dnl){:target="_blank"}  
+[![Download Komoot voor Android](/assets/images/komoot/appstore-android-en.svg)](https://play.google.com/store/search?q=komoot&c=apps){:target="_blank"} 
+[![Download Komoot voor iOS](/assets/images/komoot/appstore-iphone-en.svg)](https://apps.apple.com/us/app/komoot-hike-bike-run/id447374873){:target="_blank"}  
 
 Komoot is tevens te gebruiken op Smartwatches van Garmin, Polar, Samsung, Suunto, Huawei, Apple en COROS. Meer informatie hierover is te vinden op de [Komoot website](https://www.komoot.com/nl-nl/smartwatches){:target="_blank"}.  
 
@@ -20,7 +20,7 @@ Een account maak je eenvoudig aan door naar de [account pagina van Komoot](https
 
 ## Kosten
 
-Komoot staat elk nieuw account toe om 1 regio gratis te kiezen om binnen te kunnen navigeren. Zorg ervoor dat je hiervoor Twente kiest. Indien je een andere regio kiest of reeds eerder hebt gekozen voor je Komoot account, zul je eenmalig moeten [betalen voor Komoot Maps](https://www.komoot.com/product){:target="_blank"} (vanaf 3,99 euro eenmalig) om de routes van de Wandel4Daagse te kunnen gebruiken.  
+Komoot staat elk nieuw account toe om 1 regio gratis te kiezen om binnen te kunnen navigeren. Zorg ervoor dat je hiervoor Overijssel kiest. Indien je een andere regio kiest of reeds eerder hebt gekozen voor je Komoot account, zul je eenmalig moeten [betalen voor Komoot Maps](https://www.komoot.com/product/regions?lat=52.30853685&lng=6.914603743122237){:target="_blank"} (vanaf 3,99 euro eenmalig) om de routes van de Wandel4Daagse te kunnen gebruiken.  
 
 ## Direct naar de routes
 

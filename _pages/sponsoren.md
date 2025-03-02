@@ -40,9 +40,18 @@ sponsorlogos:
 - url: /assets/sponsors/LandschapOverijssel.png
   name: Landschap Overijssel
   link: https://landschapoverijssel.nl/
+- url: /assets/sponsors/Geldermanstichting.png
+  name: Geldermanstichting Oldenzaal
+  link: https://www.geldermanstichting.nl/
+- url: /assets/sponsors/Heisterkamp.png
+  name: Heisterkamp
+  link: https://www.heisterkamp.eu/nl
 - url: /assets/sponsors/LG_Landhuis.jpg
   name: Het Landhuis
   link: https://www.hotelhetlandhuis.nl/
+- url: /assets/sponsors/Hobru.png
+  name: Hobru
+  link: https://hobru.com/
 - url: /assets/sponsors/LetterPret.png
   name: LetterPret
   link: https://www.letterpret.com/
