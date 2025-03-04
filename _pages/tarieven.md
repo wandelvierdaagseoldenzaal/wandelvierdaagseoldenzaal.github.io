@@ -43,4 +43,4 @@ Vorig jaar zagen we een forse toename in het aantal bassischool leerlingen dat m
 
 ## Mindervaliden 3 daagse
 
-Deelname aan de mindervaliden 3 daagse kost € 12,00 euro per deelnemer en bevat een afwijkend programma. Kijk voor meer informatie en inschrijven op de [mindervaliden pagina](/routes/mindervalide).  
+Deelname aan de mindervaliden 3 daagse kost € 12,50 euro per deelnemer en bevat een afwijkend programma. Kijk voor meer informatie en inschrijven op de [mindervaliden pagina](/routes/mindervalide).  
