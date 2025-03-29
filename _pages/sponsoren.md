@@ -49,7 +49,7 @@ sponsorlogos:
 - url: /assets/sponsors/Hobru.png
   name: Hobru
   link: https://hobru.com/
-- url: /assets/sponsors/KokVanBenthem.png
+- url: /assets/sponsors/KockVanBenthem.png
   name: Kok van Benthem Makelaars
   link: https://www.kvbm.nl/
 - url: /assets/sponsors/LetterPret.png
