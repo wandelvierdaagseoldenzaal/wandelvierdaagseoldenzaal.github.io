@@ -37,9 +37,6 @@ sponsorlogos:
 - url: /assets/sponsors/Jumbo.png
   name: Jumbo
   link: https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers
-- url: /assets/sponsors/LandschapOverijssel.png
-  name: Landschap Overijssel
-  link: https://landschapoverijssel.nl/
 - url: /assets/sponsors/Geldermanstichting.png
   name: Geldermanstichting Oldenzaal
   link: https://www.geldermanstichting.nl/
