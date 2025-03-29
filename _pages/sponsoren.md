@@ -52,6 +52,9 @@ sponsorlogos:
 - url: /assets/sponsors/Hobru.png
   name: Hobru
   link: https://hobru.com/
+- url: /assets/sponsors/KokVanBenthem.png
+  name: Kok van Benthem Makelaars
+  link: https://www.kvbm.nl/
 - url: /assets/sponsors/LetterPret.png
   name: LetterPret
   link: https://www.letterpret.com/
@@ -73,6 +76,9 @@ sponsorlogos:
 - url: /assets/sponsors/Reerink.png
   name: Reerink
   link: https://reerink.nl/
+- url: /assets/sponsors/Riteco.jpg
+  name: Riteco
+  link: https://notariskantoorriteco.nl/
 - url: /assets/sponsors/Thijs.png
   name: Thijs
   link: https://www.thijs-oldenzaal.nl/
