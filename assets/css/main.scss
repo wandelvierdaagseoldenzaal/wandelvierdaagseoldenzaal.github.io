@@ -39,3 +39,23 @@ a.btn-green:hover {
 .page__meta-walking {
     margin-right: 10px;
 }
+
+.smalltext {
+    font-size: 0.7em !important;
+    font-style: italic;
+}
+
+.btn-signup {
+    background-color: #88C738;
+    padding: 15px;
+    border-color: #ffffff;
+    border-radius: 8px;
+}
+
+a.btn-signup:visited, a.btn-green {
+    color: #ffffff;
+}
+
+a.btn-signup:hover {
+    background-color: #96D14A;
+}
