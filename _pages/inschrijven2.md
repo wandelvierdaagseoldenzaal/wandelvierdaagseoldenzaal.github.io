@@ -34,9 +34,9 @@ Inschrijven voor de Wandel4Daagse Oldenzaal kan eenvoudig via het onderstaande f
   <input type="number" name="aantal_deelnemers" min="1" max="50" size="5" required></label>
   <p class="smalltext">Geef aan met hoeveel personen u mee loopt. Deze vallen allen onder deze inschrijving en u kunt voor allen in 1x betalen en de aanmelding op de eerste dag bij het startpunt doen. Wilt u aparte betalingen en/of los van elkaar kunnen aanmelden? Schrijf ze dan apart in. Deelname kost 5,00 euro per persoon.</p>
 
-  <p><input type="radio" id="kort" name="route" value="Korte route">
+  <p><input type="radio" id="kort" name="route" checked="checked" value="Short">
   <label for="kort">Korte route (ca 6 km per dag)</label></p>
-  <p><input type="radio" id="lang" name="route" value="Lange route">
+  <p><input type="radio" id="lang" name="route" value="Long">
   <label for="lang">Lange route (ca 12 km per dag)</label></p>
 
   <p><button type="submit" class="btn-signup">Inschrijven</button></p>
