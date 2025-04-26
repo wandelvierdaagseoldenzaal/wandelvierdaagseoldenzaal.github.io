@@ -9,25 +9,25 @@ Om de Wandel4Daagse Oldenzaal te kunnen lopen, dien je je in te schrijven. De ko
 
 ## Alle 4 dagen meewandelen bij voorinschrijving
 
-€ 5,50 euro per persoon   
+€ 5,00 per persoon  
 
-Inschrijven via deze website zal mogelijk zijn vanaf ongeveer mei 2025.  
+Wanneer je je vooraf inschrijft via deze website, betaal je 5,00 euro per persoon voor deelname aan alle 4 dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
 
-Wanneer je je vooraf inschrijft via deze website, betaal je € 5,50 euro per persoon voor deelname aan alle 4 dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
+Voorinschrijving is mogelijk via deze website van 12 mei 2025 tot en met zondag 8 juni 2025.  
 
 ## Alle 4 dagen meewandelen bij inschrijving op de startlocatie
 
-€ 8,00 euro per persoon  
+€ 8,00 per persoon  
 
-Wanneer je ervoor kiest om je niet vooraf in te schrijven, kun je nog steeds meedoen. Meld je op dinsdag 10 juni bij het startpunt van de Wandel4Daagse Oldenzaal. Tegen betaling van € 8,00 euro per persoon, ontvang je je inschrijfkaart en kun je aan alle 4 dagen van de Wandel4Daagse Oldenzaal meedoen. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
+Wanneer je ervoor kiest om je niet vooraf in te schrijven, kun je nog steeds meedoen. Meld je op dinsdag 10 juni bij het startpunt van de Wandel4Daagse Oldenzaal. Tegen betaling van 8,00 euro per persoon, ontvang je je inschrijfkaart en kun je aan alle 4 dagen van de Wandel4Daagse Oldenzaal meedoen. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
 
-Betalen bij onze stand kan per pin of contant.  
+Dit tarief is van toepassing bij inschrijven via onze website vanaf maandag 9 juni of bij inschrijven bij onze stand op één van de startdagen. Betalen bij onze stand kan bij voorkeur via iDeal door je alsnog via deze website in te schrijven en je QR code te laten scannen, maar kan eventueel ook ter plekke per pin of contant.  
 
 ## Per dag meewandelen
 
-€ 3,00 euro per persoon per dag  
+€ 3,00 per persoon per dag  
 
-Weet je nog niet zeker of je alle 4 dagen kunt meewandelen? Geen probleem! Je kunt ook per dag meewandelen. Voor € 3,00 euro per persoon per dag kun je meewandelen. Meld je hiervoor op de dag zelf bij de startlocatie van die dag. Betalen bij onze stand kan per pin of contant.  
+Weet je nog niet zeker of je alle 4 dagen kunt meewandelen? Geen probleem! Je kunt ook per dag meewandelen. Voor 3,00 euro per persoon per dag kun je meewandelen. Meld je hiervoor op de dag zelf bij de startlocatie van die dag. Betalen bij onze stand kan per pin of contant.  
 
 Let wel, als je denkt minstens twee van de vier dagen deel te kunnen nemen, dan is voorinschrijven voor alle 4 de dagen al goedkoper dan het dagtarief en is dat een verstandigere keuze.  
 
