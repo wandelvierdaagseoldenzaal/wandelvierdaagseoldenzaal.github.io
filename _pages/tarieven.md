@@ -33,10 +33,6 @@ Let wel, als je denkt minstens twee van de vier dagen deel te kunnen nemen, dan 
 
 Je ontvangt bij een daginschrijving geen medaille.  
 
-## Groepen vanaf 10 personen
-
-Vorig jaar hebben we geëxperimenteerd met een speciaal groepstarief. Hier is in de praktijk weinig gebruik van gemaakt. Nog steeds moedigen we het aan als groepen collega's, teamgenoten, sporters, vrienden of familieleden samen mee lopen. Wanneer je met een groep vanaf 10 personen wilt meewandelen, neem dan even [contact met ons op](/contact) met hoeveel personen je deel wilt nemen.   
-
 ## Basisschool leerlingen
 
 Vorig jaar zagen we een forse toename in het aantal bassischool leerlingen dat meeliep. We hopen dat dit dit jaar weer het geval is, maar hopen stiekem op een nog grotere opkomst. We zijn in overleg met de scholen om te kijken hoe we dit kunnen stimuleren en dit jaar kunnen vormgeven. Meer informatie hierover volgt nog.  
