@@ -8,7 +8,7 @@ author_profile: false
 <div id="betaald" style="display: none">
     Bedankt voor uw betaling!  
 
-    Uw inschrijving is nu afgerond. Uw persoonlijke QR code is uw toegangsbewijs:  
+    Uw inschrijving is nu afgerond. Uw persoonlijke QR code is:  
 
     <div id="qrcode"></div>
 
@@ -25,7 +25,21 @@ Er is wat mis gegaan met de betaling. Probeer het opnieuw of neem contact op met
         document.getElementById('betaald').style.display = 'block';
 
         var orderId = urlParams.get('orderId');
-        document.getElementById('qrcode').innerHTML = '<img src="https://api.wandel4daagseoldenzaal.nl/v1/qrcode?orderid=' + orderId + '" alt="QR Code" />';
+        fetch("https://api.wandel4daagseoldenzaal.nl/v1/qrcode?orderid=" + orderId + "&format=json")
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            console.log(data);
+            document.getElementById('qrcode').innerHTML = '<img src="data:image/png;base64,' + data.qrCode + '" alt="QR Code" /><p style="font-size: 14pt">' + data.registrationId + '<br/>' + data.participants + ' deelnemer' + (data.participants != 1 ? 's' : '') + '</p>';
+        })
+        .catch(error => {
+            console.error('QR Code error:', error);
+            document.getElementById('qrcode').innerHTML = '<img src="https://api.wandel4daagseoldenzaal.nl/v1/qrcode?orderid=' + orderId + '" alt="QR Code" />';
+        });
     } else {
         document.getElementById('nietbetaald').style.display = 'block';
     }
