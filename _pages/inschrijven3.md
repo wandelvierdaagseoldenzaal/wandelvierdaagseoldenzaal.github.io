@@ -9,7 +9,7 @@ Voorinschrijven voor de Wandel4Daagse Oldenzaal 2025 is vanaf nu mogelijk!
 
 ## Kosten
 
-UW deelname is kostenloos.  
+Je deelname is kostenloos.  
 
 ## Inschrijven
 Inschrijven voor de Wandel4Daagse Oldenzaal kan eenvoudig via het onderstaande formulier. Vul je gegevens in en klik op de knop "Inschrijven". Je ontvangt direct een bevestiging van je inschrijving per e-mail wat tevens je toegangsbewijs is.
