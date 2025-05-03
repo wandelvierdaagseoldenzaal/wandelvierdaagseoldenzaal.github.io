@@ -1,0 +1,39 @@
+<script type="text/javascript">
+  function lockForm()
+  {
+    document.getElementById('signupbutton').disabled = true;
+
+    setTimeout("document.getElementById('signupbutton').disabled = false", 20000);
+  }
+</script>
+
+<form action="https://api.wandel4daagseoldenzaal.nl/v1/signup" method="POST" onsubmit="lockForm()">
+
+  {% if page.promocode %}
+  <input type="hidden" name="promocode" value="{{ page.promocode }}">
+  {% endif %}
+
+  <label>
+    Voornaam
+    <input type="text" name="voornaam" maxlength="50" size="30" required>
+  </label>
+
+  <label>
+    Achternaam
+    <input type="text" name="achternaam" maxlength="50" size="30" required>
+  </label>
+
+  <label>E-mailadres
+  <input type="email" name="email" size="30" maxlength="50"></label>
+  <p class="smalltext">Het e-mailadres wordt gebruikt om je een bevestiging van je inschrijving te sturen met daarin je unieke deelnemersnummer en de QR code om jezelf eenvoudig en snel aan te kunnen melden bij onze stand bij de start</p>
+
+  <label>Aantal deelnemers
+  <input type="number" name="aantal_deelnemers" min="1" max="50" size="5" required></label>
+
+  <p><input type="radio" id="kort" name="route" checked="checked" value="Short">
+  <label for="kort">Korte route (ca. 6 km per dag)</label></p>
+  <p><input type="radio" id="lang" name="route" value="Long">
+  <label for="lang">Lange route (ca. 12 km per dag)</label></p>
+
+  <p><button type="submit" class="btn-signup" id="signupbutton">Inschrijven</button></p>
+</form>
