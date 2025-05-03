@@ -35,7 +35,7 @@ Er is wat mis gegaan met de betaling. Probeer het opnieuw of neem contact op met
         .then(data => {
             document.getElementById('qrcode').innerHTML = '<img src="data:image/png;base64,' + data.qrCode + '" alt="QR Code" /><p style="font-size: 14pt">' + data.registrationId + '<br/>' + data.participants + ' deelnemer' + (data.participants != 1 ? 's' : '') + '</p>';
             if(data.emailAddressProvided) {
-                document.getElementById('instructions').innerHTML = 'Je ontvangt ook een bevestiging per e-mail. Graag deze e-mail tonen bij onze stand bij de start van de route tijdens de wandel4Daagse.';
+                document.getElementById('instructions').innerHTML = 'Je ontvangt ook een bevestiging per e-mail. Graag deze e-mail tonen bij onze stand bij de start van de route tijdens de Wandel4Daagse.';
             } else {
                 document.getElementById('instructions').innerHTML = 'Aangezien je geen e-mailadres hebt opgegeven, graag een screenshot van deze pagina maken, je deelnamecode opschrijven of je aanmelden met je naam bij onze stand bij de start van de route tijdens de Wandel4Daagse.';
             }
