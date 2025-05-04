@@ -9,7 +9,7 @@ Bedankt voor je inschrijving, leuk dat je meedoet!
 
 Voor jouw inschrijving worden geen deelnamekosten berekend. Jouw inschrijving is hiermee nu afgerond. Jouw persoonlijke QR code en deelnamebewijs is:  
 
-<div id="qrcode"></div>
+<div id="qrcode"><img src="/assets/images/loading.gif" /></div>
 
 <div id="instructions"></div>
 

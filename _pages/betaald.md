@@ -10,7 +10,7 @@ author_profile: false
 
     Jouw inschrijving is nu afgerond. Jouw persoonlijke QR code is:  
 
-    <div id="qrcode"></div>
+    <div id="qrcode"><img src="/assets/images/loading.gif" /></div>
 
     <div id="instructions"></div>
 </div>
