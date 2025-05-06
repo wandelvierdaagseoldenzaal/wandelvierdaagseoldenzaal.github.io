@@ -12,7 +12,7 @@ Voorinschrijven voor de Wandel4Daagse Oldenzaal 2025 is vanaf nu mogelijk! Tot e
 Kijk voor een overzicht van de kosten voor deelname op onze [tarieven](/tarieven) pagina.  
 
 ## Inschrijven
-Inschrijven voor de Wandel4Daagse Oldenzaal kan eenvoudig via het onderstaande formulier. Je kunt direct de betaling voldoen per iDeal. Je ontvangt direct een bevestiging van je inschrijving per e-mail wat tevens je toegangsbewijs is.  
+Inschrijven voor de Wandel4Daagse Oldenzaal kan eenvoudig via het onderstaande formulier. Je kunt direct de betaling voldoen per iDeal. Je ontvangt daarna meteen een bevestiging van je inschrijving per e-mail wat tevens je toegangsbewijs is.  
 
 {% include /signupform.html %}
 
