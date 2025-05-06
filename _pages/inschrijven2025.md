@@ -4,9 +4,11 @@ title: Inschrijven
 permalink: /inschrijven2025
 promocode: MINIMA
 author_profile: false
+maxdeelnemers: 2
+dontindex: true
 ---
 
-We zien graag dat de Wandel4Daagse Oldenzaal voor iedereen toegankelijk is. Ook voor diegenen die wat minder te besteden hebben. Daarom hebben we besloten om dit jaar de deelnamekosten voor de Wandel4Daagse Oldenzaal 2025 te schrappen voor deze groep. Dit betekent dat je je kosteloos kunt inschrijven voor de Wandel4Daagse Oldenzaal 2025.  
+We zien graag dat de Wandel4Daagse Oldenzaal voor iedereen toegankelijk is. Ook voor diegenen die wat minder te besteden hebben. Daarom hebben we dit jaar in samenwerking met de Gemeente Oldenzaal besloten om de deelnamekosten voor de Wandel4Daagse Oldenzaal 2025 voor deze doelgroep te schrappen. Dit betekent dat je je kosteloos kunt inschrijven.  
 
 Behoor je niet tot deze groep, maar wil je toch graag meedoen? Dan kan dat ook! Je kunt je inschrijven voor de Wandel4Daagse Oldenzaal 2025 en de deelnamekosten zijn dan € 5,00 per persoon. Schrijf je in dat geval in via [deze pagina](/inschrijven).  
 

@@ -29,7 +29,8 @@
   <p class="smalltext">Het e-mailadres wordt gebruikt om je een bevestiging van je inschrijving te sturen met daarin je unieke deelnemersnummer en de QR code om jezelf eenvoudig en snel aan te kunnen melden bij onze stand bij de start</p>
 
   <label>Aantal deelnemers
-  <input type="number" name="aantal_deelnemers" min="1" max="50" size="5" required></label>
+  <input type="number" name="aantal_deelnemers" min="1" max="{{ page.maxdeelnemers }}" size="5" required></label>
+  <p class="smalltext">Maximaal {{ page.maxdeelnemers }} per inschrijving</p>
 
   <p><input type="radio" id="kort" name="route" checked="checked" value="Short">
   <label for="kort">Korte route (ca. 6 km per dag)</label></p>

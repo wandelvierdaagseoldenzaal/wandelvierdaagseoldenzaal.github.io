@@ -9,7 +9,7 @@ Bedankt voor je inschrijving, leuk dat je meedoet!
 
 Voor jouw inschrijving worden geen deelnamekosten berekend. Jouw inschrijving is hiermee nu afgerond. Jouw persoonlijke QR code en deelnamebewijs is:  
 
-<div id="qrcode"><img src="/assets/images/loading.gif" /></div>
+<div id="qrcode"><img src="/assets/images/loading.gif" alt="Gegevens worden opgehaald" /></div>
 
 <div id="instructions"></div>
 
@@ -35,6 +35,6 @@ Voor jouw inschrijving worden geen deelnamekosten berekend. Jouw inschrijving is
     })
     .catch(error => {
         console.error('QR Code error:', error);
-        document.getElementById('qrcode').innerHTML = '<img src="https://api.wandel4daagseoldenzaal.nl/v1/qrcode?signupreference=' + signupreference + '&signupid=' + signupid +" alt="QR Code" />';
+        document.getElementById('qrcode').innerHTML = '<img src="https://api.wandel4daagseoldenzaal.nl/v1/qrcode?signupreference=' + signupreference + '&signupid=' + signupid + '" alt="QR Code" />';
     });
 </script>
