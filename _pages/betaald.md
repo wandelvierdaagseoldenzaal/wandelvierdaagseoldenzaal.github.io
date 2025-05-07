@@ -56,7 +56,9 @@ author_profile: false
             return response.json();
         })
         .then(data => {
-            document.getElementById('opnieuwlink').innerHTML = '<a href="' + data.paymentlink + '">Probeer het opnieuw</a>';
+            if(data && data.paymentlink) {
+                document.getElementById('opnieuwlink').innerHTML = '<a href="' + data.paymentlink + '">Probeer het opnieuw</a>';
+            }
         })
         .catch(error => {
             console.error('Payment lookup error:', error);
