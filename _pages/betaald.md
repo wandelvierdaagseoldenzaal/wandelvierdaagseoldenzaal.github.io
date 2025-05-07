@@ -15,16 +15,17 @@ author_profile: false
     <div id="instructions"></div>
 </div>
 <div id="nietbetaald" style="display: none">
-Er is wat mis gegaan met de betaling. Probeer het opnieuw of neem contact op met de organisatie.
+    Er is wat mis gegaan met de betaling. <span id="opnieuwlink">Probeer het opnieuw</span> of <a href="/contact">neem contact op met de organisatie</a>.
 </div>
 
 <script type="text/javascript">
     var urlParams = new URLSearchParams(window.location.search);
     var status = urlParams.get('orderStatusId');
+    var orderId = urlParams.get('orderId');
+
     if (status == '100') {
         document.getElementById('betaald').style.display = 'block';
-
-        var orderId = urlParams.get('orderId');
+        
         fetch("https://api.wandel4daagseoldenzaal.nl/v1/qrcode?orderid=" + orderId + "&format=json")
         .then(response => {
             if (!response.ok) {
@@ -46,5 +47,19 @@ Er is wat mis gegaan met de betaling. Probeer het opnieuw of neem contact op met
         });
     } else {
         document.getElementById('nietbetaald').style.display = 'block';
+
+        fetch("https://api.wandel4daagseoldenzaal.nl/v1/paymentlink?orderid=" + orderId)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            document.getElementById('opnieuwlink').innerHTML = '<a href="' + data.paymentlink + '">Probeer het opnieuw</a>';
+        })
+        .catch(error => {
+            console.error('Payment lookup error:', error);
+        });
     }
 </script>
