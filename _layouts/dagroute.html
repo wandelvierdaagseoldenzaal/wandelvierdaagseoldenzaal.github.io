@@ -71,13 +71,9 @@ author_profile: false
 
         {% if page.toonkaart %}
           <h2 id="route">Kaart</h2>
-          {% if page.komootid %}
-          <a href="https://www.komoot.com/tour/{{ page.komootid }}#previewMap" tooltip="Bekijk de kaart op Komoot" target="_blank">
-          {% endif %}
+          <a href="/assets/routes/kaart-{{ lengte_lowercase }}-{{ title_lowercase }}.png" tooltip="Bekijk de kaart in het groot" target="_blank">
           <img src="/assets/routes/kaart-{{ lengte_lowercase }}-{{ title_lowercase }}.png" alt="Kaart van de route" />
-          {% if page.komootid %}
           </a>
-          {% endif %}
         {% endif %}
 
         <div class="no-print">
