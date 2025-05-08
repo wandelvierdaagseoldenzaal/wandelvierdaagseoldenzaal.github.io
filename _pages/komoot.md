@@ -20,7 +20,7 @@ Een account maak je eenvoudig aan door naar de [account pagina van Komoot](https
 
 ## Kosten
 
-Komoot staat elk nieuw account toe om 1 regio gratis te kiezen om binnen te kunnen navigeren. Zorg ervoor dat je hiervoor Overijssel kiest. Indien je een andere regio kiest of reeds eerder hebt gekozen voor je Komoot account, zul je eenmalig moeten [betalen voor Komoot Maps](https://www.komoot.com/product/regions?lat=52.30853685&lng=6.914603743122237){:target="_blank"} (vanaf 3,99 euro eenmalig) om de routes van de Wandel4Daagse te kunnen gebruiken.  
+Komoot staat elk nieuw account toe om 1 regio gratis te kiezen om binnen te kunnen navigeren. Zorg ervoor dat je hiervoor Overijssel kiest. Indien je een andere regio kiest of reeds eerder hebt gekozen voor je Komoot account, zul je eenmalig moeten [betalen voor Komoot Maps](https://www.komoot.com/product/regions?lat=52.30853685&lng=6.914603743122237){:target="_blank"} (vanaf 8,99 euro eenmalig) om de routes van de Wandel4Daagse te kunnen gebruiken.  
 
 ## Direct naar de routes
 
