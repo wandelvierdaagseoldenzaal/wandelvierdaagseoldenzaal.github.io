@@ -5,7 +5,7 @@ permalink: /inschrijven
 author_profile: false
 ---
 
-Voorinschrijven voor de Wandel4Daagse Oldenzaal 2025 zal mogelijk zijn vanaf maandag 12 mei.  
+Voorinschrijven voor de Wandel4Daagse Oldenzaal 2025 zal mogelijk zijn vanaf maandag 12 mei via deze pagina. Nog even geduld dus!  
 
 ## Kosten
 
