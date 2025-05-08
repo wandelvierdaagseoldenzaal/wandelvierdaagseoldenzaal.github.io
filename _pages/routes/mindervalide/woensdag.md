@@ -11,4 +11,20 @@ toonkaart: false
 permalink: /routes/mindervalide/woensdag
 ---
 
-De routes worden op dit moment zorgvuldig in elkaar gezet. Nadere informatie volgt.  
+1.	Vertrek vanaf locatie de Scholtenhof rechtsaf de Fonteinstraat inlopen. Rechtsaf de Potskampstraat in.
+2.	Linksaf de Kalheupinklaan op.
+3.	Rechtsaf de Klieveriklaan.
+4.	Linksaf de Perrevoortlaan in.
+5.	Aan het eind rechtsaf de Bentheimerstraat.
+6.	Met de bocht mee rechtsaf de Haerstraat op.
+7.	Bij het vakwerkhuis de Engelse tuin in.
+8.	**Pauzeplek**
+9.	Pad door de Engelse tuin vervolgen, bij het “Engelse huis” aan de Haerstraat de Engelse tuin verlaten, rechtsaf de Haerstraat op.
+10.	Rechtsaf voetpad langs de de Kalheupinklaan.
+11.	Linksaf Scholte Grevinkhoflaan.
+12.	Eerste straat rechts Mettelaan.
+13.	Aan het eind van de Mettelaan, linksaf de Scholtendijk op, en rechtsaf weer naar de Scholtenhof.
+
+(Mariahof vervolgt de Scholte Grevinkhoflaan tot de Emmastraat, rechtsaf doorlopen tot de Prossinkhof, via de Prossinkhof naar de Mariahof)
+
+(Molenkamp loopt met de Scholtenhof mee, en gaat daar via de Molenkampstraat weer naar de Molenkamp) 
