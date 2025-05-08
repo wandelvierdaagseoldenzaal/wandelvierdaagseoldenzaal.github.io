@@ -1,0 +1,31 @@
+<script type="text/javascript">
+  function startParticipantsCounter() {
+    // Ensure the element with id 'deelnemers' exists before trying to access it
+    if(!document.getElementById('deelnemers')) {
+        return;
+    }
+    // Fetch the participant count from the API
+    fetch("https://api.wandel4daagseoldenzaal.nl/v1/stats/participantcount")
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+          // Start the counter with the fetched data
+          let counter = new CountUp('deelnemers', data.count, {
+            duration: 4,
+          });
+          if (!counter.error) {
+            counter.start();
+          } else {
+            console.error(counter.error);
+          }
+        })
+        .catch(error => {
+            console.error('Participant counter error:', error);
+        });
+  }
+</script>
+<script src="/assets/countup/countUp.js" onload="startParticipantsCounter()"></script>
