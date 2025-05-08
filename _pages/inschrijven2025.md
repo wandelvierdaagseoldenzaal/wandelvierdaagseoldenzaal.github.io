@@ -4,7 +4,7 @@ title: Inschrijven
 permalink: /inschrijven2025
 promocode: MINIMA
 author_profile: false
-maxdeelnemers: 2
+maxdeelnemers: 5
 dontindex: true
 ---
 
