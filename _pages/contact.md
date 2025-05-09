@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 Stichting Wandel4daagse Oldenzaal  
-KvK: [41028996](https://www.kvk.nl/orderstraat/bedrijf-kiezen/?orig=#!shop?&q=41028996&start=0&prefproduct=&prefpayment=)  
+KvK: [41028996](https://www.kvk.nl/bestellen/#/41028996)  
 RSIN: 816657804  
 Bank: NL 08 RABO 0130301272  
 
