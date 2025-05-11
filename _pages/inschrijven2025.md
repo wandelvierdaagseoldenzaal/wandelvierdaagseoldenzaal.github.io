@@ -6,6 +6,7 @@ promocode: MINIMA
 author_profile: false
 maxdeelnemers: 5
 dontindex: true
+kosten: Deelname is gratis.
 ---
 
 We zien graag dat de Wandel4Daagse Oldenzaal voor iedereen toegankelijk is. Ook voor diegenen die wat minder te besteden hebben. Daarom hebben we dit jaar in samenwerking met de Gemeente Oldenzaal besloten om de deelnamekosten voor de Wandel4Daagse Oldenzaal 2025 voor deze doelgroep te schrappen. Dit betekent dat je je kosteloos kunt inschrijven.  

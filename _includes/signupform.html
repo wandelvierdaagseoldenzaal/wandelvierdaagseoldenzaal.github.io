@@ -30,12 +30,17 @@
 
   <label>Aantal deelnemers
   <input type="number" name="aantal_deelnemers" min="1" max="{{ page.maxdeelnemers }}" size="5" required></label>
-  <p class="smalltext">Maximaal {{ page.maxdeelnemers }} per inschrijving</p>
+  <p class="smalltext">
+    {% if page.kosten %}
+      {{ page.kosten }} 
+    {% endif %}
+    Maximaal {{ page.maxdeelnemers }} deelnemers per inschrijving.
+  </p>
 
   <p><input type="radio" id="kort" name="route" checked="checked" value="Short">
-  <label for="kort">Korte route (ca. 6 km per dag)</label></p>
+  <label for="kort">Korte route (ca. 6 km per dag)</label> <a href="/kort" target="_blank">meer info</a></p>
   <p><input type="radio" id="lang" name="route" value="Long">
-  <label for="lang">Lange route (ca. 12 km per dag)</label></p>
+  <label for="lang">Lange route (ca. 12 km per dag)</label> <a href="/lang" target="_blank">meer info</a></p>
 
   <p><button type="submit" class="btn-signup" id="signupbutton">Inschrijven</button></p>
 </form>
