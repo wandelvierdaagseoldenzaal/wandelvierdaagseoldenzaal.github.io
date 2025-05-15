@@ -47,7 +47,7 @@ Bij de [Muziekkoepel Oldenzaal](https://maps.app.goo.gl/t1KMGpcQy6rmUhC88){:targ
 
 ## Vermaak onderweg
 
-Deze dag hebben we een aantal optredens voor jullie in petto. Zo zullen er bij de start doorlopend optredens zijn van [Dweilorkest Lavasjkierie](https://dorp-rossum.nl/cultuur-smenleving/dweilorkest-lavasjkierie/){:target="_blank"}. Ook [jeugdcircus Tubantino](https://jeugdcircus-tubantino.nl/){:target="_blank"} komt er hun kunsten vertonen. Daarnaast zal er bij de muziekkoepel in Berghuizen een muzikaal optreden zijn van het dames [Smartlappenkoor Ontroerend Goed](https://www.facebook.com/p/Oldenzaals-damessmartlappenkoor-Ontroerend-Goed-100031959292661/){:target="_blank"}.  
+Deze dag hebben we een aantal optredens voor jullie in petto. Zo zullen er bij de start doorlopend optredens zijn van [Dweilorkest Lavasjkierie](https://dorp-rossum.nl/cultuur-smenleving/dweilorkest-lavasjkierie/){:target="_blank"}. Ook [jeugdcircus Tubantino](https://jeugdcircus-tubantino.nl/){:target="_blank"} komt er hun kunsten vertonen. 
 
 ### Dweilorkest Lavasjkierie
 
