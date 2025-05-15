@@ -62,9 +62,3 @@ Optreden dweilorkest Lavasjkierie vanaf 17.30 uur en vervolgens op meerdere tijd
 Jeugdcircus Tubantino is het jeugdcircus uit Oldenzaal! Ze komen hun laatste kunsten vertonen op het Stationsplein.  
 
 [Website](https://jeugdcircus-tubantino.nl/){:target="_blank"}
-
-### Smartlappenkoor Ontroerend Goed
-
-Bij de muziekkoepel in Berghuizen wordt door de [stichting Muziekkoepel Oldenzaal](https://muziekkoepeloldenzaal.nl/){:target="_blank"} een musicaal optreden verzorgd tijdens de wandeling. Het dames Smartlappenkoor Ontroerend Goed zal hier vanaf 18.00 uur de stemming er onder de wandelaars en rolstoelers goed inbrengen.  
-
-[Website](https://www.facebook.com/p/Oldenzaals-damessmartlappenkoor-Ontroerend-Goed-100031959292661/){:target="_blank"}
