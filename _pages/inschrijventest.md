@@ -13,7 +13,7 @@ environment: test
 Dit is een testpagina voor de inschrijving van de Wandel4Daagse Oldenzaal 2025. Deze pagina is bedoeld om de inschrijving te testen voor jullie als stagiars en vrijwilligers van de Wandel4Daagse Oldenzaal. Voel je vrij om inschrijvingen aan te maken en te testen met de Wandel4Daagse Oldenzaal PowerApp.  
 
 ## Inschrijven
-Inschrijven voor de Wandel4Daagse Oldenzaal kan eenvoudig via het onderstaande formulier. Je ontvangt direct een bevestiging van je inschrijving per e-mail wat tevens je toegangsbewijs is.
+Inschrijven voor de Wandel4Daagse Oldenzaal kan eenvoudig via het onderstaande formulier. Je ontvangt direct een bevestiging van je inschrijving op het scherm en eventueel per e-mail, mocht je die ingevuld hebben. Deze QR code is wat je kunt scannen met de Wandel4Daagse Oldenzaal PowerApp.  
 
 {% include /signupform.html %}
 
