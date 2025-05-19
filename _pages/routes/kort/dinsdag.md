@@ -12,7 +12,7 @@ permalink: /routes/kort/dinsdag
 ---
 
 1. Startpunt is het NS station  
-2. Ga voor het station rechts de trap af en rechtsaf onder het spoor door  
+2. Neem bij het startpunt de trap naar beneden en ga links af onder het spoor door  
 3. Aan de andere zijde van het spoor over de stoep rechtdoor (Helmichstraat)  
 4. Sla direct voorbij de Stakenbeek rechtsaf (Stakenbeekpad)  
 5. Neem de 3e weg links (Lijsterstraat)  
