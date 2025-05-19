@@ -46,7 +46,7 @@ Het is dit jaar alleen mogelijk voor basisschool leerlingen van de volgende scho
   E-Mail: svansolkema@obs-delinde.nl  
   Telefoonnummer: 06-30 78 18 44  
 
-De deadline voor inschrijven via de basisschool is 1 juni 2025.  
+De deadline voor inschrijven via de basisschool is tot en met 1 juni 2025.  
 
 Leerlingen van andere basisscholen kunnen zich gewoon [inschrijven via onze website](/inschrijven) en betalen het gewone tarief van 5 euro per deelnemer.  
 
