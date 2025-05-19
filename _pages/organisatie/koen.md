@@ -7,7 +7,7 @@ author_profile: false
 
 Functie: Website, Social Media en automatisering  
 Leeftijd: 43 jaar  
-Beroep: ICT Consultant  
+Beroep: Cloud Solution Architect  
 E-mail: [koen@wandel4daagseoldenzaal.nl](mailto:koen@wandel4daagseoldenzaal.nl)  
 
 ![Koen Zomers](/assets/organisatie/koen.jpg)

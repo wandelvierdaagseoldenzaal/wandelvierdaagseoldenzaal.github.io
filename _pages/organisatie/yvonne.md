@@ -11,6 +11,6 @@ E-mail: [yvonne@wandel4daagseoldenzaal.nl](mailto:yvonne@wandel4daagseoldenzaal.
 
 ![Yvonne Zomers](/assets/organisatie/yvonne.png)
 
-Voor mij alweer het derde jaar om alles rondom social media bij de Wandel4daagse Oldenzaal te verzorgen. Ik ben getrouwd met [Koen](/organisatie/koen) en samen hebben we twee kinderen, Quinten en Anique. Regelmatig wandel ik een stuk door ons mooie Oldenzaal. Altijd weer leuk om te zien hoeveel mensen genieten van vier mooie dagen wandelen door ons mooie Oldenzaal.  
+Voor het derde jaar op rij mag ik met veel plezier alles rondom social media bij de Wandel4daagse Oldenzaal verzorgen. Samen met mijn man [Koen](/organisatie/koen) en onze twee kinderen, Quinten en Anique, geniet ik volop van het wandelen in ons prachtige Oldenzaal. Het is geweldig om te zien hoeveel deelnemers elk jaar weer genieten van vier dagen vol beweging, gezelligheid en mooie routes door onze stad.  
 
-Deel je foto's en ervaringen ook dit jaar weer met ons via onze [socials](/socials).
+Ook dit jaar nodigen we jullie uit om jullie foto’s en ervaringen met ons te delen via onze [socials](/socials). Zo maken we samen van deze Wandel4daagse een onvergetelijke editie!  

@@ -24,7 +24,7 @@ Wandelcommissie:
 Sponsoring:  
 [Gerald Voorpostel](/organisatie/gerald)  
 
-Website:  
+Website en automatisering:  
 [Koen Zomers](/organisatie/koen)  
 
 Social Media:  
