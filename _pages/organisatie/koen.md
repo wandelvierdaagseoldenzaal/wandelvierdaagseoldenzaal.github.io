@@ -10,7 +10,7 @@ Leeftijd: 43 jaar
 Beroep: ICT Consultant  
 E-mail: [koen@wandel4daagseoldenzaal.nl](mailto:koen@wandel4daagseoldenzaal.nl)  
 
-![Koen, Yvonne, Quinten en Anique](/assets/organisatie/koenenyvonne.jpeg)
+![Koen Zomers](/assets/organisatie/koen.jpg)
 
 Dit jaar zal ik voor de derde keer samen met ons fijne team de Wandel4Daagse in Oldenzaal organiseren. De website zal ik wederom onder handen nemen en onderhouden. Het succes van voorgaande jaren met de QR codes gaan we ook dit jaar weer inzetten. Vorig jaar mochten we meer dan 1000 deelnemers verwelkomen, waarvan een groot deel zich pas op de dag zelf aan kwam melden. Dit veroorzaakte wat improvisatiewerk. Een leuk iets om dit jaar te kijken of we dat anders en beter in kunnen richten.
 
