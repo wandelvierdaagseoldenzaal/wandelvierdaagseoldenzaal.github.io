@@ -39,16 +39,16 @@ Vorig jaar zagen we een forse toename in het aantal bassischool leerlingen dat m
 
 We hebben dit jaar overlegd met een aantal ondernemingsraden van basisscholen in Oldenzaal en zijn tot de conclusie gekomen dat we dit jaar een extra stimulans willen geven aan basisschool leerlingen om mee te wandelen. De basisscholen die hieraan meewerken, krijgen van ons een korting en betalen slechts 4,00 euro per deelnemer. Voorwaarde hiervoor is dat de basisschool leerlingen zich vooraf inschrijven via hun school. Dit kan alleen via de scholen die hieraan meewerken.  
 
-De scholen die hier tot dusver aan meewerken zijn:
+Het is dit jaar alleen mogelijk voor basisschool leerlingen van de volgende school om zich via hun school in te schrijven:
 
 - OBS de Linde - De Thij  
   Contactpersoon: Sjoerd van Solkema  
   E-Mail: svansolkema@obs-delinde.nl  
   Telefoonnummer: 06-30 78 18 44  
 
-We zijn nog in afwachting van de reacties van andere scholen of zij hier ook aan mee willen werken. Zodra we hier meer over weten, zullen we dit hier vermelden. Informeer eventueel ook zelf even bij de OR of het schoolbestuur van jouw basisschool of zij hier ook aan mee willen werken. Dit kan ook een stimulans zijn voor hen om mee te doen.  
-
 De deadline voor inschrijven via de basisschool is 1 juni 2025.  
+
+Leerlingen van andere basisscholen kunnen zich gewoon [inschrijven via onze website](/inschrijven) en betalen het gewone tarief van 5 euro per deelnemer.  
 
 ## Mindervaliden 3 daagse
 
