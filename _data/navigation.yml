@@ -2,6 +2,8 @@
 main:
   - title: "Inschrijven"
     url: /inschrijven
+  - title: "Tarieven"
+    url: /tarieven
   - title: "Routes"
     url: /routes
   - title: "Sponsoren"
