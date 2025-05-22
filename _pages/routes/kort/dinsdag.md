@@ -12,10 +12,10 @@ permalink: /routes/kort/dinsdag
 ---
 
 1. Startpunt is het NS station  
-2. Neem bij het startpunt de trap naar beneden en ga links af onder het spoor door  
+2. Neem bij het startpunt de trap naar beneden en ga linksaf onder het spoor door  
 3. Aan de andere zijde van het spoor over de stoep rechtdoor (Helmichstraat)  
-4. Sla direct voorbij de Stakenbeek rechtsaf (Stakenbeekpad)  
-5. Neem de 3e weg links (Lijsterstraat)  
+4. Sla net voor de Stakenbeek rechtsaf, het fietspad volgen  
+5. Neem de brug linksaf over de Stakenbeek en ga vervolgens rechtdoor (Lijsterstraat)  
 6. Steek de weg (Stakenkamplaan) over en loop het park in, richting de muziekkoepel  
 7. Bij de muziekkoepel linksaf het voetpad in  
 8. Blijf het voetpad volgen, over de parkeerplaats tot aan de straat en sla rechtsaf (Helmichstraat)  
@@ -28,5 +28,6 @@ permalink: /routes/kort/dinsdag
 
 13. Bij het hek rechtdoor de onverharde weg blijven volgen (Harinkweg)  
 14. Harinkweg rechtdoor blijven volgen langs het spoor (onverharde weg gaat over in fietspad)  
-15. Aan het einde van het fietspad weg oversteken en op het trottoir rechtsaf (Boerskottenlaan)  
-16. Weg naar links blijven volgen tot aan de kruising en dan rechtsaf (Groene Loper) door de spoortunnel  
+15. Aan het einde van het fietspad weg oversteken en op het trottoir linksaf (Boerskottenlaan) en daarna weer direct rechtsaf (Bloemenkamplaan)  
+16. Blijf de weg volgen tot de kruising met de doorgaande weg (Helmichstraat) en sla rechtsaf  
+17. Blijf de weg rechtdoor volgen (Groene Loper) door de spoortunnel.

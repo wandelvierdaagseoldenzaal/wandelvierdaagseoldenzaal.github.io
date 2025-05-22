@@ -12,11 +12,11 @@ permalink: /routes/lang/dinsdag
 ---
 
 1. Startpunt is het NS station  
-2. Neem bij het startpunt de trap naar beneden en ga links af onder het spoor door  
+2. Neem bij het startpunt de trap naar beneden en ga linksaf onder het spoor door  
 3. Aan de andere zijde van het spoor over de stoep rechtdoor (Helmichstraat)  
-4. Sla direct voorbij de Stakenbeek rechtsaf (Stakenbeekpad)  
-5. Neem de 3e weg links (Lijsterstraat).  
-6. Steek de weg (Stakenkamplaan) over en loop het park in, richting de muziekkoepel.  
+4. Sla net voor de Stakenbeek rechtsaf, het fietspad volgen  
+5. Neem de brug linksaf over de Stakenbeek en ga vervolgens rechtdoor (Lijsterstraat)  
+6. Steek de weg (Stakenkamplaan) over en loop het park in, richting de muziekkoepel  
 7. Bij de muziekkoepel linksaf het voetpad in  
 8. Blijf het voetpad volgen, over de parkeerplaats tot aan de straat en sla rechtsaf (Helmichstraat)  
 9. Blijf de Helmichstraat over de stoep volgen tot aan het einde en sla dan linksaf (Schapendijk)  
