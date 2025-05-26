@@ -22,9 +22,9 @@ Deelnemers in een scootmobiel kunnen aan zowel de wandel4daagse als de [minderva
 
 Dit jaar kun je wederom ook gebruik maken van [Komoot](/komoot) om de routes te navigeren.  
 
-# Winacties
+# Winacties & Weggeefacties
 
-Het lopen nog leuker maken? Tijdens de Wandel4Daagse kun je meedoen aan [winacties](/winacties).  
+Maak het lopen nog leuker met de [winacties](/winacties) en andere weggeefacties. Zo kun je op dinsdag een gratis drinkbidon krijgen, op woensdag meedoen aan de waterlied winactie, op donderdag een rebus oplossen en kans maken op leuke prijzen, en op vrijdag een waterijsje krijgen. Kortom, genoeg te doen en te winnen tijdens de Wandel4Daagse!
 
 # Blijf op de wandelpaden
 
