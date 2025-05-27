@@ -5,7 +5,7 @@ permalink: /winacties/waterlied
 author_profile: false
 ---
 
-Op [woensdag](/routes/woensdag) zul je langs de route 12 woorden tegenkomen met daarbij een cijfer. Noteer de woorden en het bijbehorende cijfer. Aan het einde van de route kun je deze woorden en cijfers gebruiken om de tekst van het waterlied in elkaar te puzzelen. Denk je de songtekst compleet te hebben? Stuur je antwoord dan in via het formulier hieronder en maak kans op een van de prijzen.  
+Op [woensdag](/routes/woensdag) zul je langs de route 12 woorden tegenkomen. Noteer de woorden. Aan het einde van de route kun je deze woorden gebruiken om de tekst van het waterlied in elkaar te puzzelen. Denk je de songtekst compleet te hebben? Stuur je antwoord dan in via het formulier hieronder en maak kans op een van de prijzen.  
 
 Je kunt zowel met de korte als lange route meedoen.  
 
