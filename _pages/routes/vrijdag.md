@@ -37,6 +37,10 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 [Op het marktplein is een watertappunt aanwezig](https://maps.app.goo.gl/KNove5gQD4T4e9m4A){:target="_blank"} waar je gratis drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen drinken. 
 
+## Win & Weggeefacties
+
+Kijk [hier](/winacties) voor de win- en weggeefacties die we deze dag hebben.  
+
 ## Vermaak onderweg
 
 Zowel bij vertrek, de Potskamp als bij terugkeer op de Markt kunnen we genieten van muzikale klanken van dweilorkest Melomanie. Vanaf 19.00 uur treden de confetties op bij de Potskamp. Op de markt en bij de Postkamp zal NextDanceStudio vanaf 17.40 uur verschillende optredens verzorgen.  

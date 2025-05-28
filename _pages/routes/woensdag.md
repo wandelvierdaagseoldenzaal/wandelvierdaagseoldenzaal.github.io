@@ -43,9 +43,9 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 Op diverse plekken op Het Hulsbeek zijn gratis watertappunten waar je drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen drinken. 
 
-## Wedstrijd
+## Win & Weggeefacties
 
-Iedereen die wil kan gedurende de wandelroute mee doen aan een wedstrijd. Je gevonden antwoord kun je naderhand insturen via onze website om mee te dingen naar een prijsje. Meer informatie over de wedstrijd en de prijs vind je op de [winactie pagina](/winacties#woensdag).  
+Kijk [hier](/winacties) voor de win- en weggeefacties die we deze dag hebben.   
 
 ## Vermaak onderweg
 

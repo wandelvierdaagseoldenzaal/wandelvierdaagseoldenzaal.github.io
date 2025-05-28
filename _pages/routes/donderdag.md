@@ -35,9 +35,9 @@ Deze locatie is bereikbaar per openbaar vervoer, al zij het wat lastiger. Buslij
 
 Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"}.  
 
-## Wedstrijd
+## Win & Weggeefacties
 
-Iedereen die wil kan gedurende de wandelroute mee doen aan een wedstrijd. Je gevonden antwoord kun je naderhand insturen via onze website om mee te dingen naar een prijsje. Meer informatie over de wedstrijd en de prijs vind je op de [winactie pagina](/winacties#donderdag).  
+Kijk [hier](/winacties) voor de win- en weggeefacties die we deze dag hebben.  
 
 ## Vermaak onderweg
 

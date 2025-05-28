@@ -45,6 +45,10 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 Bij de [Muziekkoepel Oldenzaal](https://maps.app.goo.gl/t1KMGpcQy6rmUhC88){:target="_blank"} in park Stakenkamp wordt die dag een spiksplinternieuw permanent watertappunt geopend. Ter ere van de opening ervan worden daar gratis drinkbidons uitgedeeld aan de deelnemers van de Wandel4Daagse. Deze worden aangeboden door [Kock van Benthem Makelaars](https://www.kvbm.nl/){:target="_blank"} en kunnen daar gelijk gevuld worden. Zolang de voorraad strekt.  
 
+## Win & Weggeefacties
+
+Kijk [hier](/winacties) voor de win- en weggeefacties die we deze dag hebben.  
+
 ## Vermaak onderweg
 
 Deze dag hebben we een aantal optredens voor jullie in petto. Zo zullen er bij de start doorlopend optredens zijn van [Dweilorkest Lavasjkierie](https://dorp-rossum.nl/cultuur-smenleving/dweilorkest-lavasjkierie/){:target="_blank"}. Ook [jeugdcircus Tubantino](https://jeugdcircus-tubantino.nl/){:target="_blank"} komt er hun kunsten vertonen. 
