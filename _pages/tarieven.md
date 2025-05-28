@@ -35,20 +35,7 @@ Je ontvangt bij een daginschrijving geen medaille.
 
 ## Basisschool leerlingen
 
-Vorig jaar zagen we een forse toename in het aantal bassischool leerlingen dat meeliep. We hopen dat dit dit jaar weer het geval is, maar hopen stiekem op een nog grotere opkomst. 
-
-We hebben dit jaar overlegd met een aantal ondernemingsraden van basisscholen in Oldenzaal en zijn tot de conclusie gekomen dat we dit jaar een extra stimulans willen geven aan basisschool leerlingen om mee te wandelen. De basisscholen die hieraan meewerken, krijgen van ons een korting en betalen slechts 4,00 euro per deelnemer. Voorwaarde hiervoor is dat de basisschool leerlingen zich vooraf inschrijven via hun school. Dit kan alleen via de scholen die hieraan meewerken.  
-
-Het is dit jaar alleen mogelijk voor basisschool leerlingen van de volgende school om zich via hun school in te schrijven:
-
-- OBS de Linde - De Thij  
-  Contactpersoon: Sjoerd van Solkema  
-  E-Mail: svansolkema@obs-delinde.nl  
-  Telefoonnummer: 06-30 78 18 44  
-
-De deadline voor inschrijven via de basisschool is tot en met 1 juni 2025.  
-
-Leerlingen van andere basisscholen kunnen zich gewoon [inschrijven via onze website](/inschrijven) en betalen het gewone tarief van 5 euro per deelnemer.  
+Leerlingen basisscholen kunnen zich gewoon [inschrijven via onze website](/inschrijven) en betalen het gewone tarief van 5 euro per deelnemer.  
 
 ## Mindervaliden 3 daagse
 
