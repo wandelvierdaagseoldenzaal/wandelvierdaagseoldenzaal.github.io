@@ -14,3 +14,5 @@ Let wel, tot en met a.s. zondag 8 juni 2025 kun je je nog voorinschrijven voor a
 Dit jaar hebben we weer een heleboel leuke win- en weggeefacties voor de Wandel4Daagse Oldenzaal. Zo kun je op woensdag een gratis drinkbidon krijgen en tevens meedoen aan de waterlied winactie, op donderdag een rebus oplossen en kans maken op leuke prijzen, en op vrijdag een waterijsje krijgen. En nóg veel meer. Kortom, genoeg te doen en te winnen tijdens de Wandel4Daagse!
 
 [Lees meer](/winacties) over wat er allemaal te doen zal zijn of ga direct naar [inschrijven](/inschrijven) om je aan te melden.  
+
+![Knipkaart](/assets/images/news/2025/knipkaart.png){: .align-center}  
