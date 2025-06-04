@@ -30,14 +30,13 @@
 
   <label>Aantal deelnemers
   <input type="number" name="aantal_deelnemers" min="1" max="{{ page.maxdeelnemers }}" size="5" required></label>
+  <p class="smalltext">
+    {% if page.kosten %}
+      {{ page.kosten }} 
+    {% endif %}
+    Maximaal {{ page.maxdeelnemers }} deelnemers per inschrijving.
+  </p>
 
-  <p class="question">Hoeveel dagen wandel je mee?</p>  
-  <p><input type="radio" id="vierdagen" name="type" checked="checked" value="FullPass">
-  <label for="vierdagen">Alle vier de dagen à € 5,00 per deelnemer</label> <a href="/tarieven#alle-4-dagen-meewandelen-bij-voorinschrijving" target="_blank">meer info</a></p>
-  <p><input type="radio" id="dagkaart" name="type" value="DayPass">
-  <label for="dagkaart">Dagkaart à € 3,00 per deelnemer per dag</label> <a href="/tarieven#per-dag-meewandelen" target="_blank">meer info</a></p>
-
-  <p class="question">Welke route wil je lopen?</p>  
   <p><input type="radio" id="kort" name="route" checked="checked" value="Short">
   <label for="kort">Korte route (ca. 6 km per dag)</label> <a href="/kort" target="_blank">meer info</a></p>
   <p><input type="radio" id="lang" name="route" value="Long">

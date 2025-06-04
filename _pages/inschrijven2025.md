@@ -20,7 +20,7 @@ Je deelname is kosteloos.
 ## Inschrijven
 Inschrijven voor de Wandel4Daagse Oldenzaal kan eenvoudig via het onderstaande formulier. Je ontvangt direct een bevestiging van je inschrijving per e-mail wat tevens je toegangsbewijs is.
 
-{% include /signupform.html %}
+{% include /signupformfree.html %}
 
 ## Algemene voorwaarden
 

@@ -11,7 +11,7 @@ Om de Wandel4Daagse Oldenzaal te kunnen lopen, dien je je in te schrijven. De ko
 
 € 5,00 per persoon  
 
-Wanneer je je vooraf inschrijft via deze website, betaal je 5,00 euro per persoon voor deelname aan alle 4 dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
+Wanneer je je vooraf inschrijft via deze website, betaal je 5,00 euro per persoon voor deelname aan alle 4 de dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
 
 Voorinschrijving is mogelijk via deze website van 12 mei 2025 tot en met zondag 8 juni 2025.  
 
@@ -27,9 +27,11 @@ Dit tarief is van toepassing bij inschrijven via onze website vanaf maandag 9 ju
 
 € 3,00 per persoon per dag  
 
-Weet je nog niet zeker of je alle 4 dagen kunt meewandelen? Geen probleem! Je kunt ook per dag meewandelen. Voor 3,00 euro per persoon per dag kun je meewandelen. Meld je hiervoor op de dag zelf bij de startlocatie van die dag. Betalen bij onze stand kan per pin of contant.  
+Weet je nog niet zeker of je alle 4 de dagen kunt meewandelen? Geen probleem! Je kunt ook per dag meewandelen. Voor 3,00 euro per persoon per dag kun je meewandelen. Kaarten hiervoor kun je ook gewoon [via deze website kopen](/inschrijven). Laat de QR code die je ontvangt na inschrijven scannen bij het startpunt van de dag. Mocht betalen via iDeal geen optie zijn voor je, dan kun je je op de dag zelf bij de startlocatie van die dag ook aanmelden en betalen per pin of contant.  
 
 Let wel, als je denkt minstens twee van de vier dagen deel te kunnen nemen, dan is voorinschrijven voor alle 4 de dagen al goedkoper dan het dagtarief en is dat een verstandigere keuze.  
+
+Ben je te laat voor de voorinschrijving en wil je twee van de vier dagen meewandelen? Schrijf je dan twee keer in voor een dagkaart. Zo kunnen wij eenvoudig op beide dagen één van je inschrijvingen verwerken. Wandel je drie dagen mee? Ga dan voor de alle 4 de dagen kaart, want dat is voordeliger.  
 
 Je ontvangt bij een daginschrijving geen medaille.  
 
