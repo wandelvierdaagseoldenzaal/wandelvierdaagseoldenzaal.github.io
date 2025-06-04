@@ -7,7 +7,7 @@ author_profile: false
 
 In navolging van de succesvolle winacties van voorgaande jaren en de positieve feedback die we erop hebben gekregen, zullen er ook dit jaar weer winacties en andere weggeefacties georganiseerd worden.  
 
-- [Gratis drinkbidon](/winacties/drinkbidon) op [dinsdag 10 juni 2025](/routes/dinsdag)
+- [Gratis drinkbidon](/winacties/drinkbidon) op [woensdag 11 juni 2025](/routes/dinsdag)
 - [Waterlied](/winacties/waterlied) winactie op [woensdag 11 juni 2025](/routes/woensdag)
 - [Rebus](/winacties/rebus) winactie op [donderdag 12 juni 2025](/routes/donderdag)
 - [Vers fruitstokje](/winacties/versfruit) op [donderdag 12 juni 2025](/routes/donderdag)
