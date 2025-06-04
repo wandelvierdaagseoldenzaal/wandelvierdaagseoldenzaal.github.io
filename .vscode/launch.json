@@ -12,6 +12,6 @@
         "request": "attach",
         "name": "Attach Production",
         "preLaunchTask": "jekyll production"
-      }      
+      }    
     ]
   }
