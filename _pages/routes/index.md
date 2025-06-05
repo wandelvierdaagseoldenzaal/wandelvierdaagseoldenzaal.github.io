@@ -26,7 +26,7 @@ Dit jaar kun je wederom ook gebruik maken van [Komoot](/komoot) om de routes te 
 
 # Winacties & Weggeefacties
 
-Maak het lopen nog leuker met de [winacties](/winacties) en andere weggeefacties. Zo kun je op dinsdag een gratis drinkbidon krijgen, op woensdag meedoen aan de waterlied winactie, op donderdag een rebus oplossen en kans maken op leuke prijzen, en op vrijdag een waterijsje krijgen. Kortom, genoeg te doen en te winnen tijdens de Wandel4Daagse!
+Maak het lopen nog leuker met de [winacties](/winacties) en andere weggeefacties. Er is genoeg te doen en te winnen tijdens de Wandel4Daagse!  
 
 # Blijf op de wandelpaden
 

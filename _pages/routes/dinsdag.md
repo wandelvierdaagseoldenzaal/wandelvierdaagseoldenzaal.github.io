@@ -41,9 +41,7 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 ## Gratis drinkwater
 
-[Voor het stationsgebouw](https://maps.app.goo.gl/x4U1xm794XyxJhJWA){:target="_blank"} is een watertappunt van de NS aanwezig waar je gratis drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen drinken. 
-
-Bij de [Muziekkoepel Oldenzaal](https://maps.app.goo.gl/t1KMGpcQy6rmUhC88){:target="_blank"} in park Stakenkamp wordt die dag een spiksplinternieuw permanent watertappunt geopend. Ter ere van de opening ervan worden daar gratis drinkbidons uitgedeeld aan de deelnemers van de Wandel4Daagse. Deze worden aangeboden door [Kock van Benthem Makelaars](https://www.kvbm.nl/){:target="_blank"} en kunnen daar gelijk gevuld worden. Zolang de voorraad strekt.  
+[Voor het stationsgebouw](https://maps.app.goo.gl/x4U1xm794XyxJhJWA){:target="_blank"} is een watertappunt van de NS aanwezig waar je gratis drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen  
 
 ## Win & Weggeefacties
 
