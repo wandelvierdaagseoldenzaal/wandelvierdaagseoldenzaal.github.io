@@ -14,7 +14,7 @@ Voor de 62<sup>e</sup> editie van de Wandel4Daagse Oldenzaal hebben we weer een 
     <li><a href="/routes/vrijdag">Vrijdag 13 juni 2025</a></li>
 </ul>
 
-Alle routes in één handig boekje? Download het [routeboekje](/assets/routes/Routeboekje%202025.pdf) (PDF, 2.4 MB) met daarin alle routes van de Wandel4Daagse Oldenzaal 2025.  
+Alle routes in één handig boekje? Download het [routeboekje](/assets/routes/Routeboekje2025.pdf) (PDF, 2.5 MB) met daarin alle routes van de Wandel4Daagse Oldenzaal 2025.  
 
 # Scootmobielen, kinderwagens en bolderkarren
 
