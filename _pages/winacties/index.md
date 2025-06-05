@@ -28,10 +28,18 @@ _! Tip ! Neem zelf een pen en papier mee tijdens het wandelen om de antwoorden o
 
 De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/sponsoren). We mogen dit jaar de volgende prijzen weggeven:
 
-- 3x toegangskaartje [Monkey Town](https://monkeytown.eu/){:target="_blank"}
+- 24x Focus Drink® Knolpower beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/){:target="_blank"}
+- 10x snoeppakket van [Jumbo Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers){:target="_blank"}
+- 10x Jerrycan Tropical ranja, goed voor 140 liter heerlijke typische Wandel4Daagse ranja, beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/){:target="_blank"}
 - 7x twee muntjes voor [Thijs IJs](https://thijs-oldenzaal.nl/){:target="_blank"}
-- 5 tot 10 snoeppakketten van [Jumbo Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers){:target="_blank"}
-- Focus Drink® Knolpower beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/){:target="_blank"}
+- 7x pakketje kleurpotloden van de [Gemeente Oldenzaal](https://www.oldenzaal.nl/){:target="_blank"}
+- 4x jojo van de [Gemeente Oldenzaal](https://www.oldenzaal.nl/){:target="_blank"}
+- 3x toegangskaartje [Monkey Town](https://monkeytown.eu/){:target="_blank"}
+- 2x speaker van de [Gemeente Oldenzaal](https://www.oldenzaal.nl/){:target="_blank"}
+- 1x stoepkrijt van de [Gemeente Oldenzaal](https://www.oldenzaal.nl/){:target="_blank"}
+
+![Prijzen diverse sponsoren](/assets/images/news/2025/prijzenoverig.png){: .align-center}  
+![Prijzen Gemeente Oldenzaal](/assets/images/news/2025/prijzengemeente.png){: .align-center}  
 
 # Uitslag
 
