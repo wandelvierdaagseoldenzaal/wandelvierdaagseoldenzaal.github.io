@@ -52,6 +52,9 @@ sponsorlogos:
 - url: /assets/sponsors/KockVanBenthem.png
   name: Kok van Benthem Makelaars
   link: https://www.kvbm.nl/
+- url: /assets/sponsors/kothman.svg
+  name: Kothman
+  link: https://kothman.nl/
 - url: /assets/sponsors/LetterPret.png
   name: LetterPret
   link: https://www.letterpret.com/

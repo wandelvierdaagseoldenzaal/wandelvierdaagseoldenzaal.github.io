@@ -5,9 +5,10 @@ permalink: /winacties
 author_profile: false
 ---
 
-In navolging van de succesvolle winacties van voorgaande jaren en de positieve feedback die we erop hebben gekregen, zullen er ook dit jaar weer winacties en andere weggeefacties georganiseerd worden.  
+In navolging van de succesvolle winacties van voorgaande jaren en de positieve feedback die we erop hebben gekregen, zullen er ook dit jaar weer winacties en andere weggeefacties georganiseerd worden:  
 
-- [Gratis drinkbidon](/winacties/drinkbidon) op [woensdag 11 juni 2025](/routes/dinsdag)
+- [Ijs van Thijs](/winacties/ijsvanthijs) op [dinsdag 10 juni 2025](/routes/dinsdag)
+- [Gratis drinkbidon](/winacties/drinkbidon) op [woensdag 11 juni 2025](/routes/woensdag)
 - [Waterlied](/winacties/waterlied) winactie op [woensdag 11 juni 2025](/routes/woensdag)
 - [Rebus](/winacties/rebus) winactie op [donderdag 12 juni 2025](/routes/donderdag)
 - [Vers fruitstokje](/winacties/versfruit) op [donderdag 12 juni 2025](/routes/donderdag)
@@ -16,6 +17,8 @@ In navolging van de succesvolle winacties van voorgaande jaren en de positieve f
 
 En daarnaast natuurlijk elke dag, zoals traditie, een lekkere sappige appel en verfrissende ranja langs beide routes.  
 
+![Appels worden uitgedeeld](/assets/images/news/2025/appelsuitdelen.png){: .align-center}  
+
 # Deelnemen
 
 Voor de twee winacties geldt dat je kunt deelnemen door je antwoord in te sturen via het formulier dat beschikbaar is op de betreffende pagina. Je kunt ook een QR Code scannen die bij de finish beschikbaar zal komen en je in het routeboekje kunt vinden.  
@@ -23,6 +26,8 @@ Voor de twee winacties geldt dat je kunt deelnemen door je antwoord in te sturen
 De antwoorden kunnen **uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur** worden ingestuurd.  
 
 _! Tip ! Neem zelf een pen en papier mee tijdens het wandelen om de antwoorden op te schrijven ! Tip !_  
+
+![Rebus langs de route](/assets/images/news/2025/rebus.png){: .align-center}  
 
 # Prijzen
 

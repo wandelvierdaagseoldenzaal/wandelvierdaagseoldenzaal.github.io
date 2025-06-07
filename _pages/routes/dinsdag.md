@@ -41,7 +41,7 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 ## Gratis drinkwater
 
-[Voor het stationsgebouw](https://maps.app.goo.gl/x4U1xm794XyxJhJWA){:target="_blank"} is een watertappunt van de NS aanwezig waar je gratis drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen  
+[Voor het stationsgebouw](https://maps.app.goo.gl/x4U1xm794XyxJhJWA){:target="_blank"} is een watertappunt van de NS aanwezig waar je gratis drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen drinken.  
 
 ## Win & Weggeefacties
 

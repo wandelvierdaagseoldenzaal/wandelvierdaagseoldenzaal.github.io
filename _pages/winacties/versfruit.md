@@ -9,4 +9,6 @@ Op [donderdag](/routes/donderdag) zullen er heerlijke stokjes met vers fruit wor
 
 Zowel de korte als lange route komen hier langs.  
 
-![Plus Supermarkt Oldenzaal](/assets/sponsors/Partou.png){: .align-center}
+![Vers fruit](/assets/images/news/2025/partou-fruit.png){: .align-center}  
+
+![Partou Logo](/assets/sponsors/Partou.png){: .align-center}

@@ -41,5 +41,6 @@ permalink: /routes/lang/dinsdag
 25. Blijf de weg rechtdoor volgen (gaat over in onverharde weg) (Koppelboerweg)  
 26. Bij de splitsing met de verharde weg scherp linksaf (Koppelboerweg)  
 27. Direct na de spoorwegovergang rechtsaf het fietspad volgen (Harinkweg)  
+    _Let op: mocht je zin hebben in een lekker ijsje, gesponsord door Kothman, ga hier dan linksaf en vind na 330 meter Thijs IJs. Loop hierna terug en vervolg de route als normaal._  
 28. Aan het einde van het fietspad weg oversteken en op het trottoir rechtsaf (Boerskottenlaan).  
 29. Weg naar links blijven volgen tot aan de kruising en dan rechtsaf (Groene Loper) door de spoortunnel.  
