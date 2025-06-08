@@ -9,6 +9,8 @@ Om de Wandel4Daagse Oldenzaal te kunnen lopen, dien je je in te schrijven. De ko
 
 ## Alle 4 dagen meewandelen bij voorinschrijving
 
+**Voorinschrijven is niet meer mogelijk**
+
 € 5,00 per persoon  
 
 Wanneer je je vooraf inschrijft via deze website, betaal je 5,00 euro per persoon voor deelname aan alle 4 de dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
@@ -23,21 +25,21 @@ Wanneer je ervoor kiest om je niet vooraf in te schrijven, kun je nog steeds mee
 
 Dit tarief is van toepassing bij inschrijven via onze website vanaf maandag 9 juni of bij inschrijven bij onze stand op één van de startdagen. Betalen bij onze stand kan bij voorkeur via iDeal door je alsnog via deze website in te schrijven en je QR code te laten scannen, maar kan eventueel ook ter plekke per pin of contant.  
 
+Je ontvangt bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
+
 ## Per dag meewandelen
 
 € 3,00 per persoon per dag  
 
 Weet je nog niet zeker of je alle 4 de dagen kunt meewandelen? Geen probleem! Je kunt ook per dag meewandelen. Voor 3,00 euro per persoon per dag kun je meewandelen. Kaarten hiervoor kun je ook gewoon [via deze website kopen](/inschrijven). Laat de QR code die je ontvangt na inschrijven scannen bij het startpunt van de dag. Mocht betalen via iDeal geen optie zijn voor je, dan kun je je op de dag zelf bij de startlocatie van die dag ook aanmelden en betalen per pin of contant.  
 
-Let wel, als je denkt minstens twee van de vier dagen deel te kunnen nemen, dan is voorinschrijven voor alle 4 de dagen al goedkoper dan het dagtarief en is dat een verstandigere keuze.  
-
-Ben je te laat voor de voorinschrijving en wil je twee van de vier dagen meewandelen? Schrijf je dan twee keer in voor een dagkaart. Zo kunnen wij eenvoudig op beide dagen één van je inschrijvingen verwerken. Wandel je drie dagen mee? Ga dan voor de alle 4 de dagen kaart, want dat is voordeliger.  
+Let wel, wil je twee van de vier dagen meewandelen? Schrijf je dan twee keer in voor een dagkaart. Zo kunnen wij eenvoudig op beide dagen één van je inschrijvingen verwerken. Wandel je drie dagen mee? Ga dan voor de alle 4 de dagen kaart, want dat is voordeliger.  
 
 Je ontvangt bij een daginschrijving geen medaille.  
 
 ## Basisschool leerlingen
 
-Leerlingen basisscholen kunnen zich gewoon [inschrijven via onze website](/inschrijven) en betalen het gewone tarief van 5 euro per deelnemer.  
+Leerlingen basisscholen kunnen zich gewoon [inschrijven via onze website](/inschrijven) en betalen het gewone tarief.  
 
 ## Mindervaliden 3 daagse
 

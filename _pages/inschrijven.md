@@ -6,7 +6,7 @@ author_profile: false
 maxdeelnemers: 50
 ---
 
-Voorinschrijven voor de Wandel4Daagse Oldenzaal 2025 is vanaf nu mogelijk! Tot en met zondag 8 juni 2025 betaal je het voordelige voorinschrijftarief. Hierna betaal je hetzelfde tarief als wanneer je je op de dag zelf komt aanmelden. Wacht dus niet te lang met inschrijven.  
+Inschrijven voor de Wandel4Daagse Oldenzaal 2025 is nog steeds mogelijk. Je betaalt online hetzelfde tarief als wanneer je je op de dag zelf komt aanmelden. Schrijf je bij voorkeur via de website in, dan kunnen we je aanmelding sneller verwerken.  
 
 ## Kosten
 
