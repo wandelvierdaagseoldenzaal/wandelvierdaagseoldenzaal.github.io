@@ -49,18 +49,18 @@ a.btn-green:hover {
     margin-bottom: 0.5em !important;
 }
 
-.btn-signup {
+.btn-submit, .btn-signup {
     background-color: #88C738;
     padding: 15px;
     border-color: #ffffff;
     border-radius: 8px;
 }
 
-a.btn-signup:visited, a.btn-green {
+a.btn-submit:visited,, a.btn-signup:visited, a.btn-green {
     color: #ffffff;
 }
 
-a.btn-signup:hover {
+a.btn-submit:hover, a.btn-signup:hover {
     background-color: #96D14A;
 }
 

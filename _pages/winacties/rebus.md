@@ -15,9 +15,36 @@ Je kunt zowel met de korte als lange route meedoen.
 
 ## Deelnemen
 
-De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden ingestuurd.  
+De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden ingestuurd via het onderstaande formulier.  
 
-_Formulier volgt binnenkort!_
+<script type="text/javascript">
+  function lockForm()
+  {
+    document.getElementById('submitbutton').disabled = true;
+
+    // Unlock the button after 60 seconds
+    setTimeout("document.getElementById('submitbutton').disabled = false", 60000);
+  }
+</script>
+
+<form action="https://api.wandel4daagseoldenzaal.nl/v1/contests/rebus" method="POST" onsubmit="lockForm()">
+
+  {% if page.promocode %}
+  <input type="hidden" name="promocode" value="{{ page.promocode }}">
+  {% endif %}
+
+  <label>Naam
+  <input type="text" name="name" maxlength="50" size="30" required></label>
+
+  <label>E-mailadres
+  <input type="email" name="email" size="30" maxlength="50" required></label>
+
+  <label>Antwoord
+  <input type="text" name="answer" maxlength="200" size="90" required></label>
+  <p>_&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; ,&nbsp; &nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; .&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; .&nbsp;</p>
+
+  <p><button type="submit" class="btn-submit" id="submitbutton">Indienen</button></p>
+</form>
 
 ## Uitslag
 
