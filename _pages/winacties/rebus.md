@@ -29,10 +29,6 @@ De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden inge
 
 <form action="https://api.wandel4daagseoldenzaal.nl/v1/contests/rebus" method="POST" onsubmit="lockForm()">
 
-  {% if page.promocode %}
-  <input type="hidden" name="promocode" value="{{ page.promocode }}">
-  {% endif %}
-
   <label>Naam
   <input type="text" name="name" maxlength="50" size="30" required></label>
 
