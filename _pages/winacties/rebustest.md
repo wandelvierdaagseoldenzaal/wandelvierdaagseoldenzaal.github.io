@@ -1,8 +1,9 @@
 ---
 layout: single
 title: Rebus
-permalink: /winacties/rebus
+permalink: /winacties/rebustest
 author_profile: false
+environment: test
 ---
 
 Op [donderdag](/routes/donderdag) kun je langs de route maar liefst 22 rebussen vinden, herkenbaar aan A4tjes met het Wandel4Daagse logo, zoals hieronder te zien:  

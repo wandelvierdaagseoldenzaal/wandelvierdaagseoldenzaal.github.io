@@ -1,8 +1,9 @@
 ---
 layout: single
 title: Waterlied
-permalink: /winacties/waterlied
+permalink: /winacties/waterliedtest
 author_profile: false
+environment: test
 ---
 
 Op [woensdag](/routes/woensdag) zul je langs de route 12 woorden tegenkomen. Deze zijn herkenbaar aan een blaadje met daarop de volgende logo's:

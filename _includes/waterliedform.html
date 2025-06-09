@@ -1,0 +1,33 @@
+<script type="text/javascript">
+  function lockForm()
+  {
+    document.getElementById('submitbutton').disabled = true;
+
+    // Unlock the button after 60 seconds
+    setTimeout("document.getElementById('submitbutton').disabled = false", 60000);
+  }
+</script>
+
+<form action="https://api{{ page.environment }}.wandel4daagseoldenzaal.nl/v1/contests/waterlied" method="POST" onsubmit="lockForm()">
+
+  <label>Naam
+  <input type="text" name="name" maxlength="50" size="30" required></label>
+
+  <label>E-mailadres
+  <input type="email" name="email" size="30" maxlength="50" required></label>
+
+  <label>Woord 1<input type="text" name="word1" maxlength="50" size="30" required></label>
+  <label>Woord 2<input type="text" name="word2" maxlength="50" size="30" required></label>
+  <label>Woord 3<input type="text" name="word3" maxlength="50" size="30" required></label>
+  <label>Woord 4<input type="text" name="word4" maxlength="50" size="30" required></label>
+  <label>Woord 5<input type="text" name="word5" maxlength="50" size="30" required></label>
+  <label>Woord 6<input type="text" name="word6" maxlength="50" size="30" required></label>
+  <label>Woord 7<input type="text" name="word7" maxlength="50" size="30" required></label>
+  <label>Woord 8<input type="text" name="word8" maxlength="50" size="30" required></label>
+  <label>Woord 9<input type="text" name="word9" maxlength="50" size="30" required></label>
+  <label>Woord 10<input type="text" name="word10" maxlength="50" size="30" required></label>
+  <label>Woord 11<input type="text" name="word11" maxlength="50" size="30" required></label>
+  <label>Woord 12<input type="text" name="word12" maxlength="50" size="30" required></label>
+
+  <p><button type="submit" class="btn-submit" id="submitbutton">Indienen</button></p>
+</form>

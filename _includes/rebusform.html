@@ -1,0 +1,24 @@
+<script type="text/javascript">
+  function lockForm()
+  {
+    document.getElementById('submitbutton').disabled = true;
+
+    // Unlock the button after 60 seconds
+    setTimeout("document.getElementById('submitbutton').disabled = false", 60000);
+  }
+</script>
+
+<form action="https://api{{ page.environment }}.wandel4daagseoldenzaal.nl/v1/contests/rebus" method="POST" onsubmit="lockForm()">
+
+  <label>Naam
+  <input type="text" name="name" maxlength="50" size="30" required></label>
+
+  <label>E-mailadres
+  <input type="email" name="email" size="30" maxlength="50" required></label>
+
+  <label>Antwoord
+  <textarea id="answer" name="answer" rows="5" cols="90" required></textarea></label>
+  <p>_&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; ,&nbsp; &nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; .&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; .&nbsp;</p>
+
+  <p><button type="submit" class="btn-submit" id="submitbutton">Indienen</button></p>
+</form>
