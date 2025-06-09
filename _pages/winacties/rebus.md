@@ -36,7 +36,7 @@ De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden inge
   <input type="email" name="email" size="30" maxlength="50" required></label>
 
   <label>Antwoord
-  <input type="text" name="answer" maxlength="200" size="90" required></label>
+  <textarea id="answer" name="answer" rows="5" cols="90" required></textarea></label>
   <p>_&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; ,&nbsp; &nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; .&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; _&nbsp; _&nbsp; _&nbsp; _&nbsp; &nbsp; .&nbsp;</p>
 
   <p><button type="submit" class="btn-submit" id="submitbutton">Indienen</button></p>
