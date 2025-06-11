@@ -33,6 +33,9 @@ Social Media:
 Rolstoel3daagse:  
 [Anita Laarveld](/organisatie/anita)  
 
+Fototeam:  
+Hans Muijderman en José oude Lohuis-Siers  
+
 Zelf ook meehelpen en een te gekke ervaring opdoen? [Meld je dan aan als vrijwilliger](/organisatie/vrijwilligers)!  
 
 ![Organisatie en vrijwilligers Wandel4Daagse Oldenzaal 2023](/assets/organisatie/teamfoto2023.jpg)  
