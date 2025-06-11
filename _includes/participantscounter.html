@@ -16,6 +16,7 @@
           // Start the counter with the fetched data
           let counter = new CountUp('deelnemers', data.count, {
             duration: 4,
+            separator: ''
           });
           if (!counter.error) {
             counter.start();
