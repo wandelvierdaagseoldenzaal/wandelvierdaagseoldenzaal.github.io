@@ -67,7 +67,7 @@ Whohoh, whohoh, blijf wie je bent!
 
 ## Deelnemen
 
-De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden ingestuurd via het onderstaande formulier.  
+De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden ingestuurd via het onderstaande formulier. Eén deelname per persoon.  
 
 {% include /waterliedform.html %}
 
