@@ -5,17 +5,20 @@ permalink: /winacties/rebus
 author_profile: false
 ---
 
-Op [donderdag](/routes/donderdag) kun je langs de route maar liefst 22 rebussen vinden, herkenbaar aan A4tjes met het Wandel4Daagse logo, zoals hieronder te zien:  
+Op [donderdag](/routes/donderdag) kun je langs de route maar liefst 20 rebussen vinden, herkenbaar aan A4tjes met het Wandel4Daagse logo, zoals hieronder te zien:  
 
 ![Voorbeeld Rebus](/assets/images/rebus_voorbeeld.png){: .align-center}  
 
-Deze rebussen vormen samen een zin. Denk je ze alle 22 te hebben gespot, de rebussen te hebben opgelost én de zin gevonden te hebben? Stuur je antwoord dan in via het formulier hieronder en maak kans op een van de prijzen.  
+Deze rebussen vormen samen een zin. Denk je ze alle 20 te hebben gespot, de rebussen te hebben opgelost én de zin gevonden te hebben? Stuur je antwoord dan in via het formulier hieronder en maak kans op een van de prijzen.  
 
 Je kunt zowel met de korte als lange route meedoen.  
 
 ## Deelnemen
 
 De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden ingestuurd via het onderstaande formulier.  
+
+**Let op** In het boekje stond een foutje op de pagina voor de rebus. Hieronder het juiste overzicht:  
+![Rebus formulier](/assets/images/news/2025/rebusinvullen.png){: .align-center}  
 
 {% include /rebusform.html %}
 
