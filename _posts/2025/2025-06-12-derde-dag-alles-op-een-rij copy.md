@@ -26,4 +26,4 @@ Mocht je nog vragen hebben, [mail ons](mailto:info@wandel4daagseoldenzaal.nl) ge
 
 We wensen je een hele mooie derde dag van de Wandel4Daagse toe en ook deze avond weer veel plezier!  
 
-![Foto uit de donderdag route](/assets/images/news/2025/donderdag.jpg){: .align-center}  
+![Foto uit de woensdag route](/assets/images/news/2025/donderdag.jpg){: .align-center}  
