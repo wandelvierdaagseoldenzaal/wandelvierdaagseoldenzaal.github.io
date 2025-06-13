@@ -15,15 +15,10 @@ Je kunt zowel met de korte als lange route meedoen.
 
 ## Deelnemen
 
-De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden ingestuurd via het onderstaande formulier. Eén deelname per persoon.  
-
-**Let op** In het boekje stond een foutje op de pagina voor de rebus. Hieronder het juiste overzicht:  
-![Rebus formulier](/assets/images/news/2025/rebusinvullen.png){: .align-center}  
-
-{% include /rebusform.html %}
+De antwoorden konden uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden ingestuurd. Deelname is inmiddels gesloten.  
 
 ## Uitslag
 
-De winnaars worden op vrijdag 13 juni 2025 rond 12.00 uur bekend gemaakt in een nieuwsbericht op de website en via social media. De winnaars ontvangen ook persoonlijk bericht via e-mail.  
+De winnaars worden op vrijdag 13 juni 2025 rond 12.00 uur bekend gemaakt. Alle deelnemers ontvangen persoonlijk bericht via e-mail waarin staat of je inzending correct was en of je wel of geen prijs gewonnen hebt.  
 
 De prijzen kunnen worden opgehaald bij de de speciale stand net na de finish op vrijdag 13 juni 2025 in de [Kerkstraat in Oldenzaal](https://maps.app.goo.gl/mGp3rzqcLYbqJ1zPA){:target="_blank"}. Zorg ervoor dat je de mail met de bevestiging van je prijs meeneemt, zodat we kunnen controleren of je de winnaar bent.  
