@@ -14,3 +14,4 @@ Helaas moeten we mededelen dat de slotdag van [de mindervaliden 3Daagse](/routes
 We wensen iedereen die vandaag meeloopt veel plezier en een fijne slotdag toe!  
 
 ![Temperatuurvoorspelling vandaag](/assets/images/news/2025/weeronlinevrijdag.png){: .align-center}  
+![Foto deelnemers Mindervaliden 3Daagse](/assets/images/news/2025/mindervaliden.jpg){: .align-center}  
