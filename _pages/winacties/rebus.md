@@ -15,7 +15,7 @@ Je kunt zowel met de korte als lange route meedoen.
 
 ## Deelnemen
 
-De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden ingestuurd via het onderstaande formulier.  
+De antwoorden kunnen uiterlijk tot vrijdag 13 juni 2025 om 11.00 uur worden ingestuurd via het onderstaande formulier. Eén deelname per persoon.  
 
 **Let op** In het boekje stond een foutje op de pagina voor de rebus. Hieronder het juiste overzicht:  
 ![Rebus formulier](/assets/images/news/2025/rebusinvullen.png){: .align-center}  
