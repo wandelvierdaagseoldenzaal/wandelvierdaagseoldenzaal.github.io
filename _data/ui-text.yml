@@ -871,6 +871,7 @@ nl: &DEFAULT_NL
   ext_link_label             : "Directe Link"
   less_than                  : "minder dan"
   minute_read                : "minuut om te lezen"
+  minutes_read               : "minuten om te lezen"
   share_on_label             : "Deel op"
   meta_label                 :
   tags_label                 : "Labels:"
