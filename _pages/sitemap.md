@@ -7,7 +7,7 @@ author_profile: false
 
 * Media
   * [Nieuws](/nieuws)
-  * [Foto's](/fotos)
+  * [Foto's](https://fotoboek.wandel4daagseoldenzaal.nl/
   * [Social Media](/socials)
 * Meedoen
   * [Inschrijven](/inschrijven)  
