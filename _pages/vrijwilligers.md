@@ -27,6 +27,7 @@ Als vrijwilliger ondersteun je de organisatie op allerlei manieren, zoals de dag
 Het uitdelen van knipkaarten en routeboekjes, appels en drinken uitdelen langs de route, deelnemers de route wijzen, verkeersregelaar worden, kaarten knippen of medailles uitdelen. Alle hulp is welkom en gaat in overleg met als uitgangspuntdat je zelf ook te gekke dagen gaat beleven.  
 
 ![Vrijwilliger aan het werk tijdens de Wandel4Daagse](/assets/images/vrijwilligerappels.jpg){: .align-center}  
+![Vrijwilliger aan het werk tijdens de Wandel4Daagse](/assets/images/vrijwilligerknippost.jpg){: .align-center}  
 
 ## Interesse?
 
