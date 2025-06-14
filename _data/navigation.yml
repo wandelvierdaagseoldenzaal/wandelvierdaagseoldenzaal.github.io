@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Inschrijven"
-    url: /inschrijven
-  - title: "Tarieven"
-    url: /tarieven
+  - title: "Fotoboek"
+    url: http://fotoboek.wandel4daagseoldenzaal.nl/
   - title: "Routes"
     url: /routes
   - title: "Sponsoren"
