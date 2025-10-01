@@ -13,4 +13,4 @@ Dit bedrag zullen we gebruiken om de organisatie van de 63e editie van de Wandel
 
 #rabota #raboclubsupport
 
-![Uitreiking Rabobank ClubSupport cheque aan de Wandel4Daagse](/assets/images/news/2025/raboclubsupport.png){: .align-center}  
+![Uitreiking Rabobank ClubSupport cheque aan de Wandel4Daagse](/assets/images/news/2025/raboclubsupportuitslag.png){: .align-center}  
