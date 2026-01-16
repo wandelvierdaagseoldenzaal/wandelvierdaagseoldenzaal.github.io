@@ -19,7 +19,7 @@ Voor jouw inschrijving worden geen deelnamekosten berekend. Jouw inschrijving is
     var signupid = urlParams.get('signupid');
     var environment = urlParams.get('environment') ?? '';
 
-    fetch("https://api" + environment + ".wandel4daagseoldenzaal.nl/v1/qrcode?signupreference=" + signupreference + "&signupid=" + signupid + "&format=json")
+    fetch("https://publicapi" + environment + ".wandel4daagseoldenzaal.nl/v1/qrcode?signupreference=" + signupreference + "&signupid=" + signupid + "&format=json")
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
@@ -36,6 +36,6 @@ Voor jouw inschrijving worden geen deelnamekosten berekend. Jouw inschrijving is
     })
     .catch(error => {
         console.error('QR Code error:', error);
-        document.getElementById('qrcode').innerHTML = '<img src="https://api' + environment + '.wandel4daagseoldenzaal.nl/v1/qrcode?signupreference=' + signupreference + '&signupid=' + signupid + '" alt="QR Code" />';
+        document.getElementById('qrcode').innerHTML = '<img src="https://publicapi' + environment + '.wandel4daagseoldenzaal.nl/v1/qrcode?signupreference=' + signupreference + '&signupid=' + signupid + '" alt="QR Code" />';
     });
 </script>

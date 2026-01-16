@@ -8,7 +8,7 @@
   }
 </script>
 
-<form action="https://api{{ page.environment }}.wandel4daagseoldenzaal.nl/v1/signup" method="POST" onsubmit="lockForm()">
+<form action="https://publicapi{{ page.environment }}.wandel4daagseoldenzaal.nl/v1/signup" method="POST" onsubmit="lockForm()">
 
   {% if page.promocode %}
   <input type="hidden" name="promocode" value="{{ page.promocode }}">
