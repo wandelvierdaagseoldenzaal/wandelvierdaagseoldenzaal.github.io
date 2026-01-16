@@ -26,7 +26,7 @@ author_profile: false
     if (status == '100') {
         document.getElementById('betaald').style.display = 'block';
         
-        fetch("https://api.wandel4daagseoldenzaal.nl/v1/qrcode?orderid=" + orderId + "&format=json")
+        fetch("https://publicapi.wandel4daagseoldenzaal.nl/v1/qrcode?orderid=" + orderId + "&format=json")
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -43,12 +43,12 @@ author_profile: false
         })
         .catch(error => {
             console.error('QR Code error:', error);
-            document.getElementById('qrcode').innerHTML = '<img src="https://api.wandel4daagseoldenzaal.nl/v1/qrcode?orderid=' + orderId + '" alt="QR Code" />';
+            document.getElementById('qrcode').innerHTML = '<img src="https://publicapi.wandel4daagseoldenzaal.nl/v1/qrcode?orderid=' + orderId + '" alt="QR Code" />';
         });
     } else {
         document.getElementById('nietbetaald').style.display = 'block';
 
-        fetch("https://api.wandel4daagseoldenzaal.nl/v1/paymentlink?orderid=" + orderId)
+        fetch("https://publicapi.wandel4daagseoldenzaal.nl/v1/paymentlink?orderid=" + orderId)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
