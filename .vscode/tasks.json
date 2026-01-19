@@ -8,6 +8,12 @@
         "group": { "kind": "build", "isDefault": true }
       },
       {
+        "label": "jekyll dev incremental",
+        "command": "bundle exec jekyll serve --incremental",
+        "type": "shell",
+        "group": { "kind": "build", "isDefault": true }
+      },      
+      {
         "label": "jekyll production",
         "command": "$env:JEKYLL_ENV='production'; bundle exec jekyll serve",
         "type": "shell"
