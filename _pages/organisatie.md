@@ -9,7 +9,10 @@ De Wandel4Daagse Oldenzaal wordt georganiseerd door een team van enthousiaste vr
 
 ![Bestuur Wandel4Daagse Oldenzaal](/assets/organisatie/teamfoto.png)
 
-Voorzitter:  
+Voorzitter (aantredend):  
+[Martijn Oude Luttikhuis](/organisatie/martijn)  
+
+Voorzitter (aftredend):  
 [Hennie Maartens](/organisatie/hennie)  
 
 Penningmeester:  
