@@ -6,7 +6,7 @@ author_profile: false
 maxdeelnemers: 50
 ---
 
-Inschrijven voor de Wandel4Daagse Oldenzaal 2026 zal mogelijk zijn vanaf ongeveer begin mei 2026.
+Inschrijven voor de Wandel4Daagse Oldenzaal 2026 zal mogelijk zijn vanaf ongeveer begin april 2026.
 
 ## Algemene voorwaarden
 

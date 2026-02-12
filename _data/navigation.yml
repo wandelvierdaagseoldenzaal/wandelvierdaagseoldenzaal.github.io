@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Fotoboek"
-    url: http://fotoboek.wandel4daagseoldenzaal.nl/
+    url: /fotoboek
   - title: "Routes"
     url: /routes
   - title: "Sponsoren"
