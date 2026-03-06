@@ -95,7 +95,7 @@ author_profile: false
             <h3 class="day-title">{{ day_name }}<span class="photo-count">({{ day_photos.size }} foto's)</span></h3>
             <div class="photo-grid">
               {% for photo in day_photos %}
-                <a href="https://w4do.blob.core.windows.net/photos/{{ year }}/{{ day_name }}/{{ photo }}" target="_blank" class="photo-item" title="{{ photo }}">
+                <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/{{ year }}/{{ day_name }}/{{ photo }}" target="_blank" class="photo-item" title="{{ photo }}">
                   <img src="/assets/photobook/{{ year }}/{{ day_name }}/{{ photo }}" alt="{{ photo }}" loading="lazy">
                 </a>
               {% endfor %}
@@ -109,7 +109,7 @@ author_profile: false
         {% assign direct_photos = year_data["direct"] %}
         <div class="photo-grid">
           {% for photo in direct_photos %}
-            <a href="https://w4do.blob.core.windows.net/photos/{{ year }}/{{ photo }}" target="_blank" class="photo-item" title="{{ photo }}">
+            <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/{{ year }}/{{ photo }}" target="_blank" class="photo-item" title="{{ photo }}">
               <img src="/assets/photobook/{{ year }}/{{ photo }}" alt="{{ photo }}" loading="lazy">
             </a>
           {% endfor %}
