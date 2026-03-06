@@ -30,13 +30,13 @@ Dir.glob(File.join(photobook_dir, '*')).sort.each do |year_path|
   if day_dirs.empty?
     # Photos directly in year folder
     photo_files = Dir.glob(File.join(year_path, '*.{jpg,JPG,jpeg,JPEG}'))
-    photos[year]['direct'] = photo_files.map { |f| File.basename(f) }.sort
+    photos[year]['direct'] = photo_files.map { |f| File.basename(f) }.uniq.sort
   else
     # Photos in day folders
     day_dirs.sort.each do |day_path|
       day = File.basename(day_path)
       photo_files = Dir.glob(File.join(day_path, '*.{jpg,JPG,jpeg,JPEG}'))
-      photos[year][day] = photo_files.map { |f| File.basename(f) }.sort
+      photos[year][day] = photo_files.map { |f| File.basename(f) }.uniq.sort
     end
   end
 end
