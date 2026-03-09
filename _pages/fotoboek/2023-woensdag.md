@@ -146,7 +146,7 @@ author_profile: false
     <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/COX_7785.jpg" target="_blank" class="photo-item" title="COX_7785.jpg">
       <img src="/assets/photobook/2023/woensdag/COX_7785.jpg" alt="COX_7785.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/Dagcompilatie.jpg" target="_blank" class="photo-item" title="Dagcompilatie.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/Dagcompilatie.mp4" target="_blank" class="photo-item" title="Dagcompilatie.jpg">
       <img src="/assets/photobook/2023/woensdag/Dagcompilatie.jpg" alt="Dagcompilatie.jpg" loading="lazy">
     </a>
     <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/GCOX6895.jpg" target="_blank" class="photo-item" title="GCOX6895.jpg">
@@ -491,76 +491,76 @@ author_profile: false
     <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/IMG_20230531_202113.jpg" target="_blank" class="photo-item" title="IMG_20230531_202113.jpg">
       <img src="/assets/photobook/2023/woensdag/IMG_20230531_202113.jpg" alt="IMG_20230531_202113.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_171510.jpg" target="_blank" class="photo-item" title="VID_20230531_171510.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_171510.mp4" target="_blank" class="photo-item" title="VID_20230531_171510.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_171510.jpg" alt="VID_20230531_171510.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_172110.jpg" target="_blank" class="photo-item" title="VID_20230531_172110.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_172110.mp4" target="_blank" class="photo-item" title="VID_20230531_172110.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_172110.jpg" alt="VID_20230531_172110.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_191549.jpg" target="_blank" class="photo-item" title="VID_20230531_191549.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_191549.mp4" target="_blank" class="photo-item" title="VID_20230531_191549.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_191549.jpg" alt="VID_20230531_191549.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_191609.jpg" target="_blank" class="photo-item" title="VID_20230531_191609.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_191609.mp4" target="_blank" class="photo-item" title="VID_20230531_191609.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_191609.jpg" alt="VID_20230531_191609.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_191620.jpg" target="_blank" class="photo-item" title="VID_20230531_191620.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_191620.mp4" target="_blank" class="photo-item" title="VID_20230531_191620.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_191620.jpg" alt="VID_20230531_191620.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_191930.jpg" target="_blank" class="photo-item" title="VID_20230531_191930.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_191930.mp4" target="_blank" class="photo-item" title="VID_20230531_191930.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_191930.jpg" alt="VID_20230531_191930.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192054.jpg" target="_blank" class="photo-item" title="VID_20230531_192054.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192054.mp4" target="_blank" class="photo-item" title="VID_20230531_192054.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_192054.jpg" alt="VID_20230531_192054.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192152.jpg" target="_blank" class="photo-item" title="VID_20230531_192152.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192152.mp4" target="_blank" class="photo-item" title="VID_20230531_192152.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_192152.jpg" alt="VID_20230531_192152.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192236.jpg" target="_blank" class="photo-item" title="VID_20230531_192236.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192236.mp4" target="_blank" class="photo-item" title="VID_20230531_192236.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_192236.jpg" alt="VID_20230531_192236.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192312.jpg" target="_blank" class="photo-item" title="VID_20230531_192312.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192312.mp4" target="_blank" class="photo-item" title="VID_20230531_192312.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_192312.jpg" alt="VID_20230531_192312.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192325.jpg" target="_blank" class="photo-item" title="VID_20230531_192325.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192325.mp4" target="_blank" class="photo-item" title="VID_20230531_192325.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_192325.jpg" alt="VID_20230531_192325.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192528.jpg" target="_blank" class="photo-item" title="VID_20230531_192528.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_192528.mp4" target="_blank" class="photo-item" title="VID_20230531_192528.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_192528.jpg" alt="VID_20230531_192528.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_193529.jpg" target="_blank" class="photo-item" title="VID_20230531_193529.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_193529.mp4" target="_blank" class="photo-item" title="VID_20230531_193529.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_193529.jpg" alt="VID_20230531_193529.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_193605.jpg" target="_blank" class="photo-item" title="VID_20230531_193605.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_193605.mp4" target="_blank" class="photo-item" title="VID_20230531_193605.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_193605.jpg" alt="VID_20230531_193605.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_194058.jpg" target="_blank" class="photo-item" title="VID_20230531_194058.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_194058.mp4" target="_blank" class="photo-item" title="VID_20230531_194058.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_194058.jpg" alt="VID_20230531_194058.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_194444054.jpg" target="_blank" class="photo-item" title="VID_20230531_194444054.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_194444054.mp4" target="_blank" class="photo-item" title="VID_20230531_194444054.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_194444054.jpg" alt="VID_20230531_194444054.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_195430194.jpg" target="_blank" class="photo-item" title="VID_20230531_195430194.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_195430194.mp4" target="_blank" class="photo-item" title="VID_20230531_195430194.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_195430194.jpg" alt="VID_20230531_195430194.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_195521.jpg" target="_blank" class="photo-item" title="VID_20230531_195521.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_195521.mp4" target="_blank" class="photo-item" title="VID_20230531_195521.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_195521.jpg" alt="VID_20230531_195521.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_195610.jpg" target="_blank" class="photo-item" title="VID_20230531_195610.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_195610.mp4" target="_blank" class="photo-item" title="VID_20230531_195610.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_195610.jpg" alt="VID_20230531_195610.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_200031.jpg" target="_blank" class="photo-item" title="VID_20230531_200031.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_200031.mp4" target="_blank" class="photo-item" title="VID_20230531_200031.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_200031.jpg" alt="VID_20230531_200031.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_200253.jpg" target="_blank" class="photo-item" title="VID_20230531_200253.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_200253.mp4" target="_blank" class="photo-item" title="VID_20230531_200253.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_200253.jpg" alt="VID_20230531_200253.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_200414346.jpg" target="_blank" class="photo-item" title="VID_20230531_200414346.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_200414346.mp4" target="_blank" class="photo-item" title="VID_20230531_200414346.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_200414346.jpg" alt="VID_20230531_200414346.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_201508.jpg" target="_blank" class="photo-item" title="VID_20230531_201508.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_201508.mp4" target="_blank" class="photo-item" title="VID_20230531_201508.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_201508.jpg" alt="VID_20230531_201508.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_202112.jpg" target="_blank" class="photo-item" title="VID_20230531_202112.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2023/woensdag/VID_20230531_202112.mp4" target="_blank" class="photo-item" title="VID_20230531_202112.jpg">
       <img src="/assets/photobook/2023/woensdag/VID_20230531_202112.jpg" alt="VID_20230531_202112.jpg" loading="lazy">
     </a>
   </div>

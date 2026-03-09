@@ -12,6 +12,39 @@ unless Dir.exist?(photobook_dir)
   exit 1
 end
 
+# Build video mapping from OneDrive source to determine correct blob extensions
+# Thumbnails are always .jpg, but videos on blob keep their original extension (.mp4, .MOV, etc.)
+VIDEO_EXTENSIONS = %w[.mp4 .MP4 .mov .MOV .avi .AVI .wmv .WMV .mkv .MKV]
+onedrive_dir = File.join('C:', 'Users', 'koenz', 'OneDrive', 'Wandel4Daagse Oldenzaal', 'Fotoboek')
+
+video_map = {}
+if Dir.exist?(onedrive_dir)
+  Dir.glob(File.join(onedrive_dir, '**', '*')).each do |file_path|
+    next unless File.file?(file_path)
+    ext = File.extname(file_path)
+    next unless VIDEO_EXTENSIONS.include?(ext)
+
+    rel_path = file_path.sub(onedrive_dir + File::SEPARATOR, '')
+    basename_no_ext = File.basename(file_path, ext)
+    dir_part = File.dirname(rel_path).gsub('\\', '/')
+    key = "#{dir_part}/#{basename_no_ext}"
+    video_map[key] = ext
+  end
+  puts "Found #{video_map.size} video files in OneDrive source"
+else
+  puts "Warning: OneDrive directory not found at #{onedrive_dir}. Video extensions will not be corrected."
+end
+
+def get_blob_filename(video_map, photo, *path_parts)
+  basename_no_ext = File.basename(photo, File.extname(photo))
+  key = (path_parts.compact + [basename_no_ext]).join('/')
+  if video_map.key?(key)
+    basename_no_ext + video_map[key]
+  else
+    photo
+  end
+end
+
 # Create pages directory if it doesn't exist
 Dir.mkdir(pages_dir) unless Dir.exist?(pages_dir)
 
@@ -187,7 +220,8 @@ photos.each do |year, days|
         file.puts ""
         file.puts "  <div class=\"photo-grid\">"
         days[day_name].each do |photo|
-          file.puts "    <a href=\"https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/#{year}/#{day_name}/#{photo}\" target=\"_blank\" class=\"photo-item\" title=\"#{photo}\">"
+          blob_name = get_blob_filename(video_map, photo, year, day_name)
+          file.puts "    <a href=\"https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/#{year}/#{day_name}/#{blob_name}\" target=\"_blank\" class=\"photo-item\" title=\"#{photo}\">"
           file.puts "      <img src=\"/assets/photobook/#{year}/#{day_name}/#{photo}\" alt=\"#{photo}\" loading=\"lazy\">"
           file.puts "    </a>"
         end
@@ -243,7 +277,8 @@ photos.each do |year, days|
       file.puts ""
       file.puts "  <div class=\"photo-grid\">"
       days['direct'].each do |photo|
-        file.puts "    <a href=\"https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/#{year}/#{photo}\" target=\"_blank\" class=\"photo-item\" title=\"#{photo}\">"
+        blob_name = get_blob_filename(video_map, photo, year)
+        file.puts "    <a href=\"https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/#{year}/#{blob_name}\" target=\"_blank\" class=\"photo-item\" title=\"#{photo}\">"
         file.puts "      <img src=\"/assets/photobook/#{year}/#{photo}\" alt=\"#{photo}\" loading=\"lazy\">"
         file.puts "    </a>"
       end

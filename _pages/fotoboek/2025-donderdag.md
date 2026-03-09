@@ -953,7 +953,7 @@ author_profile: false
     <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2025/donderdag/IMG_20250612_190014.jpg" target="_blank" class="photo-item" title="IMG_20250612_190014.jpg">
       <img src="/assets/photobook/2025/donderdag/IMG_20250612_190014.jpg" alt="IMG_20250612_190014.jpg" loading="lazy">
     </a>
-    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2025/donderdag/VID_20250612_184150.jpg" target="_blank" class="photo-item" title="VID_20250612_184150.jpg">
+    <a href="https://wandel4daagseoldenzaal.blob.core.windows.net/fotoboek/2025/donderdag/VID_20250612_184150.mp4" target="_blank" class="photo-item" title="VID_20250612_184150.jpg">
       <img src="/assets/photobook/2025/donderdag/VID_20250612_184150.jpg" alt="VID_20250612_184150.jpg" loading="lazy">
     </a>
   </div>
