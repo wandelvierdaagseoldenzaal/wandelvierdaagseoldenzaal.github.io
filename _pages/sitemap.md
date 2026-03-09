@@ -19,6 +19,7 @@ author_profile: false
   * [Alle nieuwsposts](/nieuws)
 * Organisatie
   * [Contact](/contact)
+  * [App](/app)
   * [Wie zijn wij](/organisatie)
   * [Feedback geven](/feedback)
   * [Meehelpen](/organisatie/vrijwilligers)

@@ -24,6 +24,10 @@ Voor al uw vragen over ons evenement kunt u mailen naar [info@wandel4daagseolden
 
 We zijn ook terug te vinden op diverse [social media](/socials) kanalen.  
 
+## App
+
+We hebben een eigen app ontwikkeld voor de Wandel4Daagse Oldenzaal. Meer informatie op onze [app pagina](/app).  
+
 ## Sponsoren
 
 De Wandel4Daagse Oldenzaal wordt mede mogelijk gemaakt door onze fantastische [sponsoren](/sponsoren).  
