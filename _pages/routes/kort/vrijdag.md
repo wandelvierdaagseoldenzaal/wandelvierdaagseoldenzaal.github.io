@@ -2,7 +2,7 @@
 layout: dagroute
 title: Vrijdag
 lengte: Kort
-datum: 13 juni 2025
+datum: 29 mei 2026
 startlocatie: Marktsteen, Groote Markt Oldenzaal
 googlemapsid: piGtQbNoBbjeQnQT6
 starttijd: Tussen 18:15 en 18:30

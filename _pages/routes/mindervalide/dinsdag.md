@@ -2,7 +2,7 @@
 layout: dagroute
 title: Dinsdag
 lengte: Mindervalide
-datum: 10 juni 2025
+datum: 26 mei 2026
 startlocatie: Mariahof, Beatrixstraat 64, Oldenzaal
 googlemapsid: nSTkzPjKzGCDorGQ7
 starttijd: Om 18.30 uur vanaf Mariahof, om 18.45 uur vanaf de Watertoren

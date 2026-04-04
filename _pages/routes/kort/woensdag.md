@@ -2,7 +2,7 @@
 layout: dagroute
 title: Woensdag
 lengte: Kort
-datum: 11 juni 2025
+datum: 27 mei 2026
 startlocatie: Hulsbeek P1, Oude Almeloseweg, 7576 PE Oldenzaal
 googlemapsid: vbYzTkbXJ7uP1E3g9
 starttijd: Tussen 18:00 en 19:00

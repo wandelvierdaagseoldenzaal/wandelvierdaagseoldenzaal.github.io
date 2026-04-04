@@ -1,6 +1,6 @@
 ---
 layout: routedag
-datum: 12 juni 2025
+datum: 28 mei 2026
 title: Donderdag
 permalink: /routes/donderdag
 author_profile: false

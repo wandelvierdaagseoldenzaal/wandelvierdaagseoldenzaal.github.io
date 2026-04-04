@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Fotoboek"
-    url: /fotoboek
+  - title: "Inschrijven"
+    url: /inschrijven
   - title: "Routes"
     url: /routes
-  - title: "Sponsoren"
-    url: /sponsoren
+  - title: "Kosten"
+    url: /tarieven
   - title: "Contact"
     url: /contact

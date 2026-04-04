@@ -2,7 +2,7 @@
 layout: dagroute
 title: Vrijdag
 lengte: Mindervalide
-datum: 13 juni 2025
+datum: 29 mei 2026
 startlocatie: Mariahof, Beatrixstraat 64, Oldenzaal
 googlemapsid: nSTkzPjKzGCDorGQ7
 starttijd: Om 18.30 uur vanaf Mariahof en Scholtenhof, om 19.00 uur vanaf de Molenkamp

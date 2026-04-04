@@ -10,6 +10,55 @@ countdownto: "2026-05-26 17:00:00"
   {% include page__hero_video.html %}
 {% endif %}
 
+<style>
+  .sponsors-slider {
+    position: relative;
+    overflow: hidden;
+    padding: 0.75rem 0;
+  }
+
+  .sponsors-slider__track {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    animation: sponsors-scroll 90s linear infinite;
+  }
+
+  .sponsors-slider__item {
+    flex: 0 0 auto;
+    width: clamp(130px, 20vw, 190px);
+    height: 90px;
+    margin-right: 1.25rem;
+    background: #fff;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  }
+
+  .sponsors-slider__item img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+
+  .sponsors-slider:hover .sponsors-slider__track {
+    animation-play-state: paused;
+  }
+
+  @keyframes sponsors-scroll {
+    from {
+      transform: translateX(0);
+    }
+
+    to {
+      transform: translateX(-50%);
+    }
+  }
+</style>
+
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -30,16 +79,29 @@ countdownto: "2026-05-26 17:00:00"
               {% include archive-single.html type=entries_layout %}
             {% endfor %}
           </div>
-          <a href="/nieuws"><img src="/assets/images/arrow.png" alt="bekijk al het nieuws" style="padding-right: 10px">al het nieuws</a>
       </section>
-      <section id="LaatsteRoutes">
-        <h2>Wandelroutes archief</h2>
-          <div class="entries-{{ entries_layout }} feature__wrapper">
-            {% assign allposts = site.posts  | where_exp: "item", "item.hidden != true" | where_exp: "item", "item.layout == 'route'" %}
-            {% for post in allposts limit:2 %}
-              {% include archive-single.html type=entries_layout %}
-            {% endfor %}
+      <section id="Sponsoren">
+        <h2>Sponsoren</h2>
+          {% assign sponsors_page = site.pages | where: "path", "_pages/sponsoren.md" | first %}
+          {% if sponsors_page and sponsors_page.sponsorlogos %}
+          <div class="sponsors-slider" aria-label="Sponsoren logo overzicht">
+            <div class="sponsors-slider__track">
+              {% for repeat in (1..2) %}
+                {% for logo in sponsors_page.sponsorlogos %}
+                  <div class="sponsors-slider__item">
+                    {% if logo.link %}
+                      <a href="{{ logo.link }}" target="_blank" rel="noopener noreferrer" title="{{ logo.name }}">
+                        <img src="{{ logo.url }}" alt="{{ logo.name }}" loading="lazy" decoding="async">
+                      </a>
+                    {% else %}
+                      <img src="{{ logo.url }}" alt="{{ logo.name }}" loading="lazy" decoding="async">
+                    {% endif %}
+                  </div>
+                {% endfor %}
+              {% endfor %}
+            </div>
           </div>
+          {% endif %}
       </section> 
     </div> 
 

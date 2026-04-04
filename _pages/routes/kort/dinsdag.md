@@ -2,7 +2,7 @@
 layout: dagroute
 title: Dinsdag
 lengte: Kort
-datum: 10 juni 2025
+datum: 26 mei 2026
 startlocatie: Treinstation Oldenzaal, Stationsplein 14, 7573 AV, Oldenzaal
 googlemapsid: xB9GmvwCaecrx9v76
 starttijd: Tussen 18:00 en 19:00 (knipkaart afhalen kan vanaf 17:30)

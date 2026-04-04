@@ -2,7 +2,7 @@
 layout: dagroute
 title: Donderdag
 lengte: Lang
-datum: 12 juni 2025
+datum: 28 mei 2026
 startlocatie: Hotel ‘t Landhuis, Bentheimerstraat 118, 7573 EC Oldenzaal
 googlemapsid: nwD1usgUDQnt8hvPA
 starttijd: Tussen 17:45 en 18:30

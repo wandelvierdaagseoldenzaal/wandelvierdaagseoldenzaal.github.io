@@ -5,16 +5,16 @@ permalink: /routes
 author_profile: false
 ---
 
-Voor de 62<sup>e</sup> editie van de Wandel4Daagse Oldenzaal hebben we weer een aantal mooie routes uitgestippeld. Je kunt elke dag bij de start kiezen of je de korte route van ongeveer 5 tot 6 kilometer, of de lange route van ongeveer 10 tot 12 kilometer, wilt lopen. Tevens zal er een [speciale route zijn voor mindervaliden](/routes/mindervalide).
+Voor de 63<sup>e</sup> editie van de Wandel4Daagse Oldenzaal hebben we weer een aantal mooie routes uitgestippeld. Je kunt elke dag bij de start kiezen of je de korte route van ongeveer 5 tot 6 kilometer, of de lange route van ongeveer 10 tot 12 kilometer, wilt lopen. Tevens zal er een [speciale route zijn voor mindervaliden](/routes/mindervalide).
 
 <ul style="list-style-image: url('/assets/images/shoe.png'); line-height: 1.0;">
-    <li><a href="/routes/dinsdag">Dinsdag 10 juni 2025</a></li>
-    <li><a href="/routes/woensdag">Woensdag 11 juni 2025</a></li>
-    <li><a href="/routes/donderdag">Donderdag 12 juni 2025</a></li>
-    <li><a href="/routes/vrijdag">Vrijdag 13 juni 2025</a></li>
+    <li><a href="/routes/dinsdag">Dinsdag 26 mei 2026</a></li>
+    <li><a href="/routes/woensdag">Woensdag 27 mei 2026</a></li>
+    <li><a href="/routes/donderdag">Donderdag 28 mei 2026</a></li>
+    <li><a href="/routes/vrijdag">Vrijdag 29 mei 2026</a></li>
 </ul>
 
-Alle routes in één handig boekje? Download het [routeboekje](/assets/routes/Routeboekje2025.pdf) (PDF, 2.5 MB) met daarin alle routes van de Wandel4Daagse Oldenzaal 2025.  
+Alle routes in één handig boekje? Download het [routeboekje](/assets/routes/Routeboekje2026.pdf) (PDF, 2.5 MB) met daarin alle routes van de Wandel4Daagse Oldenzaal 2026.  
 
 # Scootmobielen, kinderwagens en bolderkarren
 
