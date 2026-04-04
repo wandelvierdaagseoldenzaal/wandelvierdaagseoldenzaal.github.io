@@ -9,8 +9,6 @@ Om de Wandel4Daagse Oldenzaal te kunnen lopen, dien je je in te schrijven. De ko
 
 ## Alle 4 dagen meewandelen bij voorinschrijving
 
-**Voorinschrijven is niet meer mogelijk**
-
 € 5,00 per persoon  
 
 Wanneer je je vooraf inschrijft via deze website, betaal je 5,00 euro per persoon voor deelname aan alle 4 de dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
