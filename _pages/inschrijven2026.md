@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Inschrijven
-permalink: /inschrijven2025
+permalink: /inschrijven2026
 promocode: MINIMA
 author_profile: false
 maxdeelnemers: 5
