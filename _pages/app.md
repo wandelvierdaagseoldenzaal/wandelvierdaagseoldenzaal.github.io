@@ -5,13 +5,11 @@ permalink: /app
 author_profile: false
 ---
 
-Voor de Wandel4Daagse Oldenzaal hebben we een eigen app ontwikkeld. Deze app is beschikbaar voor Android apparaten en biedt deelnemers handige functies zoals toegang tot je inschrijvingsgegevens, betalen van je deelname en gepersonaliseerde route-informatie met starttijden per dag.  
+Voor de Wandel4Daagse Oldenzaal hebben we een eigen app ontwikkeld. Deze app biedt deelnemers handige functies zoals toegang tot je inschrijvingsgegevens, betalen van je deelname, gepersonaliseerde route-informatie met starttijden per dag en de mogenlijkheid om deel te nemen aan de winacties.  
 
-## App downloaden
+## Waar vind ik de app?
 
-Android gebruikers kunnen de app downloaden via de Google Play Store. Zoek op "Mijn Wandel4Daagse Oldenzaal" of klik op de volgende link: [Download de app](https://play.google.com/store/apps/details?id=nl.wandel4daagseoldenzaal.app).  
-
-iOS gebruikers kunnen de app momenteel nog niet downloaden, maar kunnen de app wel gebruiken via een webbrowser op hun iPhone. Ga hiervoor naar [mijn.wandel4daagseoldenzaal.nl](https://mijn.wandel4daagseoldenzaal.nl) en log in met je e-mail adres en deelnemerscode.  
+Ga naar [mijn.wandel4daagseoldenzaal.nl](https://mijn.wandel4daagseoldenzaal.nl) en log in met je e-mail adres en deelnemerscode. Als je eenmaal bent ingelogd, zal het systeem je inschrijving onthouden en ben je de volgende keer gelijk ingelogd.  
 
 ## Welke gegevens wij verzamelen
 

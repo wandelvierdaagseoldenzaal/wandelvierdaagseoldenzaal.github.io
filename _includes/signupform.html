@@ -6,42 +6,237 @@
     // Unlock the button after 60 seconds
     setTimeout("document.getElementById('signupbutton').disabled = false", 60000);
   }
+
+  // Dutch validation messages
+  document.addEventListener('DOMContentLoaded', function() {
+    const form = document.querySelector('.signup-form');
+    
+    form.addEventListener('invalid', function(e) {
+      const input = e.target;
+      
+      if (input.validity.valueMissing) {
+        input.setCustomValidity('Dit veld is verplicht');
+      } else if (input.validity.typeMismatch && input.type === 'email') {
+        input.setCustomValidity('Voer a.u.b. een geldig e-mailadres in');
+      } else if (input.validity.rangeUnderflow) {
+        input.setCustomValidity('De waarde moet minstens ' + input.min + ' zijn');
+      } else if (input.validity.rangeOverflow) {
+        input.setCustomValidity('De waarde mag maximaal ' + input.max + ' zijn');
+      } else if (input.validity.tooLong) {
+        input.setCustomValidity('Dit veld mag maximaal ' + input.maxLength + ' tekens bevatten');
+      }
+    }, true);
+
+    form.addEventListener('input', function(e) {
+      e.target.setCustomValidity('');
+    });
+  });
 </script>
 
-<form action="https://publicapi{{ page.environment }}.wandel4daagseoldenzaal.nl/v1/signup" method="POST" onsubmit="lockForm()">
+<style>
+  .signup-form {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 600px;
+  }
+
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+
+  .form-group label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #333;
+  }
+
+  .form-group input[type="text"],
+  .form-group input[type="email"],
+  .form-group input[type="number"] {
+    width: 100%;
+    padding: 0.75rem;
+    border: 2px solid #e0e0e0;
+    border-radius: 6px;
+    font-size: 1rem;
+    transition: border-color 0.3s ease;
+    box-sizing: border-box;
+  }
+
+  .form-group input[type="text"]:focus,
+  .form-group input[type="email"]:focus,
+  .form-group input[type="number"]:focus {
+    outline: none;
+    border-color: #4CAF50;
+    box-shadow: 0 0 0 3px rgba(76, 175, 80, 0.1);
+  }
+
+  .form-help-text {
+    font-size: 0.85rem;
+    color: #666;
+    margin-top: 0.5rem;
+    line-height: 1.4;
+  }
+
+  .form-section {
+    margin-bottom: 2rem;
+  }
+
+  .form-section-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .radio-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .radio-option {
+    display: flex;
+    align-items: center;
+    padding: 0.75rem;
+    background: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .radio-option:hover {
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+
+  .radio-option input[type="radio"] {
+    margin-right: 1rem;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+  }
+
+  .radio-label {
+    flex: 1;
+    cursor: pointer;
+  }
+
+  .radio-label strong {
+    display: block;
+    font-weight: 600;
+    color: #333;
+  }
+
+  .radio-label .price {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.25rem;
+  }
+
+  .radio-label .info-link {
+    font-size: 0.9rem;
+    margin-left: 0.5rem;
+  }
+
+  .btn-signup {
+    width: 100%;
+    padding: 1rem;
+    background: linear-gradient(135deg, #4CAF50 0%, #45a049 100%);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .btn-signup:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+  }
+
+  .btn-signup:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+</style>
+
+<form class="signup-form" action="https://publicapi{{ page.environment }}.wandel4daagseoldenzaal.nl/v1/signup" method="POST" onsubmit="lockForm()">
 
   {% if page.promocode %}
   <input type="hidden" name="promocode" value="{{ page.promocode }}">
   {% endif %}
 
-  <label>
-    Voornaam
-    <input type="text" name="voornaam" maxlength="50" size="30" required>
-  </label>
+  <div class="form-section">
+    <div class="form-group">
+      <label for="voornaam">Voornaam</label>
+      <input type="text" id="voornaam" name="voornaam" maxlength="50" required>
+    </div>
 
-  <label>
-    Achternaam
-    <input type="text" name="achternaam" maxlength="50" size="30" required>
-  </label>
+    <div class="form-group">
+      <label for="achternaam">Achternaam</label>
+      <input type="text" id="achternaam" name="achternaam" maxlength="50" required>
+    </div>
 
-  <label>E-mailadres
-  <input type="email" name="email" size="30" maxlength="50"></label>
-  <p class="smalltext">Het e-mailadres wordt gebruikt om je een bevestiging van je inschrijving te sturen met daarin je unieke deelnemersnummer en de QR code om jezelf eenvoudig en snel aan te kunnen melden bij onze stand bij de start</p>
+    <div class="form-group">
+      <label for="email">E-mailadres</label>
+      <input type="email" id="email" name="email" maxlength="50">
+    </div>
 
-  <label>Aantal deelnemers
-  <input type="number" name="aantal_deelnemers" min="1" max="{{ page.maxdeelnemers }}" size="5" required></label>
+    <div class="form-group">
+      <label for="aantal_deelnemers">Aantal deelnemers</label>
+      <input type="number" id="aantal_deelnemers" name="aantal_deelnemers" min="1" max="{{ page.maxdeelnemers }}" required>
+    </div>
+  </div>
 
-  <p class="question">Hoeveel dagen wandel je mee?</p>  
-  <p><input type="radio" id="vierdagen" name="type" checked="checked" value="FullPass">
-  <label for="vierdagen">Alle vier de dagen à € 8,00 per deelnemer</label> <a href="/tarieven#alle-4-dagen-meewandelen-bij-inschrijving-op-de-startlocatie" target="_blank">meer info</a></p>
-  <p><input type="radio" id="dagkaart" name="type" value="DayPass">
-  <label for="dagkaart">Dagkaart à € 3,00 per deelnemer per dag</label> <a href="/tarieven#per-dag-meewandelen" target="_blank">meer info</a></p>
+  <div class="form-section">
+    <div class="form-section-title">Hoeveel dagen wandel je mee?</div>
+    <div class="radio-group">
+      <label class="radio-option">
+        <input type="radio" id="vierdagen" name="type" checked="checked" value="FullPass">
+        <div class="radio-label">
+          <strong>Alle vier de dagen</strong>
+          <span class="price">€ 5,00 per deelnemer</span>
+          <a href="/tarieven#alle-4-dagen-meewandelen-bij-inschrijving-op-de-startlocatie" target="_blank" class="info-link">meer info</a>
+        </div>
+      </label>
+      <label class="radio-option">
+        <input type="radio" id="dagkaart" name="type" value="DayPass">
+        <div class="radio-label">
+          <strong>Dagkaart</strong>
+          <span class="price">€ 3,00 per deelnemer per dag</span>
+          <a href="/tarieven#per-dag-meewandelen" target="_blank" class="info-link">meer info</a>
+        </div>
+      </label>
+    </div>
+  </div>
 
-  <p class="question">Welke route wil je lopen?</p>  
-  <p><input type="radio" id="kort" name="route" checked="checked" value="Short">
-  <label for="kort">Korte route (ca. 6 km per dag)</label> <a href="/kort" target="_blank">meer info</a></p>
-  <p><input type="radio" id="lang" name="route" value="Long">
-  <label for="lang">Lange route (ca. 12 km per dag)</label> <a href="/lang" target="_blank">meer info</a></p>
+  <div class="form-section">
+    <div class="form-section-title">Welke route wil je lopen?</div>
+    <div class="radio-group">
+      <label class="radio-option">
+        <input type="radio" id="kort" name="route" checked="checked" value="Short">
+        <div class="radio-label">
+          <strong>Korte route</strong>
+          <span class="price">ca. 6 km per dag</span>
+          <a href="/kort" target="_blank" class="info-link">meer info</a>
+        </div>
+      </label>
+      <label class="radio-option">
+        <input type="radio" id="lang" name="route" value="Long">
+        <div class="radio-label">
+          <strong>Lange route</strong>
+          <span class="price">ca. 12 km per dag</span>
+          <a href="/lang" target="_blank" class="info-link">meer info</a>
+        </div>
+      </label>
+    </div>
+  </div>
 
-  <p><button type="submit" class="btn-signup" id="signupbutton">Inschrijven</button></p>
+  <button type="submit" class="btn-signup" id="signupbutton">Inschrijven</button>
 </form>
