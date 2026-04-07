@@ -42,6 +42,8 @@ Leerlingen van de meeste basisscholen in Oldenzaal kunnen zich gewoon [inschrijv
 - De Linde De Thij
 - De Linde De Essen
 
+Wist je al dat we dit jaar voor het eerst een [Basisscholen Battle 2026](/winacties#basisscholen-battle-2026) organiseren? Lees daar meer over op de [winacties pagina](/winacties#basisscholen-battle-2026).  
+
 ## Mindervaliden 3 daagse
 
 Deelname aan de mindervaliden 3 daagse kost € 12,50 euro per deelnemer en bevat een afwijkend programma. Kijk voor meer informatie en inschrijven op de [mindervaliden pagina](/routes/mindervalide).  
