@@ -26,6 +26,7 @@
         })
         .catch(error => {
             console.error('Participant counter error:', error);
+            document.getElementById('deelnemers').innerHTML = '<span style="color:#e74c3c;">?</span>';
         });
   }
 </script>
