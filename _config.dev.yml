@@ -1,0 +1,40 @@
+# Faster local-development overrides.
+# Use with: bundle exec jekyll serve --incremental --config _config.yml,_config.dev.yml
+
+search: false
+limit_posts: 12
+
+sass:
+  style: expanded
+
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs
+  - /test
+  - .vscode
+  - _site
+  - assets/photobook
+  - _pages/fotoboek

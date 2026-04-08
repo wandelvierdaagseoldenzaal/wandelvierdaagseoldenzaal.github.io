@@ -5,14 +5,20 @@
         "label": "jekyll dev",
         "command": "bundle exec jekyll serve",
         "type": "shell",
-        "group": { "kind": "build", "isDefault": true }
+        "group": "build"
       },
       {
         "label": "jekyll dev incremental",
         "command": "bundle exec jekyll serve --incremental",
         "type": "shell",
-        "group": { "kind": "build", "isDefault": true }
-      },      
+        "group": "build"
+      },
+      {
+        "label": "jekyll dev fast",
+        "command": "bundle exec jekyll serve --incremental --config _config.yml,_config.dev.yml",
+        "type": "shell",
+        "group": "build"
+      },
       {
         "label": "jekyll production",
         "command": "$env:JEKYLL_ENV='production'; bundle exec jekyll serve",
