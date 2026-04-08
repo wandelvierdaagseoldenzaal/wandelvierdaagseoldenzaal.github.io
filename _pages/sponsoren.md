@@ -52,7 +52,7 @@ sponsorlogos:
 - url: /assets/sponsors/KockVanBenthem.png
   name: Kok van Benthem Makelaars
   link: https://www.kvbm.nl/
-- url: /assets/sponsors/kothman.svg
+- url: /assets/sponsors/kothman.png
   name: Kothman
   link: https://kothman.nl/
 - url: /assets/sponsors/LetterPret.png
@@ -79,9 +79,9 @@ sponsorlogos:
 - url: /assets/sponsors/Riteco.jpg
   name: Riteco
   link: https://notariskantoorriteco.nl/
-- url: /assets/sponsors/Thijs.png
-  name: Thijs
-  link: https://www.thijs-oldenzaal.nl/
+- url: /assets/sponsors/MuseumOldenzaal.png
+  name: Museum Oldenzaal
+  link: https://museumoldenzaal.nl/
 classes: wide
 ---
 
