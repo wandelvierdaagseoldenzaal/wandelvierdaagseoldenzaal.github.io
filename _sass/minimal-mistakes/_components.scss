@@ -1,0 +1,28 @@
+/* ==========================================================================
+   Custom Components
+   ========================================================================== */
+
+/**
+ * Clickable Thumbnail
+ * A generic thumbnail image that opens in full size on click
+ * 
+ * Usage:
+ * <a href="/path/to/full-image.jpg" target="_blank">
+ *   <img src="/path/to/thumbnail.jpg" alt="Description" class="thumb-clickable">
+ * </a>
+ */
+
+.thumb-clickable {
+  max-width: 400px;
+  display: block;
+  margin: 30px auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+
+  &:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+}
