@@ -191,6 +191,11 @@
     <div class="form-group">
       <label for="aantal_deelnemers">Aantal deelnemers</label>
       <input type="number" id="aantal_deelnemers" name="aantal_deelnemers" min="1" max="{{ page.maxdeelnemers }}" required>
+      <p class="smalltext">
+        {% if page.maxdeelnemers and page.maxdeelnemers < 50 %}
+          Maximaal {{ page.maxdeelnemers }} deelnemers per inschrijving.
+        {% endif %}
+      </p>
     </div>
   </div>
 
@@ -201,7 +206,7 @@
         <input type="radio" id="vierdagen" name="type" checked="checked" value="FullPass">
         <div class="radio-label">
           <strong>Alle vier de dagen</strong>
-          <span class="price">€ 5,00 per deelnemer</span>
+          <span class="price">{{ page.kosten_vierdagenkaart }}</span>
           <a href="/tarieven#alle-4-dagen-meewandelen-bij-inschrijving-op-de-startlocatie" target="_blank" class="info-link">meer info</a>
         </div>
       </label>
@@ -209,7 +214,7 @@
         <input type="radio" id="dagkaart" name="type" value="DayPass">
         <div class="radio-label">
           <strong>Dagkaart</strong>
-          <span class="price">€ 3,00 per deelnemer per dag</span>
+          <span class="price">{{ page.kosten_dagkaart }}</span>
           <a href="/tarieven#per-dag-meewandelen" target="_blank" class="info-link">meer info</a>
         </div>
       </label>
