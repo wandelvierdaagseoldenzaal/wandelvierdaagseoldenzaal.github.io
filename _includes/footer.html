@@ -3,7 +3,17 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li>{% if link.icon %}<i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>{% endif %}{% if link.img %}<img src="{{ link.img }}" alt="{{ link.label }}" />{% endif %} <a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
+          <li>
+            {% assign link_url = link.url | downcase %}
+            {% if link.label == 'X' or link_url contains 'x.com' or link_url contains 'twitter.com' %}
+              <svg class="fa-fw" aria-hidden="true" viewBox="0 0 24 24" width="1em" height="1em" style="vertical-align: -0.125em;" focusable="false"><path fill="currentColor" d="M18.901 2H22.2l-7.209 8.239L23.5 22h-6.662l-5.216-6.817L5.64 22H2.339l7.711-8.824L1.9 2h6.831l4.715 6.215L18.901 2zm-1.164 18h1.828L7.737 3.894H5.777L17.737 20z"/></svg>
+            {% endif %}
+            {% unless link.label == 'X' or link_url contains 'x.com' or link_url contains 'twitter.com' %}
+              {% if link.icon %}<i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>{% endif %}
+            {% endunless %}
+            {% if link.img %}<img src="{{ link.img }}" alt="{{ link.label }}" />{% endif %}
+            <a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a>
+          </li>
         {% endif %}
       {% endfor %}
     {% endif %}
