@@ -7,9 +7,6 @@ sponsorlogos:
 - url: /assets/sponsors/AkomOldenzaal.jpeg
   name: Akom
   link: https://www.akomoldenzaal.nl/
-- url: /assets/sponsors/AutoWessel.png
-  name: Auto Wessel
-  link: https://www.auto-wessel.nl/
 - url: /assets/sponsors/BoeskoolFonds.png
   name: Boeskoolfonds
   link: https://www.boeskoolfonds.nl/
