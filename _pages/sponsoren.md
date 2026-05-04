@@ -79,6 +79,9 @@ sponsorlogos:
 - url: /assets/sponsors/MuseumOldenzaal.png
   name: Museum Oldenzaal
   link: https://museumoldenzaal.nl/
+- url: /assets/sponsors/RunEnschede.png
+  name: Run Enschede
+  link: https://www.runenschede.nl/
 classes: wide
 ---
 
