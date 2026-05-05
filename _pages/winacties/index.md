@@ -33,7 +33,7 @@ Dit jaar vallen er weer mooie prijzen te winnen, waaronder:
 
 - Een paar wandelschoenen plus bijpassende wandelsokken, beschikbaar gesteld door [Run Enschede](https://www.runenschede.nl/)
 - 2x een klimbon van Avatarz, voor het lage of hoge parcours, beschikbaar gesteld door [Avatarz](https://avatarz.nl/)
-- Toegangskaart voor Monkey Town, beschikbaar gesteld door [Monkey Town](https://www.monkeytown.eu/)
+- 3x toegangskaart voor Monkey Town, beschikbaar gesteld door [Monkey Town](https://www.monkeytown.eu/)
 - 5x 3 bolletjes ijs, beschikbaar gesteld door [IJs en Zo](https://www.twentsijsenzo.nl/)
 - 3x goodiebag van Museum Oldenzaal, beschikbaar gesteld door [Museum Oldenzaal](https://museumoldenzaal.nl/)
 - Snoeppakket van Jumbo, beschikbaar gesteld door [Jumbo Oldenzaal Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers)
