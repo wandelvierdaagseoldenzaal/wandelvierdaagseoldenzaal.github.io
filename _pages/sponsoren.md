@@ -82,6 +82,9 @@ sponsorlogos:
 - url: /assets/sponsors/RunEnschede.png
   name: Run Enschede
   link: https://www.runenschede.nl/
+- url: /assets/sponsors/AutoWessel.png
+  name: Auto Wessel
+  link: https://www.auto-wessel.nl/
 classes: wide
 ---
 
