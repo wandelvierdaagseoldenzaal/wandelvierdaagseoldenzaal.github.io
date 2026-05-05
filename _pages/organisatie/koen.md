@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 Functie: Website, Social Media en automatisering  
-Leeftijd: 43 jaar  
+Leeftijd: 44 jaar  
 Beroep: Cloud Solution Architect  
 E-mail: [koen@wandel4daagseoldenzaal.nl](mailto:koen@wandel4daagseoldenzaal.nl)  
 

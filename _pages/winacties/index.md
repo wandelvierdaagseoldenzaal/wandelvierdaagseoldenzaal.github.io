@@ -5,9 +5,7 @@ permalink: /winacties
 author_profile: false
 ---
 
-Ook dit jaar kun je weer meedoen aan weggeef- en winacties. Nadere details zullen nog bekend worden gemaakt.
-
-En daarnaast natuurlijk elke dag, zoals traditie, een lekkere sappige appel en verfrissende ranja langs beide routes.  
+Ook dit jaar kun je weer meedoen aan weggeef- en winacties en is er elke dag wel wat lekkers langs de route.  
 
 ![Appels worden uitgedeeld](/assets/images/news/2025/appelsuitdelen.png){: .align-center}  
 
@@ -19,19 +17,31 @@ Om het zo eerlijk mogelijk te houden, wordt er gekeken naar het aantal deelnemen
 
 [<img src="/assets/images/news/2026/schoolflyer.png" alt="Schoolflyer" class="align-center" style="max-height: 400px; width: auto;" />](/assets/images/news/2026/schoolflyer.png){:target="_blank" rel="noopener"}  
 
-# Deelnemen
+# Winacties
 
-Voor de twee winacties geldt dat je vanaf dit jaar kunt deelnemen door je antwoord in te sturen via je persoonlijke Wandel4Daagse Oldenzaal pagina op [mijn.wandel4daagseoldenzaal.nl](https://mijn.wandel4daagseoldenzaal.nl/winacties). Je kunt daar inloggen met het e-mailadres waarmee je je hebt ingeschreven voor de Wandel4Daagse Oldenzaal en de deelnemerscode die aan je inschrijving is toegewezen.  
+Hou je ogen goed open tijdens de route op **dinsdag** en **woensdag** en beantwoord de vragen over dingen die je onderweg tegenkomt om kans te maken op [mooie prijzen](#prijzen).  
 
-De antwoorden kunnen **uiterlijk tot donderdag 28 mei 2026 om 21.00 uur** worden ingestuurd.  
+Meedoen is heel eenvoudig, je hoeft alleen maar de antwoorden in te vullen op je persoonlijke Wandel4Daagse Oldenzaal pagina op [mijn.wandel4daagseoldenzaal.nl](https://mijn.wandel4daagseoldenzaal.nl/winacties). Je kunt daar inloggen met het e-mailadres waarmee je je hebt ingeschreven voor de Wandel4Daagse Oldenzaal en de deelnemerscode die aan je inschrijving is toegewezen. Na het invullen is je deelname aan de winacties compleet en maak je kans op mooie prijzen. Je hoeft er dus niet meer aan te denken om naderhand thuis de antwoorden in te sturen, dat kun je gewoon onderweg doen.
 
-_! Tip ! Neem zelf een pen en papier mee tijdens het wandelen om de antwoorden op te schrijven of vul ze gelijk in op je telefoon_  
+De antwoorden voor beide winacties kunnen **uiterlijk tot donderdag 28 mei 2026 om 21.00 uur** worden ingestuurd.  
 
 ![Rebus langs de route](/assets/images/news/2025/rebus.png){: .align-center}  
 
 # Prijzen
 
-De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/sponsoren). Een overzicht van de prijzen zal binnenkort worden gepubliceerd.
+Dit jaar vallen er weer mooie prijzen te winnen, waaronder:  
+
+- Een paar wandelschoenen plus bijpassende wandelsokken, beschikbaar gesteld door [Run Enschede](https://www.runenschede.nl/)
+- 2x een klimbon van Avatarz, voor het lage of hoge parcours, beschikbaar gesteld door [Avatarz](https://avatarz.nl/)
+- Toegangskaart voor Monkey Town, beschikbaar gesteld door [Monkey Town](https://www.monkeytown.eu/)
+- 5x 3 bolletjes ijs, beschikbaar gesteld door [IJs en Zo](https://www.twentsijsenzo.nl/)
+- 3x goodiebag van Museum Oldenzaal, beschikbaar gesteld door [Museum Oldenzaal](https://museumoldenzaal.nl/)
+- Snoeppakket van Jumbo, beschikbaar gesteld door [Jumbo Oldenzaal Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers)
+- Befaamde kan Wandel4Daagse Oldenzaal ranja, beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/)
+- Focus drank, beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/)
+- Stoepkrijt met jojo, beschikbaar gesteld door [Gemeente Oldenzaal](https://www.oldenzaal.nl/)
+
+De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/sponsoren).  
 
 # Uitslag
 
