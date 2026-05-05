@@ -73,7 +73,7 @@ Optreden dweilorkest Lavasjkierie vanaf 17.30 uur en vervolgens op meerdere tijd
 
 ### Jeugdcircus Tubantino
 
-Jeugdcircus Tubantino is het jeugdcircus uit Oldenzaal! Ze komen hun laatste kunsten vertonen op het Stationsplein.  
+Jeugdcircus Tubantino is het jeugdcircus uit Oldenzaal! Ze komen hun laatste kunsten vertonen bij FC Berghuizen.  
 
 [Website](https://jeugdcircus-tubantino.nl/){:target="_blank"}
 
