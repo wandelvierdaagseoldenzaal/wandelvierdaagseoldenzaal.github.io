@@ -43,6 +43,10 @@ Binnen bij Het Landhuis kun je op de toiletten je eigen flesje vullen om onderwe
 
 Binnen bij Het Landhuis zijn gratis toiletten beschikbaar voor de deelnemers. Deze zijn te bereiken via de ingang van Het Landhuis aan de zijkant, en zijn dan te vinden rechts naast de receptie.  
 
+## Gratis hondenverwenpakket
+
+Ook dit jaar is er weer een gratis hondenverwenpakket beschikbaar voor de trouwe viervoeters die mee wandelen. Deze zijn op te halen bij de finish bij Het Landhuis. De hondenverwenpakketten worden beschikbaar gesteld door [Dierenspeciaalzaak Reerink](https://reerink.nl/){:target="_blank"}. Op = op, dus wees er snel bij!  
+
 ## Vermaak onderweg
 
 Gedurende de gehele avond zal dweilorkest Krisus de muzikale klanken verzorgen rondom het startpunt en de finish.  
