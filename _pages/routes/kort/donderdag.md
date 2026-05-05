@@ -7,7 +7,7 @@ startlocatie: Hotel Het Landhuis, Bentheimerstraat 118, 7573 EC Oldenzaal
 googlemapsid: xgaK65p3DzZw87s3A
 starttijd: Tussen 18:00 en 19:00
 toonkaart: true
-#komootid: 1415768053
+komootid: 2842368381
 permalink: /routes/kort/donderdag
 ---
 
