@@ -82,9 +82,18 @@ sponsorlogos:
 - url: /assets/sponsors/RunEnschede.png
   name: Run Enschede
   link: https://www.runenschede.nl/
+- url: /assets/sponsors/MonkeyTown.png
+  name: Monkey Town
+  link: https://www.monkeytown.eu/
 - url: /assets/sponsors/AutoWessel.png
   name: Auto Wessel
   link: https://www.auto-wessel.nl/
+- url: /assets/sponsors/Avatarz.png
+  name: Avatarz
+  link: https://www.avatarz.nl/
+- url: /assets/sponsors/TwentsIjsEnZo.png
+  name: Twents IJs en Zo
+  link: https://www.twentsijsenzo.nl/
 classes: wide
 ---
 
