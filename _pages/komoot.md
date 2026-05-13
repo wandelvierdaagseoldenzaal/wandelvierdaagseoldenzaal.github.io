@@ -24,9 +24,9 @@ Komoot staat elk nieuw account toe om 1 regio gratis te kiezen om binnen te kunn
 
 ## Direct naar de routes
 
-De routes van de Wandel4Daagse zijn te vinden op de [Komoot website](https://www.komoot.com/user/3212223211369){:target="_blank"}.
+De routes van de Wandel4Daagse zijn te vinden op de [Komoot website](https://www.komoot.com/user/3212223211369/routes){:target="_blank"}.
 
-[![Vind ons op Komoot](/assets/images/findusonkomoot.png)](https://www.komoot.com/user/3212223211369){:target="_blank"}  
+[![Vind ons op Komoot](/assets/images/findusonkomoot.png)](https://www.komoot.com/user/3212223211369/routes){:target="_blank"}  
 
 ## Help, ik kom er niet uit!
 

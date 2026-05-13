@@ -22,7 +22,7 @@ Mindervaliden route: [Mariahof, Beatrixstraat 64, 7573 EC, Oldenzaal](https://go
 | 18.30 uur | Mindervaliden | [Routebeschrijving](/routes/mindervalide/vrijdag) |
 | 20.00 uur | Alle routes | Vertrek vanuit [de Potskamp](https://maps.app.goo.gl/L1BXAXWEPcQTW5i29){:target="_blank"} naar de finish op De Markt |
 
-Zoals gebruikelijk verzamelen alle deelnemers van de verschillende routes op het grasveld bij [de Potskamp](https://maps.app.goo.gl/L1BXAXWEPcQTW5i29){:target="_blank"}. Vanuit hier zullen we gezamenlijk in 1 grote stoet naar de finish op de Markt lopen, waar we met z'n allen kunnen genieten van een feestelijke afsluiting van de Wandel4Daagse Oldenzaal. We begrijpen dat het voor sommige snellere deelnemers even wachten kan zijn op de langzamere deelnemers, maar we hopen dat iedereen het leuk vindt om samen te finishen en te genieten van het feest op de Markt. We zorgen dat er voldoende vermaak aanwezig is bij de Potskamp om de tijd te doden en we hopen dat iedereen hier gezellig samenkomt.  
+Zoals gebruikelijk verzamelen alle deelnemers van de verschillende routes op het grasveld bij [de Potskamp](https://maps.app.goo.gl/L1BXAXWEPcQTW5i29){:target="_blank"}. Vanuit hier zullen we gezamenlijk in 1 grote stoet naar de finish op de Markt lopen rond 20.00 uur, waar we met z'n allen kunnen genieten van een feestelijke afsluiting van de Wandel4Daagse Oldenzaal. We begrijpen dat het voor sommige snellere deelnemers even wachten kan zijn op de langzamere deelnemers, maar we hopen dat iedereen het leuk vindt om samen te finishen en te genieten van het feest op de Markt. We zorgen dat er voldoende vermaak aanwezig is bij de Potskamp om de tijd te doden en we hopen dat iedereen hier gezellig samenkomt.  
 
 ## Parkeren
 

@@ -41,3 +41,11 @@ permalink: /routes/kort/vrijdag
 25.	Neem de 1e weg rechts (Fonteinstraat).
 26.	Ga linksaf de Molenkampstraat in.
 27.	De verzamelplek is het sportveld van het Twents Carmel College aan de rechterzijde. 
+
+Zoals gebruikelijk verzamelen alle deelnemers van de verschillende routes op het grasveld bij de Potskamp. 
+Vanuit hier zullen we gezamenlijk in 1 grote stoet naar de finish op de Markt lopen rond 20.00 uur, waar we 
+met z’n allen kunnen genieten van een feestelijke afsluiting van de Wandel4Daagse Oldenzaal. We begrijpen 
+dat het voor sommige snellere deelnemers even wachten kan zijn op de langzamere deelnemers, maar we 
+hopen dat iedereen het leuk vindt om samen te finishen en te genieten van het feest op de Markt. We 
+zorgen dat er voldoende vermaak aanwezig is bij de Potskamp om de tijd te doden en we hopen dat 
+iedereen hier gezellig samenkomt.
