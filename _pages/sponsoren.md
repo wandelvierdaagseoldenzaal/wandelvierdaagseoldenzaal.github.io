@@ -94,6 +94,9 @@ sponsorlogos:
 - url: /assets/sponsors/TwentsIjsEnZo.png
   name: Twents IJs en Zo
   link: https://www.twentsijsenzo.nl/
+- url: /assets/sponsors/SkinStudioAnnick.png
+  name: Skin Studio Annick
+  link: https://skinstudioannick.nl/
 classes: wide
 ---
 
