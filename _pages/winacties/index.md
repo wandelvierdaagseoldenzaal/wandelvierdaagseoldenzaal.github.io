@@ -21,21 +21,23 @@ Om het zo eerlijk mogelijk te houden, wordt er gekeken naar het aantal deelnemen
 
 Hou je ogen goed open tijdens de route op **dinsdag** en **woensdag** en beantwoord de vragen over dingen die je onderweg tegenkomt om kans te maken op [mooie prijzen](#prijzen).  
 
-Meedoen is heel eenvoudig, je hoeft alleen maar de antwoorden in te vullen op je persoonlijke Wandel4Daagse Oldenzaal pagina op [mijn.wandel4daagseoldenzaal.nl](https://mijn.wandel4daagseoldenzaal.nl/winacties). Je kunt daar inloggen met het e-mailadres waarmee je je hebt ingeschreven voor de Wandel4Daagse Oldenzaal en de deelnemerscode die aan je inschrijving is toegewezen. Na het invullen is je deelname aan de winacties compleet en maak je kans op mooie prijzen. Je hoeft er dus niet meer aan te denken om naderhand thuis de antwoorden in te sturen, dat kun je gewoon onderweg doen.
+Meedoen is heel eenvoudig, je hoeft alleen maar de antwoorden in te vullen op je persoonlijke Wandel4Daagse Oldenzaal pagina op [mijn.wandel4daagseoldenzaal.nl](https://mijn.wandel4daagseoldenzaal.nl/winacties). Je kunt daar inloggen met het e-mailadres waarmee je je hebt ingeschreven voor de Wandel4Daagse Oldenzaal en de deelnemerscode die aan je inschrijving is toegewezen. Na het invullen is je deelname aan de winacties compleet en maak je kans op mooie prijzen. Je hoeft er dus niet meer aan te denken om naderhand thuis de antwoorden in te sturen, dat kun je gewoon onderweg doen.  
 
 De antwoorden voor beide winacties kunnen **uiterlijk tot donderdag 28 mei 2026 om 21.00 uur** worden ingestuurd.  
+
+Voor de kinderen die zich hebben ingeschreven via school en daarmee geen eigen inschrijving hebben, zij kunnen een papieren versie van de winactie ophalen bij het startpunt op dinsdag en woensdag. Voorzie deze van je eigen naam, je klas en de naam van je school. Deze kunnen ze na afloop van de wandeling inleveren bij de finish bij de organisatie. Prijzen gewonnen op deze manier worden via de school uitgereikt.  
 
 ![Rebus langs de route](/assets/images/news/2025/rebus.png){: .align-center}  
 
 # Prijzen
 
-Dit jaar vallen er weer mooie prijzen te winnen, waaronder:  
+Dit jaar vallen er weer mooie prijzen te winnen door mee te doen aan de winacties, waaronder:  
 
-- Een paar wandelschoenen plus bijpassende wandelsokken, beschikbaar gesteld door [Run Enschede](https://www.runenschede.nl/)
 - 2x een klimbon van Avatarz, voor het lage of hoge parcours, beschikbaar gesteld door [Avatarz](https://avatarz.nl/)
 - 3x toegangskaart voor Monkey Town, beschikbaar gesteld door [Monkey Town](https://www.monkeytown.eu/)
 - 5x 3 bolletjes ijs, beschikbaar gesteld door [IJs en Zo](https://www.twentsijsenzo.nl/)
 - 3x goodiebag van Museum Oldenzaal, beschikbaar gesteld door [Museum Oldenzaal](https://museumoldenzaal.nl/)
+- 1x goodiebag van skin studio Annick, beschikbaar gesteld door [Skin Studio Annick](https://skinstudioannick.nl/)
 - Snoeppakket van Jumbo, beschikbaar gesteld door [Jumbo Oldenzaal Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers)
 - Befaamde kan Wandel4Daagse Oldenzaal ranja, beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/)
 - Focus drank, beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/)
@@ -43,8 +45,14 @@ Dit jaar vallen er weer mooie prijzen te winnen, waaronder:
 
 De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/sponsoren).  
 
+# Speciale prijs voor alle voorinschrijvers
+
+Dit jaar hebben we een speciale prijs voor alle deelnemers die zich vóór 25 mei 2026 hebben ingeschreven via onze website. Alle voorinschrijvers maken automatisch kans op een paar wandelschoenen plus bijpassende wandelsokken, beschikbaar gesteld door [Run Enschede](https://www.runenschede.nl/). Deze prijs wordt onder alle voorinschrijvers verloot, dus hier hoef je verder niets voor te doen.  
+
 # Uitslag
 
 Op vrijdag 29 mei 2026 kun je wederom via [je persoonlijke Wandel4Daagse Oldenzaal pagina](https://mijn.wandel4daagseoldenzaal.nl/winacties) kijken of je gewonnen hebt. Alle deelnemers ontvangen ook persoonlijk bericht via e-mail.  
 
 De prijzen kunnen worden opgehaald bij de de speciale stand net na de finish op vrijdag 29 mei 2026 in de [Kerkstraat in Oldenzaal](https://maps.app.goo.gl/mGp3rzqcLYbqJ1zPA){:target="_blank"}. Zorg ervoor dat je de QR-code van je Wandel4Daagse Oldenzaal inschrijving kunt tonen, zodat we kunnen controleren of je de winnaar bent en of je prijs nog niet is opgehaald.  
+
+Basisschoolkids die via papier hebben meegedaan krijgen een eventueel gewonnen prijs uitgereikt via hun school. De organisatie zal de scholen informeren over de winnaars en de prijzen die zij hebben gewonnen, zodat deze kunnen worden uitgereikt aan de kinderen.  
