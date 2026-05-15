@@ -16,7 +16,7 @@ We zetten graag wederom alle belangrijkste punten op een rijtje voor vandaag:
 - Tussen 18.00 uur en 19.00 uur kun je starten met het lopen van de **korte** route van vandaag
 - Tussen 17.45 uur en 18.30 uur kun je starten met het lopen van de **lange** route van vandaag
 - De routebeschrijvingen voor vandaag, meer informatie waar te parkeren, hoe er te komen en wat er allemaal nog meer te doen zal zijn vind je hier: [routes voor donderdag](/routes/donderdag)
-- Mocht je het leuk vinden, kun je vandaag weer meedoen aan een winactie. Deze keer door de rebus langs de route op te lossen. Een uitleg wat je moet doen, vind je hier: [uitleg over rebus winactie](/winacties/rebus)
+- Mocht je het leuk vinden, kun je vandaag weer meedoen aan een winactie. Deze keer door de rebus langs de route op te lossen.  
 - Het zal vandaag wat warmer worden dan de eerste twee dagen. Denk eraan om je mooie witte drinkbeker mee te nemen en voldoende te blijven drinken.
 - Graag extra aandacht voor het schoon houden van de routes. Gisteren is dat helaas niet helemaal gelukt.
 

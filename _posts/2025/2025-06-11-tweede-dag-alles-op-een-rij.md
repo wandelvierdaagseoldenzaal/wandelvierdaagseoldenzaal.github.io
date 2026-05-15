@@ -16,7 +16,7 @@ We zetten graag wederom alle belangrijkste punten op een rijtje voor vandaag:
 - Tussen 18.00 uur en 19.00 uur kun je starten met het lopen van de **korte** route van vandaag
 - Tussen 17.45 uur en 18.30 uur kun je starten met het lopen van de **lange** route van vandaag
 - De routebeschrijvingen voor vandaag, meer informatie waar te parkeren, hoe er te komen en wat er allemaal nog meer te doen zal zijn vind je hier: [routes voor woensdag](/routes/woensdag)
-- Mocht je het leuk vinden, kun je vandaag meedoen aan een winactie door het waterlied in elkaar te puzzelen. Een uitleg wat je moet doen, vind je hier: [uitleg over waterlied winactie](/winacties/waterlied)
+- Mocht je het leuk vinden, kun je vandaag meedoen aan een winactie door het waterlied in elkaar te puzzelen.  
 
 Het routeboekje met de daarin te lopen routes voor alle vier de dagen kun je [hier downloaden](/assets/routes/Routeboekje2025.pdf) (2,5 MB).  
 
