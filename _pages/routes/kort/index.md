@@ -12,5 +12,5 @@ De volgende korte routes van ongeveer 5 tot 6 kilometer zijn beschikbaar:
 - [Donderdag 28 mei 2026](/routes/kort/donderdag)
 - [Vrijdag 29 mei 2026](/routes/kort/vrijdag)
 
-Ook is er voor elke dag een [lange route](/lang) van ongeveer 10 tot 12 kilometer beschikbaar.  
+Ook is er voor elke dag een [lange route](/routes/lang) van ongeveer 10 tot 12 kilometer beschikbaar.  
 Tevens zal er een speciale route zijn voor [mindervaliden](/routes/mindervalide).

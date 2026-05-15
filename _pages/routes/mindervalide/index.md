@@ -11,4 +11,4 @@ De volgende routes van ongeveer 2,5 kilometer zijn beschikbaar met speciale aand
 - [Woensdag 27 mei 2026](/routes/mindervalide/woensdag)
 - [Vrijdag 29 mei 2026](/routes/mindervalide/vrijdag)
 
-Ook zijn er voor elke dag een [korte route](/kort) van ongeveer 5 tot 6 kilometer en een [lange route](/lang) van ongeveer 10 tot 12 kilometer beschikbaar. Deze kunnen echter minder goed toegankelijk zijn voor mindervaliden.  
+Ook zijn er voor elke dag een [korte route](/routes/kort) van ongeveer 5 tot 6 kilometer en een [lange route](/routes/lang) van ongeveer 10 tot 12 kilometer beschikbaar. Deze kunnen echter minder goed toegankelijk zijn voor mindervaliden.  

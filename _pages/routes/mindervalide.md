@@ -5,7 +5,7 @@ permalink: /routes/mindervalide
 author_profile: false
 ---
 
-Ook dit jaar wordt er door de Zorgfederatie Oldenzaal in samenwerking met de Wandel4daagse Oldenzaal een speciale route uitgezet voor mindervaliden in een rolstoel. De route is elke dag ongeveer 2,5 kilometer lang en duurt 3 dagen: [dinsdag](/routes/mindervalide/dinsdag), [woensdag](/routes/mindervalide/woensdag) en [vrijdag](/routes/mindervalide/vrijdag). De route zal onder begeleiding van vrijwilligers van de Zorgfederatie Oldenzaal gelopen worden. Let er op dat deze route elke dag op een andere locatie en om een andere tijd start dan de [korte](/kort) en de [lange](/lang) routes. De route zal ook geschikt zijn voor mensen die slecht ter been zijn en gebruik maken van een rollator. Het is wel de bedoeling dat je zelf een duwer regelt voor de eventuele rolstoel.  
+Ook dit jaar wordt er door de Zorgfederatie Oldenzaal in samenwerking met de Wandel4daagse Oldenzaal een speciale route uitgezet voor mindervaliden in een rolstoel. De route is elke dag ongeveer 2,5 kilometer lang en duurt 3 dagen: [dinsdag](/routes/mindervalide/dinsdag), [woensdag](/routes/mindervalide/woensdag) en [vrijdag](/routes/mindervalide/vrijdag). De route zal onder begeleiding van vrijwilligers van de Zorgfederatie Oldenzaal gelopen worden. Let er op dat deze route elke dag op een andere locatie en om een andere tijd start dan de [korte](/routes/kort) en de [lange](/routes/lang) routes. De route zal ook geschikt zijn voor mensen die slecht ter been zijn en gebruik maken van een rollator. Het is wel de bedoeling dat je zelf een duwer regelt voor de eventuele rolstoel.  
 
 ## Programma
 - [Dinsdag 26 mei 2026](/routes/mindervalide/dinsdag)

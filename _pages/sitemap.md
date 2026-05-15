@@ -7,7 +7,7 @@ author_profile: false
 
 * Media
   * [Nieuws](/nieuws)
-  * [Foto's](https://fotoboek.wandel4daagseoldenzaal.nl/){:target="_blank"}
+  * [Fotoboek](/fotoboek)
   * [Social Media](/socials)
 * Meedoen
   * [Inschrijven](/inschrijven)  
@@ -28,5 +28,12 @@ author_profile: false
   * [Algemene voorwaarden](/voorwaarden)
 * Wandelen
   * [Routes](/routes)
+  * [Dinsdag 26 mei 2026](/routes/dinsdag)
+  * [Woensdag 27 mei 2026](/routes/woensdag)
+  * [Donderdag 28 mei 2026](/routes/donderdag)
+  * [Vrijdag 29 mei 2026](/routes/vrijdag)
+  * [Korte routes](/routes/kort)
+  * [Lange routes](/routes/lang)
+  * [Mindervaliden route](/routes/mindervalide)
   * [Wandelroutes Archief](/wandelroutes)
   * [Komoot](/komoot)
