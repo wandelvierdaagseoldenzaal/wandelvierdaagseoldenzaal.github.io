@@ -37,3 +37,8 @@ voetpad in.
 19.	Blijf het pad volgen tot aan de verharde weg R34 en sla links af (Tankenbergweg).
 20.	Sla bij R30 rechtsaf de onverharde weg in.
 21.	Neem de 2e weg links (wandelpad aan het einde van de haag aan rechterzijde).
+22.	Neem het 1e pad rechts.
+23.	Sla aan het einde linksaf. 
+24.	Ga aan het einde op het fietspad rechtsaf.
+25.	Steek ter hoogte van de oprijlaan van Landgoed de Hulst linksaf de Provinciale weg over. 
+26.	Sla rechtsaf en blijf de weg volgen tot het startpunt.
