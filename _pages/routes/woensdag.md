@@ -55,12 +55,12 @@ Kijk [hier](/winacties) voor meer informatie over de winacties en de prijzen die
 
 ## Vermaak onderweg
 
-Optredens gedurende de avond van dweilorkest OKE (Dweilorkest Oln'zels Knooi Ensemble) bij de start en finish vanaf 17.30 uur en vervolgens op meerdere tijdstippen tot ongeveer 20.30 uur. Tevens zullen de leden van Zing je Fit hun musicaliteit laten horen bij Hulsbeach.  
+Optredens gedurende de avond van dweilorkest OKE (Dweilorkest Oln'zels Knooi Ensemble) bij de start en finish vanaf 17.30 uur en vervolgens op meerdere tijdstippen tot ongeveer 20.30 uur. Tevens zullen de leden van Zing je Fit hun musicaliteit laten horen bij Hulsbeach. FC Twente Scoren in de Wijk zal aanwezig zijn met leuke activiteiten voor kinderen bij Hulsbeach.  
 
-Voor de rolstoel3daagse staat [in het Kalheupinkpark](https://maps.app.goo.gl/PFN8HdCopktDG5TK9){:target="_blank"} een optreden van de Confetties gepland. 
+Voor de rolstoel3daagse staat [in het Kalheupinkpark](https://maps.app.goo.gl/PFN8HdCopktDG5TK9){:target="_blank"} een optreden van de Goedgemutst gepland. 
 
 ### Dweilorkest OKE
-De doelstelling is om gezellige muziek te maken tijdens het carnavalsseizoen. Die doelstelling hebben we zeker gehaald bij de Oldenzaalse carnavalsvereniging ‘O.C.V. De Vennemuskes’. Daarnaast spelen we inmiddels op allerlei bijeenkomsten in Nederland en Duitsland.
+De doelstelling is om gezellige muziek te maken tijdens het carnavalsseizoen. Die doelstelling hebben we zeker gehaald bij de Oldenzaalse carnavalsvereniging 'O.C.V. De Vennemuskes'. Daarnaast spelen we inmiddels op allerlei bijeenkomsten in Nederland en Duitsland.
 
 [Website](https://www.dweilorkestoke.nl/){:target="_blank"}
 
@@ -70,5 +70,14 @@ Ben jij toe om een stap verder te zetten en meer uit je passie te halen dan het 
 
 [Website](https://www.zingjefit.nl/){:target="_blank"}
     
-### Confetties
-De Confetties zijn een dameskoor dat in 2010 is opgericht. Het koor bestaat uit ongeveer 30 enthousiaste dames die met veel plezier en enthousiasme zingen. De Confetties zijn een gezelligheidskoor dat zich richt op het zingen van populaire muziek. De Confetties treden regelmatig op in de regio en zijn ook te zien op de Oldenzaalse carnavalsvereniging 'O.C.V. De Vennemuskes'.
+### Goedgemutst
+Wij zijn een gemengd koor uit Oldenzaal. en zingen gezellige schlagers, gouwe ouwe en moderne liedjes. En we treden geregeld o.a. op in verzorgingshuizen, tijdens feestjes en op smartlappenfestivals. Zoals in Amersfoort, Grave en Tiel.  
+
+Tijdens de kerstperiode treden we in onze Charles Dickens kleding met ons kerstrepertoire meerdere dagen in de binnenstad van Oldenzaal op tijdens de kerstmarkten.
+Daarnaast brengen we in deze kleding onze kerstliedjes ook in verschillende verzorgingstehuizen ten gehore.  
+
+### FC Twente Scoren in de Wijk
+
+FC Twente Scoren in de Wijk is een maatschappelijke stichting van FC Twente die zich inzet voor een gezonde en actieve leefstijl onder kinderen. Ze zullen aanwezig zijn met leuke activiteiten voor kinderen.
+
+[Website](https://fctwente.nl/club/maatschappelijk/scoren-in-de-wijk){:target="_blank"}

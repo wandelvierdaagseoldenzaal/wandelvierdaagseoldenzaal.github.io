@@ -46,7 +46,7 @@ Voor toiletgebruik zijn we aangewezen op de toiletten van de horeca in de binnen
 
 ## Vermaak onderweg
 
-Zowel bij vertrek, de Potskamp als bij terugkeer op de Markt kunnen we genieten van muzikale klanken van dweilorkest Melomanie. Vanaf 19.00 uur treden de confetties op bij de Potskamp. Op de markt en bij de Postkamp zal NextDanceStudio vanaf 17.40 uur verschillende optredens verzorgen.  
+Zowel bij vertrek, de Potskamp als bij terugkeer op de Markt kunnen we genieten van muzikale klanken van dweilorkest Melomanie. Vanaf 19.00 uur treedt Goedgemutst op bij de Potskamp. Jeugdcircus Tubantino zal hier ook aanwezig zijn voor vermaak. Op de markt en bij de Postkamp zal NextDanceStudio vanaf 17.40 uur verschillende optredens verzorgen.  
 
 ### Melomanie
 
@@ -54,13 +54,20 @@ Melomanie is een kapel uit Rossum, die naast hofkapel van carnavalsvereniging �
 
 [Website](https://www.henricus.nl/melomanie/){:target="_blank"}
 
-### Confetties
-De Confetties zijn een dameskoor dat in 2010 is opgericht. Het koor bestaat uit ongeveer 30 enthousiaste dames die met veel plezier en enthousiasme zingen. De Confetties zijn een gezelligheidskoor dat zich richt op het zingen van populaire muziek. De Confetties treden regelmatig op in de regio en zijn ook te zien op de Oldenzaalse carnavalsvereniging ‘O.C.V. De Vennemuskes’.
+### Goedgemutst
+Wij zijn een gemengd koor uit Oldenzaal. en zingen gezellige schlagers, gouwe ouwe en moderne liedjes. En we treden geregeld o.a. op in verzorgingshuizen, tijdens feestjes en op smartlappenfestivals. Zoals in Amersfoort, Grave en Tiel.  
 
-[Website](https://muziekkoepeloldenzaal.nl/nieuwsarchief/rolstoelers-blij/){:target="_blank"}
+Tijdens de kerstperiode treden we in onze Charles Dickens kleding met ons kerstrepertoire meerdere dagen in de binnenstad van Oldenzaal op tijdens de kerstmarkten.
+Daarnaast brengen we in deze kleding onze kerstliedjes ook in verschillende verzorgingstehuizen ten gehore.  
 
 ### NEXT Dance Studio
 
 De dansschool wordt gerund door Emma Saaltink en Carmen Koopman. Bij ons vind je een dynamische en inspirerende omgeving waar dansers van alle niveaus zich kunnen ontwikkelen en hun passie voor dans kunnen uiten! Bij NEXT Dance Studio hechten we veel waarde aan een positieve en ondersteunende sfeer. We willen dat onze dansers zich comfortabel voelen en zichzelf kunnen zijn. Dansen is immers niet alleen een fysieke activiteit, maar ook een sociale en emotionele ervaring. Onze studio is een plek waar je vriendschappen kunt sluiten, samen kunt groeien en jezelf kunt ontdekken.
 
 [Website](https://www.nextdancestudio.com/){:target="_blank"}
+
+### Jeugdcircus Tubantino
+
+Jeugdcircus Tubantino is het jeugdcircus uit Oldenzaal! Ze komen hun laatste kunsten vertonen bij FC Berghuizen.  
+
+[Website](https://jeugdcircus-tubantino.nl/){:target="_blank"}
