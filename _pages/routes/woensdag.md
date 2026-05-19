@@ -55,7 +55,7 @@ Kijk [hier](/winacties) voor meer informatie over de winacties en de prijzen die
 
 ## Vermaak onderweg
 
-Optredens gedurende de avond van dweilorkest OKE (Dweilorkest Oln'zels Knooi Ensemble) bij de start en finish vanaf 17.30 uur en vervolgens op meerdere tijdstippen tot ongeveer 20.30 uur. Tevens zullen de leden van Zing je Fit hun musicaliteit laten horen bij Hulsbeach. FC Twente Scoren in de Wijk zal aanwezig zijn met leuke activiteiten voor kinderen bij Hulsbeach.  
+Optredens gedurende de avond van dweilorkest OKE (Dweilorkest Oln'zels Knooi Ensemble) bij de start en finish vanaf 17.30 uur en vervolgens op meerdere tijdstippen tot ongeveer 20.30 uur. Tevens zullen de leden van Zing je Fit hun musicaliteit laten horen bij Hulsbeach.  
 
 Voor de rolstoel3daagse staat [in het Kalheupinkpark](https://maps.app.goo.gl/PFN8HdCopktDG5TK9){:target="_blank"} een optreden van de Goedgemutst gepland. 
 
@@ -75,9 +75,3 @@ Wij zijn een gemengd koor uit Oldenzaal. en zingen gezellige schlagers, gouwe ou
 
 Tijdens de kerstperiode treden we in onze Charles Dickens kleding met ons kerstrepertoire meerdere dagen in de binnenstad van Oldenzaal op tijdens de kerstmarkten.
 Daarnaast brengen we in deze kleding onze kerstliedjes ook in verschillende verzorgingstehuizen ten gehore.  
-
-### FC Twente Scoren in de Wijk
-
-FC Twente Scoren in de Wijk is een maatschappelijke stichting van FC Twente die zich inzet voor een gezonde en actieve leefstijl onder kinderen. Ze zullen aanwezig zijn met leuke activiteiten voor kinderen.
-
-[Website](https://fctwente.nl/club/maatschappelijk/scoren-in-de-wijk){:target="_blank"}
