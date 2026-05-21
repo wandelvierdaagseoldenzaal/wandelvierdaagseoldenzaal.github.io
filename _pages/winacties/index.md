@@ -47,7 +47,7 @@ De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/
 
 # Speciale prijs voor alle voorinschrijvers
 
-Dit jaar hebben we een speciale prijs voor alle deelnemers die zich vóór 25 mei 2026 hebben ingeschreven via onze website. Alle voorinschrijvers maken automatisch kans op een paar wandelschoenen plus bijpassende wandelsokken, beschikbaar gesteld door [Run Enschede](https://www.runenschede.nl/). Deze prijs wordt onder alle voorinschrijvers verloot, dus hier hoef je verder niets voor te doen.  
+Dit jaar hebben we een speciale prijs voor alle deelnemers die zich vóór 25 mei 2026 hebben ingeschreven via onze website. Alle voorinschrijvers maken automatisch kans op een paar op maat aangemeten wandelschoenen, beschikbaar gesteld door [Run Enschede](https://www.runenschede.nl/). Deze prijs wordt onder alle voorinschrijvers verloot, dus hier hoef je verder niets voor te doen.  
 
 # Uitslag
 
