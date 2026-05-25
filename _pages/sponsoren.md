@@ -97,9 +97,6 @@ sponsorlogos:
 - url: /assets/sponsors/SkinStudioAnnick.png
   name: Skin Studio Annick
   link: https://skinstudioannick.nl/
- - url: /assets/sponsors/SkinStudioAnnick.png
-  name: Skin Studio Annick
-  link: https://skinstudioannick.nl/ 
 - url: /assets/sponsors/FcTwenteScorenInDeWijk.png
   name: FC Twente Scoren in de Wijk
   link: https://fctwente.nl/club/maatschappelijk/scoren-in-de-wijk
