@@ -9,11 +9,13 @@ Om de Wandel4Daagse Oldenzaal te kunnen lopen, dien je je in te schrijven. De ko
 
 ## Alle 4 dagen meewandelen bij voorinschrijving
 
-€ 5,00 per persoon  
+De voorinschrijving is inmiddels gesloten. Je kunt je nog steeds inschrijven tegen het normale tarief.
 
-Wanneer je je vooraf inschrijft via deze website, betaal je 5,00 euro per persoon voor deelname aan alle 4 de dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.  
+~~€ 5,00 per persoon~~  
 
-Voorinschrijving is mogelijk via deze website van 7 april 2026 tot en met zondag 24 mei 2026.  
+~~Wanneer je je vooraf inschrijft via deze website, betaal je 5,00 euro per persoon voor deelname aan alle 4 de dagen van de Wandel4Daagse Oldenzaal. Je krijgt hierbij bij de finish op vrijdag een medaille als herinnering en beloning voor je deelname.~~  
+
+~~Voorinschrijving is mogelijk via deze website van 7 april 2026 tot en met zondag 24 mei 2026.~~  
 
 ## Alle 4 dagen meewandelen bij inschrijving op de startlocatie
 
