@@ -2,7 +2,7 @@
 layout: single
 title: Inschrijven Test
 permalink: /inschrijventest
-promocode: MINIMA
+promocode: STAGIAIR
 author_profile: false
 maxdeelnemers: 5
 dontindex: true
