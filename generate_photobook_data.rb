@@ -15,10 +15,14 @@ end
 # Build video mapping from OneDrive source to determine correct blob extensions
 # Thumbnails are always .jpg, but videos on blob keep their original extension (.mp4, .MOV, etc.)
 VIDEO_EXTENSIONS = %w[.mp4 .MP4 .mov .MOV .avi .AVI .wmv .WMV .mkv .MKV]
-onedrive_dir = File.join('C:', 'Users', 'koenz', 'OneDrive', 'Wandel4Daagse Oldenzaal', 'Fotoboek')
+onedrive_dirs = [
+  File.join('C:', 'Users', 'koenz', 'OneDrive - Zomers', 'Wandel4Daagse Oldenzaal - Documents', 'Fotoboek', 'Website'),
+  File.join('C:', 'Users', 'koenz', 'OneDrive', 'Wandel4Daagse Oldenzaal', 'Fotoboek')
+]
+onedrive_dir = onedrive_dirs.find { |dir| Dir.exist?(dir) }
 
 video_map = {}
-if Dir.exist?(onedrive_dir)
+if onedrive_dir
   Dir.glob(File.join(onedrive_dir, '**', '*')).each do |file_path|
     next unless File.file?(file_path)
     ext = File.extname(file_path)
@@ -32,7 +36,7 @@ if Dir.exist?(onedrive_dir)
   end
   puts "Found #{video_map.size} video files in OneDrive source"
 else
-  puts "Warning: OneDrive directory not found at #{onedrive_dir}. Video extensions will not be corrected."
+  puts "Warning: OneDrive directory not found at #{onedrive_dirs.join(' or ')}. Video extensions will not be corrected."
 end
 
 def get_blob_filename(video_map, photo, *path_parts)
