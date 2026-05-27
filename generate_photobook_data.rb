@@ -44,6 +44,8 @@ def get_blob_filename(video_map, photo, *path_parts)
   key = (path_parts.compact + [basename_no_ext]).join('/')
   if video_map.key?(key)
     basename_no_ext + video_map[key]
+  elsif path_parts == ['2026', 'dinsdag'] && photo.match?(/\ADSF\d+\.jpe?g\z/i)
+    "_#{photo}"
   else
     photo
   end
