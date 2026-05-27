@@ -34,6 +34,6 @@ Zorg dat je voldoende water bij je hebt. Er zijn op diverse plekken op Het Hulsb
 
 Tot vanavond!
 
-<a href="/assets/images/news/2026/dinsdag.png" target="_blank">
-  <img src="/assets/images/news/2026/dinsdag.png" alt="Foto van de start op dinsdag" class="thumb-clickable">
+<a href="/assets/images/news/2026/woensdag.png" target="_blank">
+  <img src="/assets/images/news/2026/woensdag.png" alt="Promo voor woensdag" class="thumb-clickable">
 </a>  
