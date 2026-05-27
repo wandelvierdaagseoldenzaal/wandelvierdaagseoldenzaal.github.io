@@ -36,6 +36,7 @@ Dit jaar vallen er weer mooie prijzen te winnen door mee te doen aan de winactie
 - 2x een klimbon van Avatarz, voor het lage of hoge parcours, beschikbaar gesteld door [Avatarz](https://avatarz.nl/)
 - 3x toegangskaart voor Monkey Town, beschikbaar gesteld door [Monkey Town](https://www.monkeytown.eu/)
 - 5x 3 bolletjes ijs, beschikbaar gesteld door [IJs en Zo](https://www.twentsijsenzo.nl/)
+- 10x goodiebag van FC Twente, beschikbaar gesteld door [FC Twente Scoren in de wijk](https://fctwente.nl/club/maatschappelijk/scoren-in-de-wijk)
 - 3x goodiebag van Museum Oldenzaal, beschikbaar gesteld door [Museum Oldenzaal](https://museumoldenzaal.nl/)
 - 1x goodiebag van skin studio Annick, beschikbaar gesteld door [Skin Studio Annick](https://skinstudioannick.nl/)
 - Snoeppakket van Jumbo, beschikbaar gesteld door [Jumbo Oldenzaal Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers)
