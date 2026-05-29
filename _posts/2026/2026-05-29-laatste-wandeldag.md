@@ -1,6 +1,6 @@
 ---
 title: "Laatste wandeldag van de Wandel4Daagse"
-last_modified_at: 2026-05-08:41:15+01:00
+last_modified_at: 2026-05-29T08:41:15+01:00
 categories:
   - nieuws
 tags:
