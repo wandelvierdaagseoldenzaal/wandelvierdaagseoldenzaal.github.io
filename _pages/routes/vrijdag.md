@@ -45,7 +45,7 @@ Op het toilet van de Bibliotheek Oldenzaal in In den Vijfhoek is gratis drinkwat
 
 Voor toiletgebruik kan gebruik gemaakt worden van de openbare toilet bij de Bibliotheek Oldenzaal.  
 
-## Vermaak onderweg
+## Vermaak
 
 In In den Vijfhoek zal divers vermaak aanwezig zijn.
 

@@ -11,7 +11,7 @@ komootid: 2741847509
 permalink: /routes/lang/vrijdag
 ---
 
-** Let op, deze route is afgelast i.v.m. de weersvoorspelling, zie [nieuwsbericht](/nieuws/let-op-gewijzigd-programma/) voor meer informatie. **
+**Let op, deze route is afgelast i.v.m. de weersvoorspelling, zie [nieuwsbericht](/nieuws/let-op-gewijzigd-programma/) voor meer informatie.**
 
 1.	Loop de Marktstraat in en volg tot het einde.
 2.	Aan het einde rechtsaf (Paradijsstraat). 
