@@ -6,29 +6,30 @@ permalink: /routes/vrijdag
 author_profile: false
 ---
 
-Voor de slotdag beginnen- en eindigen we zoals vanouds in het centrum van Oldenzaal. We duiken de mooie natuur in ten oosten van Oldenzaal. Een mooie en vooral ook feestelijke afsluiter van de Wandel4Daagse Oldenzaal.  
+Voor de slotdag hebben we een aangepast programma opgesteld in verband met de verwachte weersomstandigheden. We zullen vanavond geen wandelroutes lopen, maar in plaats daarvan organiseren we een gezellige afsluiting in [In den Vijfhoek](https://maps.app.goo.gl/Mz463B5Txph6iDCj7){:target="_blank"} tussen 18.30 uur en 19.30 uur.  
+
+Hier zullen we samenkomen, muziek hebben, en natuurlijk de medailles uitreiken, want die zijn sowieso verdiend! Graag je deelnamekaart met keycord inleveren voor het ontvangen van de medaille.  
+
+Ook zullen de prijzen van de winacties worden uitgereikt op dezelfde locatie. Zorg dat je hiervoor je QR code beschikbaar hebt. We hopen dat iedereen ondanks de aanpassingen een leuke avond zal hebben en we kijken ernaar uit om samen met jullie de 63e editie van de Wandel4Daagse Oldenzaal op een mooie manier af te sluiten. 
 
 ## Startlocatie
 
-Korte & lange route: [Marktsteen, Groote Markt Oldenzaal](https://maps.app.goo.gl/XS5ahKLpW9LCrJxu9){:target="_blank"}  
-Mindervaliden route: [Mariahof, Beatrixstraat 64, 7573 EC, Oldenzaal](https://goo.gl/maps/nSTkzPjKzGCDorGQ7){:target="_blank"}  
+Korte & lange route: [In den Vijfhoek](https://maps.app.goo.gl/Mz463B5Txph6iDCj7){:target="_blank"}  
+Mindervaliden route: Afgelasten in verband met de verwachte weersomstandigheden.
 
 ## Starttijden & routebeschrijvingen
 
 | Starttijd | Lengte | Route |
 |-------------|-------------|
-| 18.15 uur - 18.30 uur | Kort | [Routebeschrijving](/routes/kort/vrijdag) |
-| 17.30 uur - 18.00 uur | Lang | [Routebeschrijving](/routes/lang/vrijdag) |
-| 18.30 uur | Mindervaliden | [Routebeschrijving](/routes/mindervalide/vrijdag) |
-| 20.00 uur | Alle routes | Vertrek vanuit [de Potskamp](https://maps.app.goo.gl/L1BXAXWEPcQTW5i29){:target="_blank"} naar de finish op De Markt |
-
-Zoals gebruikelijk verzamelen alle deelnemers van de verschillende routes op het grasveld bij [de Potskamp](https://maps.app.goo.gl/L1BXAXWEPcQTW5i29){:target="_blank"}. Vanuit hier zullen we gezamenlijk in 1 grote stoet naar de finish op de Markt lopen rond 20.00 uur, waar we met z'n allen kunnen genieten van een feestelijke afsluiting van de Wandel4Daagse Oldenzaal. We begrijpen dat het voor sommige snellere deelnemers even wachten kan zijn op de langzamere deelnemers, maar we hopen dat iedereen het leuk vindt om samen te finishen en te genieten van het feest op de Markt. We zorgen dat er voldoende vermaak aanwezig is bij de Potskamp om de tijd te doden en we hopen dat iedereen hier gezellig samenkomt.  
+| 18.30 uur - 19.30 uur | Kort | Zie boven |
+| 18.30 uur - 19.30 uur | Lang | Zie boven |
+| 18.30 uur | Mindervaliden | Afgelast in verband met de verwachte weersomstandigheden. |
 
 ## Parkeren
 
 Voor deze locatie kun je gebruik maken van de normale parkeerplaatsen in de binnenstad van Oldenzaal. De gebruikelijke parkeerkosten zijn van toepassing. Let er daarbij op dat het koopavond is op vrijdag en dat het betaald parkeren die avond van kracht is tot 21.00 uur. Kijk voor meer informatie over parkeren in de binnenstad op de [website van de gemeente](https://www.oldenzaal.nl/parkeerautomaten-plattegronden-en-tarieven).  
 
-Fietsen graag parkeren in de fietsenstallingen in de binnenstad en niet op de Groote Markt zelf.  
+Fietsen graag parkeren in de fietsenstallingen in de binnenstad.  
 
 ## Openbaar vervoer
 
@@ -38,15 +39,15 @@ Kijk voor actuele reisinformatie op [9292.nl](https://9292.nl/){:target="_blank"
 
 ## Gratis drinkwater
 
-Op het marktplein is [een watertappunt](https://maps.app.goo.gl/KNove5gQD4T4e9m4A){:target="_blank"} aanwezig waar je gratis drinkwater kunt tappen. Neem je eigen flesje mee en vul deze bij om onderweg voldoende te kunnen drinken.  
+Op het toilet van de Bibliotheek Oldenzaal in In den Vijfhoek is gratis drinkwater beschikbaar. Neem je eigen flesje mee en vul deze daar bij het toilet.  
 
 ## Toiletten
 
-Voor toiletgebruik zijn we aangewezen op de toiletten van de horeca in de binnenstad.  
+Voor toiletgebruik kan gebruik gemaakt worden van de openbare toilet bij de Bibliotheek Oldenzaal.  
 
 ## Vermaak onderweg
 
-Zowel bij vertrek, de Potskamp als bij terugkeer op de Markt kunnen we genieten van muzikale klanken van dweilorkest Melomanie. Vanaf 19.00 uur treedt Goedgemutst op bij de Potskamp. Jeugdcircus Tubantino zal hier ook aanwezig zijn voor vermaak. Op de markt en bij de Postkamp zal NextDanceStudio vanaf 17.40 uur verschillende optredens verzorgen.  
+In In den Vijfhoek zal divers vermaak aanwezig zijn.
 
 ### Melomanie
 

@@ -52,7 +52,7 @@ Dit jaar hebben we een speciale prijs voor alle deelnemers die zich vóór 25 me
 
 # Uitslag
 
-Via [je persoonlijke Wandel4Daagse Oldenzaal pagina](https://mijn.wandel4daagseoldenzaal.nl/winacties) kun je kijken of je gewonnen hebt. Alle deelnemers ontvangen ook persoonlijk bericht via e-mail. Heb je een prijs gewonnen? Gefeliciteerd! Je kunt je prijs ophalen bij de speciale stand net na de finish op vrijdag 29 mei 2026 in de [Kerkstraat in Oldenzaal](https://maps.app.goo.gl/mGp3rzqcLYbqJ1zPA){:target="_blank"}. Zorg ervoor dat je de QR-code van je Wandel4Daagse Oldenzaal inschrijving kunt tonen, zodat we kunnen controleren of je de winnaar bent en of je prijs nog niet is opgehaald.  
+Via [je persoonlijke Wandel4Daagse Oldenzaal pagina](https://mijn.wandel4daagseoldenzaal.nl/winacties) kun je kijken of je gewonnen hebt. Alle deelnemers ontvangen ook persoonlijk bericht via e-mail. Heb je een prijs gewonnen? Gefeliciteerd! Je kunt je prijs ophalen bij de speciale stand [in De Vijfhoek](https://maps.app.goo.gl/Mz463B5Txph6iDCj7){:target="_blank"} tussen 18.30 uur en 19.30 uur op vrijdag 29 mei 2026. Zorg ervoor dat je de QR-code van je Wandel4Daagse Oldenzaal inschrijving kunt tonen, zodat we kunnen controleren of je de winnaar bent en of je prijs nog niet is opgehaald.  
 
 Heb je meegedaan en je antwoord op papier ingeleverd? Dan krijg je uiterlijk vrijdag 5 juni via school te horen als je gewonnen hebt en krijg je daar ook je prijs overhandigd. Er zijn 19 prijswinnaars onder de basisschooldeelnemers, dus de kans bestaat dat je een prijs in de wacht hebt gesleept. Gefeliciteerd alvast, mocht je gewonnen hebben!  
 
