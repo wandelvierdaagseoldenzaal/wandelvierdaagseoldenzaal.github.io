@@ -34,15 +34,15 @@ Voor de kinderen die zich hebben ingeschreven via school en daarmee geen eigen i
 Dit jaar vallen er weer mooie prijzen te winnen door mee te doen aan de winacties, waaronder:  
 
 - 2x een klimbon van Avatarz, voor het lage of hoge parcours, beschikbaar gesteld door [Avatarz](https://avatarz.nl/)
-- 3x toegangskaart voor Monkey Town, beschikbaar gesteld door [Monkey Town](https://www.monkeytown.eu/)
+- 4x toegangskaart voor Monkey Town, beschikbaar gesteld door [Monkey Town](https://www.monkeytown.eu/)
 - 5x 3 bolletjes ijs, beschikbaar gesteld door [IJs en Zo](https://www.twentsijsenzo.nl/)
 - 10x goodiebag van FC Twente, beschikbaar gesteld door [FC Twente Scoren in de wijk](https://fctwente.nl/club/maatschappelijk/scoren-in-de-wijk)
 - 3x goodiebag van Museum Oldenzaal, beschikbaar gesteld door [Museum Oldenzaal](https://museumoldenzaal.nl/)
 - 1x goodiebag van skin studio Annick, beschikbaar gesteld door [Skin Studio Annick](https://skinstudioannick.nl/)
-- Snoeppakket van Jumbo, beschikbaar gesteld door [Jumbo Oldenzaal Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers)
-- Befaamde kan Wandel4Daagse Oldenzaal ranja, beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/)
-- Focus drank, beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/)
-- Stoepkrijt met jojo, beschikbaar gesteld door [Gemeente Oldenzaal](https://www.oldenzaal.nl/)
+- 5x snoeppakket van Jumbo, beschikbaar gesteld door [Jumbo Oldenzaal Kuipers](https://www.jumbo.com/winkel/oldenzaal/jumbo-oldenzaal-kuipers)
+- 10x befaamde kan Wandel4Daagse Oldenzaal ranja, beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/)
+- 12x 2 flesjes Focus drank, beschikbaar gesteld door [Akom](https://www.akomoldenzaal.nl/)
+- 1x stoepkrijt met jojo, beschikbaar gesteld door [Gemeente Oldenzaal](https://www.oldenzaal.nl/)
 
 De prijzen van de winacties worden mede mogelijk gemaakt door [onze sponsoren](/sponsoren).  
 
@@ -52,8 +52,8 @@ Dit jaar hebben we een speciale prijs voor alle deelnemers die zich vóór 25 me
 
 # Uitslag
 
-Op vrijdag 29 mei 2026 kun je wederom via [je persoonlijke Wandel4Daagse Oldenzaal pagina](https://mijn.wandel4daagseoldenzaal.nl/winacties) kijken of je gewonnen hebt. Alle deelnemers ontvangen ook persoonlijk bericht via e-mail.  
+Via [je persoonlijke Wandel4Daagse Oldenzaal pagina](https://mijn.wandel4daagseoldenzaal.nl/winacties) kun je kijken of je gewonnen hebt. Alle deelnemers ontvangen ook persoonlijk bericht via e-mail. Heb je een prijs gewonnen? Gefeliciteerd! Je kunt je prijs ophalen bij de speciale stand net na de finish op vrijdag 29 mei 2026 in de [Kerkstraat in Oldenzaal](https://maps.app.goo.gl/mGp3rzqcLYbqJ1zPA){:target="_blank"}. Zorg ervoor dat je de QR-code van je Wandel4Daagse Oldenzaal inschrijving kunt tonen, zodat we kunnen controleren of je de winnaar bent en of je prijs nog niet is opgehaald.  
 
-De prijzen kunnen worden opgehaald bij de de speciale stand net na de finish op vrijdag 29 mei 2026 in de [Kerkstraat in Oldenzaal](https://maps.app.goo.gl/mGp3rzqcLYbqJ1zPA){:target="_blank"}. Zorg ervoor dat je de QR-code van je Wandel4Daagse Oldenzaal inschrijving kunt tonen, zodat we kunnen controleren of je de winnaar bent en of je prijs nog niet is opgehaald.  
+Heb je meegedaan en je antwoord op papier ingeleverd? Dan krijg je uiterlijk vrijdag 5 juni via school te horen als je gewonnen hebt en krijg je daar ook je prijs overhandigd. Er zijn 19 prijswinnaars onder de basisschooldeelnemers, dus de kans bestaat dat je een prijs in de wacht hebt gesleept. Gefeliciteerd alvast, mocht je gewonnen hebben!  
 
-Basisschoolkids die via papier hebben meegedaan krijgen een eventueel gewonnen prijs uitgereikt via hun school. De organisatie zal de scholen informeren over de winnaars en de prijzen die zij hebben gewonnen, zodat deze kunnen worden uitgereikt aan de kinderen.  
+Ook dit jaar hebben we weer honderden inzendingen gehad voor de winacties. Leuk om te zien hoe fanatiek jullie daarmee zijn! In totaal hebben we 53 prijzen mogen uitreiken aan gelukkige winnaars van de winacties en de op maat aangemeten wandelschoenen onder de ene gelukkige voorinschrijver. We willen iedereen bedanken die heeft meegedaan en natuurlijk ook onze [sponsoren](/sponsoren) die deze prijzen mogelijk hebben gemaakt. We hopen dat jullie allemaal veel plezier hebben gehad met het meedoen aan de winacties.
