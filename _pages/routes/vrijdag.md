@@ -15,7 +15,7 @@ Ook zullen de prijzen van de winacties worden uitgereikt op dezelfde locatie. Zo
 ## Startlocatie
 
 Korte & lange route: [In den Vijfhoek](https://maps.app.goo.gl/Mz463B5Txph6iDCj7){:target="_blank"}  
-Mindervaliden route: Afgelasten in verband met de verwachte weersomstandigheden.
+Mindervaliden route: Afgelast in verband met de verwachte weersomstandigheden.
 
 ## Starttijden & routebeschrijvingen
 
