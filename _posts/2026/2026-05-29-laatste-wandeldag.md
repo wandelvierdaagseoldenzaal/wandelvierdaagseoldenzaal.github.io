@@ -10,6 +10,6 @@ tags:
 De prachtige route door de mooie natuur rondom de Tankenberg is ook weer gelopen. Voor vandaag staat de slotdag gepland van de Wandel4Daagse Oldenzaal. Zoals jullie waarschijnlijk al hebben gezien in de weersvoorspellingen, bestaat er vanavond een kans op regen met mogelijk onweer. We houden de weersvoorspellingen goed in de gaten en komen als organisatie om 14.00 uur bij elkaar om te bekijken wat we gaan doen. Rond 15.00 uur zullen we via deze website en onze andere kanalen onze beslissing delen over het al dan niet doorgaan van de wandeling van vanavond. We hopen natuurlijk dat we gewoon kunnen wandelen, maar de veiligheid van onze deelnemers staat altijd voorop. Als het enigszins mogelijk is, gaan we er gewoon een mooie laatste wandeldag van maken. Mogelijk in aangepaste vorm. We houden jullie op de hoogte!
 
 ## Winacties
-De uitslag van de winacties wordt rond 10.00 uur bekendgemaakt via [mijn.wandel4daagseoldenzaal.nl](https://mijn.wandel4daagseoldenzaal.nl).
+De uitslag van de winacties wordt rond 10.00 uur bekendgemaakt via [mijn.wandel4daagseoldenzaal.nl](https://mijn.wandel4daagseoldenzaal.nl). Deelnemers die via school hebben deelgenomen en hun antwoord op papier hebben ingeleverd, krijgen via school te horen als ze gewonnen hebben. Deelnemers die individueel hebben deelgenomen en hun antwoord via de app hebben ingestuurd, krijgen via de app en e-mail te horen als ze gewonnen hebben.
 
 Wordt vervolgd...
