@@ -8,9 +8,7 @@ kosten_dagkaart: € 3,00 per deelnemer per dag
 kosten_vierdagenkaart: € 8,00 per deelnemer
 ---
 
-Inschrijven voor de Wandel4Daagse Oldenzaal kan eenvoudig via het onderstaande formulier. Je kunt direct de betaling voldoen per iDeal. Je ontvangt daarna meteen een bevestiging van je inschrijving per e-mail wat tevens je toegangsbewijs is.  
-
-{% include /signupform.html %}
+De inschrijving is gesloten. Tot volgend jaar!
 
 ## Algemene voorwaarden
 
