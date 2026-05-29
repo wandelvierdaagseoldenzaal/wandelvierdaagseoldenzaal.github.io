@@ -13,7 +13,7 @@ Ook dit jaar kun je weer meedoen aan weggeef- en winacties en is er elke dag wel
 
 Nieuw dit jaar is de basisscholen battle. De basisschool met naar rato de meeste deelnemende kinderen wint maar liefst 150 euro voor een naar eigen keus te besteden goed doel. Dit mag zowel een goed doel buiten, als ook binnen de school zijn, voor de eigen kids. Daarnaast worden alle kinderen op de winnende school getrakteerd op een lekker ijsje. En alsof dat nog niet genoeg is, mag de winnende school ook een jaar lang pronken met de Wandel4Daagse Oldenzaal wisselbokaal.  
 
-Om het zo eerlijk mogelijk te houden, wordt er gekeken naar het aantal deelnemende kinderen in verhouding tot het totale aantal leerlingen op de school. De school met het hoogste percentage deelnemende kinderen wint. Telling geschied tijdens de Wandel4Daagse door de organisatie op basis van het aantal kinderen die het schoolshirt dragen tijdens het wandelen. De winnende school wordt kort na afloop van de Wandel4Daagse bekend gemaakt.  
+Om het zo eerlijk mogelijk te houden, wordt er gekeken naar het aantal deelnemende kinderen in verhouding tot het totale aantal leerlingen op de school. De school met het hoogste percentage deelnemende kinderen wint. Telling geschied tijdens de Wandel4Daagse door de organisatie op basis van het aantal kinderen die het schoolshirt dragen tijdens het wandelen. De winnende school wordt in de week na afloop van de Wandel4Daagse bekend gemaakt.  
 
 [<img src="/assets/images/news/2026/schoolflyer.png" alt="Schoolflyer" class="align-center" style="max-height: 400px; width: auto;" />](/assets/images/news/2026/schoolflyer.png){:target="_blank" rel="noopener"}  
 
