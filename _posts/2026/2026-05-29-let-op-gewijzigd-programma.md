@@ -10,7 +10,7 @@ tags:
 Door de verwachte weersomstandigheden van vanavond, met grote kans op zware regenval, hagel en onweer, hebben we als organisatie besloten om het programma van de slotdag aan te passen. We willen natuurlijk dat iedereen veilig kan genieten van de laatste wandeldag, en daarom hebben we een alternatief programma opgesteld.  
 
 ## Alternatief programma vanavond
-**We zullen vanavond geen wandelroutes lopen, maar in plaats daarvan organiseren we een gezellige afsluiting [in De Vijfhoek](https://maps.app.goo.gl/Mz463B5Txph6iDCj7){:target="_blank"} tussen 18.30 uur en 19.30 uur.**  
+**We zullen vanavond geen wandelroutes lopen, maar in plaats daarvan organiseren we een gezellige afsluiting in [In den Vijfhoek](https://maps.app.goo.gl/Mz463B5Txph6iDCj7){:target="_blank"} tussen 18.30 uur en 19.30 uur.**  
 
 Hier zullen we samenkomen, muziek hebben, en natuurlijk de medailles uitreiken, want die zijn sowieso verdiend! Graag je deelnamekaart met keycord inleveren voor het ontvangen van de medaille.  
 
