@@ -745,7 +745,7 @@ body:has(.home-page) .page__footer {
 }
 
 .home-news-heading h2 {
-    font-size: 2rem;
+    font-size: clamp(2rem, 3vw, 2.2rem);
     white-space: nowrap;
 }
 
