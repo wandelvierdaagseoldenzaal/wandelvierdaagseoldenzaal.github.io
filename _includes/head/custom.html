@@ -1,10 +1,66 @@
 <!-- start custom head snippets -->
 
+<script>
+    (() => {
+        const previewParams = new URLSearchParams(window.location.search);
+        const previewPath = window.location.pathname.startsWith("/preview/");
+        if (previewParams.get("preview") !== "1" && !previewPath) return;
+
+        document.documentElement.classList.add("site-preview");
+        if (!document.querySelector('meta[name="robots"]')) {
+            const robots = document.createElement("meta");
+            robots.name = "robots";
+            robots.content = "noindex,follow";
+            document.head.appendChild(robots);
+        }
+        if (!document.querySelector('link[href*="family=Caveat"]')) {
+            const fontStylesheet = document.createElement("link");
+            fontStylesheet.rel = "stylesheet";
+            fontStylesheet.href = "https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Nunito:wght@700;800;900&family=Nunito+Sans:wght@400;500;600;700;800&display=swap";
+            document.head.appendChild(fontStylesheet);
+        }
+        document.addEventListener("DOMContentLoaded", () => {
+            document.querySelectorAll('a[href]').forEach((link) => {
+                const url = new URL(link.href, window.location.href);
+                if (url.origin !== window.location.origin || url.pathname.startsWith("/assets/") || url.pathname.startsWith("/preview/")) return;
+                if (/\.(pdf|docx?|xlsx?|jpe?g|png|gif|webp|svg|zip)$/i.test(url.pathname)) return;
+                url.searchParams.set("preview", "1");
+                link.href = url.href;
+            });
+        });
+    })();
+</script>
+
 {% if page.preview_home %}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Nunito:wght@700;800;900&family=Nunito+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 {% endif %}
+
+<script>
+    (() => {
+        const previewParams = new URLSearchParams(window.location.search);
+        const previewPath = window.location.pathname.startsWith("/preview/");
+        if (previewParams.get("preview") !== "1" && !previewPath) return;
+
+        document.documentElement.classList.add("site-preview");
+        document.addEventListener("DOMContentLoaded", () => {
+            document.querySelectorAll('a[href], form[action]').forEach((element) => {
+                const attribute = element.tagName === "FORM" ? "action" : "href";
+                const url = new URL(element.getAttribute(attribute), window.location.href);
+                if (url.origin !== window.location.origin || url.pathname.startsWith("/assets/") || url.pathname.startsWith("/preview/")) return;
+                if (/\.(pdf|docx?|xlsx?|jpe?g|png|gif|webp|svg|zip)$/i.test(url.pathname)) return;
+                if (url.pathname === "/") {
+                    url.pathname = "/preview/";
+                    url.searchParams.delete("preview");
+                } else {
+                    url.searchParams.set("preview", "1");
+                }
+                element.setAttribute(attribute, url.href);
+            });
+        });
+    })();
+</script>
 
 {% if site.favicon %}
     <link rel="icon" type="image/x-icon" href="{{ site.favicon }}">

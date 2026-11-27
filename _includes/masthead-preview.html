@@ -1,9 +1,9 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
-<div class="masthead">
+<div class="masthead preview-masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="{% if page.preview_home %}site-nav{% else %}preview-site-nav{% endif %}" class="{% if page.preview_home %}greedy-nav{% else %}preview-nav{% endif %}">
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/preview/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}

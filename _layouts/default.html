@@ -23,7 +23,8 @@
     {% if page.preview_home %}
       {% include masthead-preview.html %}
     {% else %}
-      {% include_cached masthead.html %}
+      <div class="standard-masthead">{% include_cached masthead.html %}</div>
+      <div class="staged-masthead">{% include masthead-preview.html %}</div>
     {% endif %}
 
     <div class="initial-content">
