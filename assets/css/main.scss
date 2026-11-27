@@ -300,6 +300,10 @@ a.btn-submit:hover, a.btn-signup:hover {
     line-height: 1.05;
 }
 
+.home-page .home-section-heading h2 .header-link {
+    display: none !important;
+}
+
 .home-section-heading h2::after {
     position: absolute;
     bottom: -0.5rem;
