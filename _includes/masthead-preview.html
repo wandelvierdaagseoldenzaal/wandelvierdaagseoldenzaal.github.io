@@ -1,0 +1,86 @@
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/preview/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+        {% endunless %}
+        <a class="site-title" href="{{ '/preview/' | relative_url }}">
+          {{ site.masthead_title | default: site.title }}
+          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
+        </a>
+        {% assign current_nav_url = page.url | remove: 'index.html' | remove_first: '/' | remove_last: '/' %}
+        <ul class="visible-links">
+          {%- for link in site.data.preview_navigation.main -%}
+            {% unless link.title == 'Schrijf je in' %}
+              {% assign normalized_link_url = link.url | remove_first: '/' | remove_last: '/' %}
+              {% assign nav_is_current = false %}
+              {% assign nav_is_active = false %}
+              {% if current_nav_url == normalized_link_url %}
+                {% assign nav_is_current = true %}
+                {% assign nav_is_active = true %}
+              {% elsif normalized_link_url != '' %}
+                {% assign nav_prefix = normalized_link_url | append: '/' %}
+                {% if current_nav_url contains nav_prefix %}
+                  {% assign nav_is_active = true %}
+                {% endif %}
+              {% endif %}
+              {% if link.children %}
+                {% for child in link.children %}
+                  {% assign normalized_child_url = child.url | remove_first: '/' | remove_last: '/' %}
+                  {% if current_nav_url == normalized_child_url %}
+                    {% assign nav_is_active = true %}
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}"{% if nav_is_active %} class="is-active"{% endif %}{% if nav_is_current %} aria-current="page"{% endif %}{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}{% if link.children %}<i class="fas fa-chevron-down nav-dropdown-icon" aria-hidden="true"></i>{% endif %}</a>
+                {% if link.children %}
+                  <ul class="masthead-dropdown">
+                    {% for child in link.children %}
+                      {% assign normalized_child_url = child.url | remove_first: '/' | remove_last: '/' %}
+                      <li><a href="{{ child.url | relative_url }}"{% if current_nav_url == normalized_child_url %} class="is-active" aria-current="page"{% endif %}>{{ child.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endunless %}
+          {%- endfor -%}
+        </ul>
+        <a class="home-header-cta" href="{{ '/inschrijven' | relative_url }}">Schrijf je in <span aria-hidden="true">→</span></a>
+        {% if site.search == true %}
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
+          <i class="fas fa-search"></i>
+        </button>
+        {% endif %}
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+        <details class="home-mobile-menu">
+          <summary aria-label="Menu"><i class="fas fa-bars" aria-hidden="true"></i></summary>
+          <div class="home-mobile-menu__panel">
+            <ul>
+              {% for link in site.data.preview_navigation.main %}
+                <li>
+                  <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+                  {% if link.children %}
+                    <ul>
+                      {% for child in link.children %}
+                        <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </details>
+      </nav>
+    </div>
+  </div>
+</div>

@@ -1,6 +1,8 @@
 ---
 title: "Rabo ClubSupport 2026 - Stem jij op ons?"
 last_modified_at: 2026-09-07T15:41:00+01:00
+header:
+  teaser: /assets/images/news/2026/raboclubsupport2026.png
 categories:
   - nieuws
 tags:

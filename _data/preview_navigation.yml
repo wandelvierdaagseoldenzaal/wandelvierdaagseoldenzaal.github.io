@@ -1,0 +1,49 @@
+main:
+  - title: "Home"
+    url: /preview/
+  - title: "De vier dagen"
+    url: /routes
+    children:
+      - title: "Dag 1 · Berghuizen"
+        url: /routes/dinsdag
+      - title: "Dag 2 · Het Hulsbeek"
+        url: /routes/woensdag
+      - title: "Dag 3 · Het Landhuis"
+        url: /routes/donderdag
+      - title: "Dag 4 · Potskamp"
+        url: /routes/vrijdag
+  - title: "Praktische info"
+    url: /tarieven
+    children:
+      - title: "Wanneer & kosten"
+        url: /tarieven
+      - title: "Routes & afstanden"
+        url: /routes
+      - title: "Startlocaties"
+        url: /routes
+      - title: "Toegankelijkheid"
+        url: /routes/mindervalide
+  - title: "Meedoen"
+    url: /inschrijven
+    children:
+      - title: "Voor wandelaars"
+        url: /wandelroutes
+      - title: "Voor vrijwilligers"
+        url: /vrijwilligers
+      - title: "Scholen & verenigingen"
+        url: /organisatie
+      - title: "Voor ondernemers"
+        url: /sponsoren
+  - title: "Over ons"
+    url: /organisatie
+    children:
+      - title: "Missie & visie"
+        url: /organisatie
+      - title: "Organisatie"
+        url: /organisatie
+      - title: "Contact"
+        url: /contact
+  - title: "Nieuws"
+    url: /nieuws
+  - title: "Schrijf je in"
+    url: /inschrijven

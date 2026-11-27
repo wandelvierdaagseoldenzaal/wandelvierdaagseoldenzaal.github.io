@@ -1,0 +1,93 @@
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<style>
+  .sponsors-slider {
+    position: relative;
+    overflow: hidden;
+    padding: 0.75rem 0;
+  }
+
+  .sponsors-slider__track {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    animation: sponsors-scroll 90s linear infinite;
+  }
+
+  .sponsors-slider__item {
+    flex: 0 0 auto;
+    width: clamp(130px, 20vw, 190px);
+    height: 90px;
+    margin-right: 1.25rem;
+    background: #fff;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  }
+
+  .sponsors-slider__item img {
+    max-width: 100%;
+    max-height: 70px;
+    object-fit: contain;
+  }
+
+  .sponsors-slider:hover .sponsors-slider__track {
+    animation-play-state: paused;
+  }
+
+  @keyframes sponsors-scroll {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+</style>
+
+<div id="main" class="home-page" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+
+    <section id="Sponsoren">
+      <h2>Sponsoren</h2>
+      {% assign sponsors_page = site.pages | where: "path", "_pages/sponsoren.md" | first %}
+      {% if sponsors_page and sponsors_page.sponsorlogos %}
+      <div class="sponsors-slider" aria-label="Sponsoren logo overzicht">
+        <div class="sponsors-slider__track">
+          {% for repeat in (1..2) %}
+            {% for logo in sponsors_page.sponsorlogos %}
+              <div class="sponsors-slider__item">
+                {% if logo.link %}
+                  <a href="{{ logo.link }}" target="_blank" rel="noopener noreferrer" title="{{ logo.name }}">
+                    <img src="{{ logo.url }}" alt="{{ logo.name }}" loading="lazy" decoding="async">
+                  </a>
+                {% else %}
+                  <img src="{{ logo.url }}" alt="{{ logo.name }}" loading="lazy" decoding="async">
+                {% endif %}
+              </div>
+            {% endfor %}
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    </section>
+
+    {% if layout.enablecountdown == true %}
+      <section id="CountDownSection">
+        {% include countdown.html %}
+      </section>
+    {% endif %}
+  </article>
+</div>
+{% include participantscounter.html %}

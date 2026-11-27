@@ -1,0 +1,33 @@
+<section id="LaatsteNieuws" class="postsarea home-news-band" aria-labelledby="news-title">
+  <div class="home-section-heading home-news-heading">
+    <div><p class="home-kicker">Uit Oldenzaal</p><h2 id="news-title">Laatste nieuws</h2></div>
+    <p>Updates, verhalen en praktische informatie over de Wandel4Daagse.</p>
+    <a class="home-text-link" href="/nieuws"><span class="home-text-link__label">Bekijk alle nieuwsberichten</span><span aria-hidden="true">→</span></a>
+  </div>
+  <div class="home-news-grid">
+    {% assign allposts = site.posts | where_exp: "item", "item.hidden != true" | where_exp: "item", "item.layout != 'route'" %}
+    {% for post in allposts limit:4 %}
+      {% assign news_image = post.header.teaser %}
+      {% unless news_image %}
+        {% if post.title contains "slotdag" or post.title contains "Laatste wandeldag" %}
+          {% assign news_image = "https://oldenzaal-four-evenings-walk.lovable.app/assets/dag4-potskamp-Cqq5WP30.jpg" %}
+        {% elsif post.title contains "derde wandeldag" or post.title contains "Derde wandeldag" %}
+          {% assign news_image = "https://oldenzaal-four-evenings-walk.lovable.app/assets/dag3-landhuis-BQm0XkO_.jpg" %}
+        {% else %}
+          {% assign news_image = "/assets/images/teamfoto2025.jpg" %}
+        {% endif %}
+      {% endunless %}
+      <article class="home-news-card">
+        <a class="home-news-card__image" href="{{ post.url | relative_url }}" aria-label="Lees {{ post.title | escape }}">
+          <img src="{{ news_image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy" decoding="async">
+        </a>
+        <div class="home-news-card__body">
+          <p class="home-news-card__date"><i class="far fa-calendar-alt" aria-hidden="true"></i>{{ post.date | date: "%-d %B %Y" }}</p>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="home-news-card__excerpt">{{ post.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 135 }}</p>
+          <a class="home-text-link" href="{{ post.url | relative_url }}"><span class="home-text-link__label">Lees het bericht</span><span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>

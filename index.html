@@ -7,13 +7,7 @@ header:
   overlay_image: /assets/images/banner2024.png
   overlay_top_image: /assets/images/logo.png
   overlay_show_title: false
-  #video:
-  # provider: youtube
-  # id: g6AJ9qPPoyc
-  #actions:
-  #  - label: "<i class='fas'></i> Inschrijven"
-  #    url: "/inschrijven"
-excerpt: > 
+excerpt: >
     De 64<sup>e</sup> Wandel4Daagse Oldenzaal wordt gehouden van dinsdag 18 mei t/m vrijdag 21 mei 2027
 feature_row:
   - title: "Rabo ClubSupport 2026"
@@ -35,7 +29,7 @@ feature_row:
     excerpt: "De routes vinden plaats in en rondom Oldenzaal. Je kunt kiezen uit een route van ongeveer 5 km per dag of een route van ongeveer 12 km per dag."
     url: "/routes"
     btn_class: "btn-green"
-    btn_label: "Lees meer"    
+    btn_label: "Lees meer"
   - title: "Wandelaars"
     title_style: "text-align:center;"
     excerpt: "<div style='text-align:center;'><span id='deelnemers'><span class='wave-dots'><span>.</span><span>.</span><span>.</span></span></span><br/>wandelaars hebben deelgenomen aan de Wandel4Daagse Oldenzaal 2026</div>"
@@ -43,7 +37,7 @@ feature_row:
     excerpt: "De uitslag van de winacties zijn bekendgemaakt"
     url: "/winacties"
     btn_class: "btn-green"
-    btn_label: "Lees meer"  
+    btn_label: "Lees meer"
 feature_row2:
   - image_path: /assets/images/collage.png
     alt: "Fotocollectie Wandel4Daagse Oldenzaal"
@@ -55,63 +49,20 @@ feature_row2:
 ---
 
 <style>
-  /* Align buttons at the bottom of feature boxes */
-  .feature__wrapper {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .feature__item {
-    float: none !important;
-    display: flex;
-  }
-  .feature__item .archive__item {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-  }
-  .feature__item .archive__item-body {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-  }
-  .feature__item .archive__item-excerpt {
-    flex: 1;
-  }
-  /* Highlight the Wandelaars counter */
-  .feature__item:nth-child(5) .archive__item-body {
-    border: 2px solid #7ab929;
-    border-radius: 8px;
-    padding: 1.5em;
-    text-align: center;
-  }
-  .feature__item:nth-child(5) #deelnemers {
-    font-size: 2.5em;
-    font-weight: bold;
-    color: #7ab929;
-  }
-  /* Wave dots loading animation */
-  .wave-dots {
-    display: inline-flex;
-    gap: 0.15em;
-    font-size: 2em;
-    line-height: 0.5;
-    color: #7ab929;
-  }
-  .wave-dots span {
-    animation: wave 1.4s ease-in-out infinite;
-  }
-  .wave-dots span:nth-child(2) {
-    animation-delay: 0.2s;
-  }
-  .wave-dots span:nth-child(3) {
-    animation-delay: 0.4s;
-  }
-  @keyframes wave {
-    0%, 60%, 100% { transform: translateY(0); }
-    30% { transform: translateY(-0.4em); }
-  }
+  .feature__wrapper { display: flex; flex-wrap: wrap; }
+  .feature__item { float: none !important; display: flex; }
+  .feature__item .archive__item { display: flex; flex-direction: column; width: 100%; }
+  .feature__item .archive__item-body { display: flex; flex-direction: column; flex: 1; }
+  .feature__item .archive__item-excerpt { flex: 1; }
+  .feature__item:nth-child(5) .archive__item-body { border: 2px solid #7ab929; border-radius: 8px; padding: 1.5em; text-align: center; }
+  .feature__item:nth-child(5) #deelnemers { font-size: 2.5em; font-weight: bold; color: #7ab929; }
+  .wave-dots { display: inline-flex; gap: 0.15em; font-size: 2em; line-height: 0.5; color: #7ab929; }
+  .wave-dots span { animation: wave 1.4s ease-in-out infinite; }
+  .wave-dots span:nth-child(2) { animation-delay: 0.2s; }
+  .wave-dots span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes wave { 0%, 60%, 100% { transform: translateY(0); } 30% { transform: translateY(-0.4em); } }
 </style>
 
 {% include feature_row %}
-
 {% include feature_row id="feature_row2" type="left" %}
+

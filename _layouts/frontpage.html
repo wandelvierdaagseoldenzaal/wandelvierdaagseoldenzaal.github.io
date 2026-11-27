@@ -4,6 +4,9 @@ enablecountdown: true
 countdownto: "2027-05-18 17:00:00"
 ---
 
+{% if page.preview_home %}
+  {% include frontpage-preview-content.html %}
+{% else %}
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -73,12 +76,12 @@ countdownto: "2027-05-18 17:00:00"
     <div class="postsarea">
       <section id="LaatsteNieuws">
         <h2>Laatste nieuws</h2>
-          <div class="entries-{{ entries_layout }} feature__wrapper">
-            {% assign allposts = site.posts  | where_exp: "item", "item.hidden != true" | where_exp: "item", "item.layout != 'route'" %}
-            {% for post in allposts limit:4 %}
-              {% include archive-single.html type=entries_layout %}
-            {% endfor %}
-          </div>
+        <div class="entries-{{ entries_layout }} feature__wrapper">
+          {% assign allposts = site.posts | where_exp: "item", "item.hidden != true" | where_exp: "item", "item.layout != 'route'" %}
+          {% for post in allposts limit:4 %}
+            {% include archive-single.html type=entries_layout %}
+          {% endfor %}
+        </div>
       </section>
       <section id="Sponsoren">
         <h2>Sponsoren</h2>
@@ -102,8 +105,8 @@ countdownto: "2027-05-18 17:00:00"
             </div>
           </div>
           {% endif %}
-      </section> 
-    </div> 
+      </section>
+    </div>
 
     {% if layout.enablecountdown == true %}
       <section id="CountDownSection">
@@ -113,3 +116,4 @@ countdownto: "2027-05-18 17:00:00"
   </article>
 </div>
 {% include participantscounter.html %}
+{% endif %}
