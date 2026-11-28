@@ -1063,12 +1063,13 @@ body:has(.home-page) .home-mobile-menu { display: none; }
     }
 
     body:has(.home-page) .home-mobile-menu__panel {
-        position: absolute;
-        top: calc(100% + 0.5rem);
-        right: 0;
+        position: fixed;
+        top: calc(80px + env(safe-area-inset-top, 0px));
+        right: max(12px, calc((100vw - 360px) / 2));
         z-index: 40;
-        width: min(320px, calc(100vw - 2rem));
-        max-height: calc(100vh - 100px);
+        width: min(360px, calc(100vw - 24px));
+        max-height: calc(100vh - 96px);
+        max-height: calc(100dvh - 96px);
         overflow-y: auto;
         border: 1px solid #e1e7eb;
         border-radius: 8px;
@@ -1110,7 +1111,7 @@ body:has(.home-page) .home-mobile-menu { display: none; }
     body:has(.home-page) .home-mobile-menu { position: relative; display: block; }
     body:has(.home-page) .home-mobile-menu > summary { display: grid; width: 40px; height: 40px; place-items: center; color: #073a78; cursor: pointer; font-size: 1.25rem; list-style: none; }
     body:has(.home-page) .home-mobile-menu > summary::-webkit-details-marker { display: none; }
-    body:has(.home-page) .home-mobile-menu__panel { position: absolute; top: calc(100% + 0.5rem); right: 0; z-index: 40; width: min(320px, calc(100vw - 2rem)); max-height: calc(100vh - 100px); overflow-y: auto; border: 1px solid #e1e7eb; border-radius: 8px; background: #fff; box-shadow: 0 12px 28px rgba(11, 42, 75, 0.18); }
+    body:has(.home-page) .home-mobile-menu__panel { position: fixed; top: calc(80px + env(safe-area-inset-top, 0px)); right: max(12px, calc((100vw - 360px) / 2)); z-index: 40; width: min(360px, calc(100vw - 24px)); max-height: calc(100vh - 96px); max-height: calc(100dvh - 96px); overflow-y: auto; border: 1px solid #e1e7eb; border-radius: 8px; background: #fff; box-shadow: 0 12px 28px rgba(11, 42, 75, 0.18); }
     body:has(.home-page) .home-mobile-menu__panel ul { margin: 0; padding: 0; list-style: none; }
     body:has(.home-page) .home-mobile-menu__panel > ul > li { padding: 0.35rem 0; border-bottom: 1px solid #e8edf0; }
     body:has(.home-page) .home-mobile-menu__panel a { display: block; padding: 0.55rem 1rem; color: #073a78; font-size: 0.88rem; font-weight: 700; text-decoration: none; }
