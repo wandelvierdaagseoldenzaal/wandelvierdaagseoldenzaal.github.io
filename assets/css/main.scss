@@ -1482,12 +1482,13 @@ html.site-preview .page__footer {
     }
 
     html.site-preview .preview-nav .home-mobile-menu__panel {
-        position: absolute;
-        top: calc(100% + 0.5rem);
-        right: 0;
+        position: fixed;
+        top: calc(64px + env(safe-area-inset-top, 0px));
+        right: max(12px, calc((100vw - 360px) / 2));
         z-index: 40;
-        width: min(320px, calc(100vw - 2rem));
-        max-height: calc(100vh - 100px);
+        width: min(360px, calc(100vw - 24px));
+        max-height: calc(100vh - 88px);
+        max-height: calc(100dvh - 88px);
         overflow-y: auto;
         border: 1px solid #e1e7eb;
         border-radius: 8px;
